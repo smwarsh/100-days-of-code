@@ -20,6 +20,8 @@
 
 **Link to work**: [Repo With JSON Files](https://github.com/smwarsh/javascript-exercises)
 
+**Tomorrow**: Fix up website a little bit. Add hyperlinks to blog post. Continue Basic JavaScript curriculum on FreeCodeCamp.
+
 <!---
 ### Day 1: June 27, Monday
 
