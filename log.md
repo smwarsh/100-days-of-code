@@ -18,7 +18,7 @@
 
 **Thoughts**: I can't believe I didn't do this a year ago. It's so easy to just sit down and code. Today was all review and quite easy, but I feel like this time I will get past the JavaScript basics, so hopefully this is my last time "learning" them.
 
-**Link(s) to work**: [GitHub Repository With FreeCodeCamp Challenge JSON Files](https://github.com/smwarsh/javascript-exercises)
+**Link to work**: [Repo With JSON Files](https://github.com/smwarsh/javascript-exercises)
 
 <!---
 ### Day 1: June 27, Monday
