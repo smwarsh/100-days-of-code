@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: August 10, 2018
-##### <!---(delete me or comment me out)--->
+<!---##### (delete me or comment me out)--->
 
 **Today's Progress**: Refamiliarized myself with GitHub, changed username to smwarsh so it will be consistent across platforms, refamiliarized myself with basic terminal commands, updated my website for the first time since August 2017! Made new "Blog" page on my website with a post about my expectations and goals for this challenge
 
