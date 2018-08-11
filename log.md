@@ -12,7 +12,7 @@
 
 ### Day 2: August 11, 2018
 
-**Today's Progress**: Signed up for FreeCodeCamp and started Basic JavaScript curriculum. Also took the new coders survey and uploaded my challenges to GitHub.
+**Today's Progress**: Signed up for FreeCodeCamp and started Basic JavaScript curriculum. Did 36 challenges. Also took the new coders survey and uploaded my challenges to GitHub.
 
 **Time Spent Coding**: 1h 10m
 
