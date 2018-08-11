@@ -5,6 +5,8 @@
 
 **Today's Progress**: Refamiliarized myself with GitHub, changed username to smwarsh so it will be consistent across platforms, refamiliarized myself with basic terminal commands, updated my website for the first time since August 2017! Made new "Blog" page on my website with a post about my expectations and goals for this challenge
 
+**Time Spent Coding**: 1h 32m
+
 **Thoughts:** I'm frustrated. I made a new page for my website because I just want a simple dumb text page to put this blog post on (I'll make it pretty later). It looks silly with only the basic formatting that I already have in my CSS for my site, so I added some new classes and called them in CSS, etc. But for some reason, although the CSS pretends to be updated, it's not. I even put the new CSS file online because I thought it might be a MAMP issue, but there is no sign of any edits when I look at the page source. But when I download the file from Cyberduck, the edits ARE in the file! I'm baffled! I'm usually very good at figuring out these types of problems, after being a lab TA for an intro to web design class for so long, but I'm stumped. Maybe it's just taking awhile to sync? I can't figure it out.
 
 **Link to work:** [Blog Page](https://www.stephwarsh.com/blog.php)
