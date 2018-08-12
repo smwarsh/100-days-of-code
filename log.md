@@ -21,8 +21,6 @@
 
 **Link to work**: [Repo With JSON Files](https://github.com/smwarsh/javascript-exercises)
 
-**Tomorrow**: Fix up website a little bit. Add hyperlinks to blog post. Continue Basic JavaScript curriculum on FreeCodeCamp.
-
 
 ### Day 3: August 12, 2018
 
@@ -35,3 +33,7 @@
 **Link(s) to work**
 1. [Blog Page](https://www.stephwarsh.com/blog.php)
 2. [Repo With JSON Files](https://github.com/smwarsh/javascript-exercises)
+
+**Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp.
+
+**Ideas**: Implement Web Mentions once I get my website on a WordPress CMS
