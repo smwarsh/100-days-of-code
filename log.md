@@ -10,6 +10,7 @@
 
 **Link to work:** [Blog Page](https://www.stephwarsh.com/blog.php)
 
+
 ### Day 2: August 11, 2018
 
 **Today's Progress**: Signed up for FreeCodeCamp and started Basic JavaScript curriculum. Did 36 challenges. Also took the new coders survey and uploaded my challenges to GitHub.
@@ -22,14 +23,15 @@
 
 **Tomorrow**: Fix up website a little bit. Add hyperlinks to blog post. Continue Basic JavaScript curriculum on FreeCodeCamp.
 
-<!---
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 3: August 12, 2018
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: I updated some small things on my website so it doesn't say I'm a student in Rochester anymore! I fixed up the blog page quite a bit: added hyperlinks, tested and fixed them, styled the page, looked up a bunch of CSS stuff as a refresher while doing this. In the last bit of the hour I did 14 Basic JavaScript challenges on FreeCodeCamp.
+
+**Time Spent Coding**: 1h 5m
+
+**Thoughts**: My suspicions were correct! It was the cache all along that was keeping me from seeing my updates to the CSS on my website. Evil cache! I'm glad I figured that out and was able to update my site. Doing work on my website is far more fun and engaging than doing the exercises on FreeCodeCamp in JavaScript, but I know I have to keep plugging away at the JavaScript if I want to become a competitive job candidate for a web dev job.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
---->
+1. [Blog Page](https://www.stephwarsh.com/blog.php)
+2. [Repo With JSON Files](https://github.com/smwarsh/javascript-exercises)
