@@ -34,6 +34,19 @@
 1. [Blog Page](https://www.stephwarsh.com/blog.php)
 2. [Repo With JSON Files](https://github.com/smwarsh/javascript-exercises)
 
-**Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp.
 
-**Ideas**: Implement Web Mentions once I get my website on a WordPress CMS
+### Day 4: August 13, 2018
+
+**Today's Progress**: I worked on the Basic JavaScript course in FreeCodeCamp for half an hour. Then I started and completed the Basic HTML course under the Responsive Web Design Certification in FreeCodeCamp for the rest of the time.
+
+**Time Spent Coding**: 1h 7m
+
+**Thoughts**: I feel like there is so much to do, and only coding for an hour a day won't be fast enough! But doing just a little bit every day is still getting something done, and I am proud of that. The JS course is still all review, although there was one challenging task where I had to remember the pop and shift functions from last time. I was pleased when I got it right! The HTML course was, of course, review, but I was surprised how much I got from it. I learned a couple small new things, learned some best practices, and got a good review of forms. I wish the info on forms was more comprehensive. It doesn't give you the information to actually send form submissions to an email or website and receive them there, which is a problem if you actually want to make a form yourself.
+
+**Link(s) to work**
+1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
+2. [Repo With HTML Challenge Files](https://github.com/smwarsh/web-design-exercises)
+
+**Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp, start Basic CSS curriculum, create a contact form on my website (How do you make the form send data to yourself? Look this up)
+
+**Ideas**: Implement Web Mentions once I get my website on a WordPress CMS. Create a contact form on my website.
