@@ -50,3 +50,21 @@
 **Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp, start Basic CSS curriculum, create a contact form on my website (How do you make the form send data to yourself? Look this up)
 
 **Ideas**: Implement Web Mentions once I get my website on a WordPress CMS. Create a contact form on my website.
+
+
+
+### Day 5: August 14, 2018
+
+**Today's Progress**: I worked on the Basic JavaScript course in FreeCodeCamp for half an hour. For the rest of the time, I worked on a contact form for my website.
+
+**Time Spent Coding**: 1h 6m
+
+**Thoughts**: The JavaScript challenges required a little more independent thinking and coding today, which was nice. Everything is still review, but I don't resent the review. I'd be lost without it. There is so much to consider for a contact form for my website. For one thing, I need to figure out how to make the textarea box responsive to page size. When I tested it on a smaller page width, it broke the boundaries of the container. So, I just left it very small for now. This is definitely something I have to look into.
+
+**Link(s) to work**
+1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
+2. [In-Progress Contact Form on my Website](http://stephwarsh.com/contact.php)
+
+**Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp. Make the contact form work. Style the contact form.
+
+**Ideas**: Implement Web Mentions once I get my website on a WordPress CMS.
