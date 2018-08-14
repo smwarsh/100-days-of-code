@@ -55,7 +55,7 @@
 
 ### Day 5: August 14, 2018
 
-**Today's Progress**: I worked on the Basic JavaScript course in FreeCodeCamp for half an hour. For the rest of the time, I worked on a contact form for my website.
+**Today's Progress**: I worked on the Basic JavaScript course in FreeCodeCamp for half an hour. For the rest of the time, I worked on a contact form for my website. I wanted to start the Basic CSS curriculum too, but I need to keep this to two projects at a time.
 
 **Time Spent Coding**: 1h 6m
 
@@ -63,7 +63,7 @@
 
 **Link(s) to work**
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
-2. [In-Progress Contact Form on my Website](http://stephwarsh.com/contact.php)
+2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
 
 **Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp. Make the contact form work. Style the contact form.
 
