@@ -55,9 +55,9 @@
 
 ### Day 5: August 14, 2018
 
-**Today's Progress**: I worked on the Basic JavaScript course in FreeCodeCamp for half an hour. For the rest of the time, I worked on a contact form for my website. I wanted to start the Basic CSS curriculum too, but I need to keep this to two projects at a time.
+**Today's Progress**: I worked on the Basic JavaScript course in FreeCodeCamp for half an hour. For the rest of the time, I worked on a contact form for my website. I wanted to start the Basic CSS curriculum too, but I need to keep this to two projects at a time. Oops, started that later in the afternoon. Forgot about the 2 project rule and got too excited!
 
-**Time Spent Coding**: 1h 6m
+**Time Spent Coding**: 1h 22m
 
 **Thoughts**: The JavaScript challenges required a little more independent thinking and coding today, which was nice. Everything is still review, but I don't resent the review. I'd be lost without it. There is so much to consider for a contact form for my website. For one thing, I need to figure out how to make the textarea box responsive to page size. When I tested it on a smaller page width, it broke the boundaries of the container. So, I just left it very small for now. This is definitely something I have to look into.
 
