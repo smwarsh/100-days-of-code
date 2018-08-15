@@ -65,6 +65,20 @@
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
 2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
 
-**Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp. Make the contact form work. Style the contact form.
 
-**Ideas**: Implement Web Mentions once I get my website on a WordPress CMS.
+
+### Day 6: August 15, 2018
+
+**Today's Progress**: I worked on the Basic JavaScript course in FreeCodeCamp for 15 minutes in the morning, then another 15 minutes at lunch. For the rest of lunch, I worked on the contact form. I tried to make the PHP form processor using an old lab from college, but it didn't work (I didn't expect it to). So I started [this video](https://www.youtube.com/watch?v=4q0gYjAVonI) and got to 4:09.
+
+**Time Spent Coding**: 1h 3m
+
+**Thoughts**: The JavaScript is new now! This is good, but I feel like FreeCodeCamp isn't teaching me very well, like I couldn't practically use these aspects of JavaScript on my own. I wish there were a small assignment, like a lab assignment, where I could practice the things I've learned so far. There is a lot to do for the contact form. I know a contact form will be a readily available plugin once I move my site over to a WordPress CMS, but I think it's a good exercise to build one from scratch. Hopefully the video I'm watching will help me get it working.
+
+**Link(s) to work**
+1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
+2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
+
+**Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp. Make the contact form work (continue with Youtube video). Style the contact form. Don't do the Basic CSS FreeCodeCamp curriculum! That's one project too many.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Look up how to make the textarea in my contact form responsive to page widths (use CSS?).
