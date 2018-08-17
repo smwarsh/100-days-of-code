@@ -92,6 +92,19 @@
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
 2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
 
-**Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp. Continue debugging the contact form. You have a more common problem now, so hopefully you can find help online for it! Don't do the Basic CSS FreeCodeCamp curriculum - That's one project too many.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Look up how to make the textarea in my contact form responsive to page widths (use CSS?). Start [Gordon Zhu's Practical JavaScript course](https://watchandcode.com/p/practical-javascript) after finishing the FreeCodeCamp Basic JavaScript curriculum. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this!
+### Day 8: August 17, 2018
+
+**Today's Progress**: Worked on the Basic JavaScript curriculum on FreeCodeCamp for 45 minutes, then spent the rest of the time debugging my contact form code. I scrapped everything, started it from scratch, and now it works!
+
+**Time Spent Coding**: 1h 48m
+
+**Thoughts**: I got stuck on something in the Basic JavaScript course so I was working on it for over 30 minutes, but I reached challenge 100! It feels good to be challenged by this new material. As for the contact form, I can't even describe how relieved I felt when that first message came through to my email after rewriting the entire code from scratch. I don't know what was wrong with it before, but I'm so happy I finally figured it out.
+
+**Links to work**
+1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
+2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
+
+**Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp. Start making the contact form yours, slowly and carefully, testing it frequently to make sure it still works.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Look up how to make the textarea in my contact form responsive to page widths (use CSS?). Start [Gordon Zhu's Practical JavaScript course](https://watchandcode.com/p/practical-javascript) after finishing the FreeCodeCamp Basic JavaScript curriculum. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them.
