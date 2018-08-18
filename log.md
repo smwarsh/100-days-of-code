@@ -108,3 +108,20 @@
 **Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp. Start making the contact form yours, slowly and carefully, testing it frequently to make sure it still works.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Look up how to make the textarea in my contact form responsive to page widths (use CSS?). Start [Gordon Zhu's Practical JavaScript course](https://watchandcode.com/p/practical-javascript) after finishing the FreeCodeCamp Basic JavaScript curriculum. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them.
+
+
+### Day 9: August 18, 2018
+
+**Today's Progress**: I finished the Basic JavaScript curriculum on FreeCodeCamp! Then I started Gordon Zhu's Practical JavaScript course. After that, I worked on improving the style of my contact form.
+
+**Time Spent Coding**: 1h 16m
+
+**Thoughts**: I'm happy I finished the Basic JavaScript course, and the Practical JavaScript course looks promising. I'm looking forward to working on an actual project and applying my knowledge of JavaScript. I'm still having issues with my site not updating as I work on it, so I've been having to use my phone browser to make sure the changes are actually being implement and to test that the contact form is still working (it is). That's annoying, but it's still fun to work with CSS.
+
+**Links to work**
+1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
+2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
+
+**Tomorrow**: Continue Gordon Zhu's Practical JavaScript course. Continue styling the contact form, using [this MDN page](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Styling_HTML_forms)
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Look up how to make the textarea in my contact form responsive to page widths (use CSS?). Start [Gordon Zhu's Practical JavaScript course](https://watchandcode.com/p/practical-javascript) after finishing the FreeCodeCamp Basic JavaScript curriculum. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page.
