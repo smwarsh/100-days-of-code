@@ -122,10 +122,6 @@
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
 2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
 
-**Tomorrow**: Continue Gordon Zhu's Practical JavaScript course. Continue styling the contact form, using [this MDN page](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Styling_HTML_forms)
-
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Look up how to make the textarea in my contact form responsive to page widths (use CSS?). Start [Gordon Zhu's Practical JavaScript course](https://watchandcode.com/p/practical-javascript) after finishing the FreeCodeCamp Basic JavaScript curriculum. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page.
-
 
 ### Day 10: August 19, 2018
 
@@ -139,4 +135,4 @@
 
 **Tomorrow**: Continue Gordon Zhu's Practical JavaScript course. Continue styling the contact form, watching [this video](https://youtu.be/E5MEzC0prd4) and starting from 25:50. Implement error handling.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Look up how to make the textarea in my contact form responsive to page widths (use CSS?). Start [Gordon Zhu's Practical JavaScript course](https://watchandcode.com/p/practical-javascript) after finishing the FreeCodeCamp Basic JavaScript curriculum. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page.
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Look up how to make the textarea in my contact form responsive to page widths (use CSS?). Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a personal code-a-thon once in every 30 days (Eric's idea).
