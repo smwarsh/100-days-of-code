@@ -133,6 +133,17 @@
 
 **Link to work**: [Contact Form on my Website](http://stephwarsh.com/contact.php)
 
-**Tomorrow**: Continue Gordon Zhu's Practical JavaScript course. Continue styling the contact form, watching [this video](https://youtu.be/E5MEzC0prd4) and starting from 25:50. Implement error handling.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Look up how to make the textarea in my contact form responsive to page widths (use CSS?). Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a personal code-a-thon once in every 30 days (Eric's idea).
+### Day 11: August 20, 2018
+
+**Today's Progress**: I did V2 of the todo list in the Practical JavaScript course, working in the console. Then I watched some videos, like , starting to figure out how to do error handling on my PHP contact form.
+
+**Time Spent Coding**: 1h 12m
+
+**Thoughts**: I'm getting a little bored of these projects. None of the JavaScript is new to me, and it seems odd to be coding in the browser console. It doesn't save my code, obviously, so when I ran out of time at lunch and picked up again after work, all that code was lost and I didn't feel like rewriting to continue following along. I also have less of a clear path forward with my form. It works now, so should I focus on perfecting the CSS? Implementing error handling? Security? Is that last one even a thing? I need more of a purpose in these two projects.
+
+**Link to work**: [Contact Form on my Website](http://stephwarsh.com/contact.php)
+
+**Tomorrow**: Do as much of the following as you have time for: Continue learning JavaScript. Do version 3 of the todo list app and then create your own. Implement error handling on the contact form using [this YouTube video](https://www.youtube.com/watch?v=1CkBsGhux9U)... But first look up if there is a way to do it without a PHP include. Is it safe to use the include? Is that a best practice, or should I figure out how to keep it the way it is and find another way to do error handling? Does the include work? Also, look up a more inclusive RegEx for names that includes apostrophes, hyphens, etc.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a personal code-a-thon once in every 30 days (Eric's idea).
