@@ -144,6 +144,17 @@
 
 **Link to work**: [Contact Form on my Website](http://stephwarsh.com/contact.php)
 
-**Tomorrow**: Do as much of the following as you have time for: Continue learning JavaScript. Do version 3 of the todo list app and then create your own. Implement error handling on the contact form using [this YouTube video](https://www.youtube.com/watch?v=1CkBsGhux9U)... But first look up if there is a way to do it without a PHP include. Is it safe to use the include? Is that a best practice, or should I figure out how to keep it the way it is and find another way to do error handling? Does the include work? Also, look up a more inclusive RegEx for names that includes apostrophes, hyphens, etc.
+
+### Day 12: August 21, 2018
+
+**Today's Progress**: I looked into PHP form error handling without using an include, then decided to just be done with and move on from the contact form project. I spent the rest of the hour working on the Practical JavaScript course. I wanted to put the code I wrote on GitHub, so I spent half an hour figuring out how to do that and refamiliarizing myself with GitHub Desktop.
+
+**Time Spent Coding**: 1h 33m
+
+**Thoughts**: I coded for a lot longer than I expected! It was really hard to get started today. I was feeling depressed, which is the first time I've experienced that obstacle in 100 Days of Code, but I know it won't be the last. I managed 40m of coding before taking a break. I was feeling much better by the time I returned to it later. I coded each of the todo list functions and methods before watching the video tutorial, and I was really pleased to get them all right for the most part! (They were correct in the important ways.) So I was in a good mood by the time I finished the hour. The rest of the time, I relearned how to use GitHub Desktop and I put today's work on GitHub. I feel good!
+
+**Link to work**: [Repository with Todo List V3](https://github.com/smwarsh/practical-javascript-v3)
+
+**Tomorrow**: Version 4 of the todo list app.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a personal code-a-thon once in every 30 days (Eric's idea).
