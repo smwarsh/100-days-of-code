@@ -155,6 +155,17 @@
 
 **Link to work**: [Repository with Todo List V3](https://github.com/smwarsh/practical-javascript-v3)
 
-**Tomorrow**: Version 4 of the todo list app.
+
+### Day 13: August 22, 2018
+
+**Today's Progress**: I did Watch and Code todo list project version 4.
+
+**Time Spent Coding**: 56m
+
+**Thoughts**: I'm exhausted. I hope I'm not burning myself out, but this coding is one of the main things that makes me feel a sense of purpose in my life now. So, I'm proud I coded tonight. My eyelids kept closing but luckily several of the topics (for loops, for example) were review so I think I'll be fine. I did well attempting to write the code before he showed us how, although not quite as well as yesterday, which is good because it means the course is challenging me more now.
+
+**Link to work**: [Todo list V4](https://github.com/smwarsh/practical-javascript-v4)
+
+**Tomorrow**: Version 5 of the todo list app.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a personal code-a-thon once in every 30 days (Eric's idea).
