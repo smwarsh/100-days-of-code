@@ -177,6 +177,17 @@
 
 **Link to work**: [Todo list V5](https://github.com/smwarsh/practical-javascript-v5)
 
-**Tomorrow**: Versions 6 & 7 of the todo list app.
+
+### Day 15: August 25, 2018
+
+**Today's Progress**: I finished Watch and Code todo list version 6 and spent a lot of time in the "Data Types and Comparisons" interlude (I finished that too).
+
+**Time Spent Coding**: 1h 12m
+
+**Thoughts**: The "Data Types and Comparisons" was hard! I got a couple of the examples wrong, even though I wrote out the diagram like he said to do. At least I think I understand it all, even though I got it wrong at first. It's nice to know how to code in JavaScript, but I'm starting to think about how it would be nice to learn how to use it in real life, like on my website for example. I have no idea how to connect it to HTML or CSS or anything else. We're 100% using the console currently.
+
+**Link to work**: [Todo list V6](https://github.com/smwarsh/practical-javascript-v6)
+
+**Tomorrow**: Todo list version 7
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a personal code-a-thon once in every 30 days (Eric's idea).
