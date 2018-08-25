@@ -166,6 +166,17 @@
 
 **Link to work**: [Todo list V4](https://github.com/smwarsh/practical-javascript-v4)
 
-**Tomorrow**: Version 5 of the todo list app.
+
+### Day 14: August 24, 2018
+
+**Today's Progress**: I did Watch and Code todo list project version 5 and started version 6.
+
+**Time Spent Coding**: 1h 10m
+
+**Thoughts**: I'm glad I don't feel as sick today (I took yesterday off because I was so spent), but I'm definitely tired and wasn't on the ball with knowing the answers ahead of time like I usually do. Hopefully another good night's sleep tonight will get me on a better track for tomorrow.
+
+**Link to work**: [Todo list V5](https://github.com/smwarsh/practical-javascript-v5)
+
+**Tomorrow**: Versions 6 & 7 of the todo list app.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a personal code-a-thon once in every 30 days (Eric's idea).
