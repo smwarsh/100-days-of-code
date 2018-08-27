@@ -188,6 +188,19 @@
 
 **Link to work**: [Todo list V6](https://github.com/smwarsh/practical-javascript-v6)
 
-**Tomorrow**: Todo list version 7
+
+### Day 15: August 25, 2018
+
+**Today's Progress**: I decided to create a budget tracker web app! Yesterday, off the clock, I wrote a rough draft of the requirements for the app. Today, I made the requirements more detailed and specific, and I started going through them and thinking about what each requirement actually entailed. I also marked out which requirements I think are necessary to create the minimum viable product (MVP) version of the app.
+
+**Time Spent Coding**: 1h 9m
+
+**Thoughts**: I didn't actually do any coding today, but this may be even more valuable than all the previous days where I was following tutorials and coding within that structure. Today, I started my first JavaScript project! My budget tracker app. I have experienced a lot of conflict over the last day or two since Zoe provided the inspiration for this project idea (she mentioned doing something about finance, because I'm interested in that topic, and I had the idea to recreate my current Excel spreadsheet in a more convenient and user friendly form). I've been thinking about it constantly. This is a huge project, and I'm nervous I won't be able to finish it within the timeline we set (3 months). But I'm going to do my best. Hopefully what I worked on today will provide a solid foundation for the project's success.
+
+**Links to work**:
+1. [Photo of my planning page 1](https://drive.google.com/file/d/1RlmiGhl5zgvG8Ny7KMot84VV5G2le9Ld/view?usp=sharing)
+2. [Photo of my planning page 2](https://drive.google.com/file/d/12s6IuWcVtbI3uxFqVFbG29vl__qRe2VM/view?usp=sharing)
+
+**Tomorrow**: Finish thinking about each requirement and writing notes. Make a 3 month plan on my calendar. Do Watch and Code todo list version 7
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a personal code-a-thon once in every 30 days (Eric's idea).
