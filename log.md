@@ -189,7 +189,7 @@
 **Link to work**: [Todo list V6](https://github.com/smwarsh/practical-javascript-v6)
 
 
-### Day 15: August 25, 2018
+### Day 16: August 26, 2018
 
 **Today's Progress**: I decided to create a budget tracker web app! Yesterday, off the clock, I wrote a rough draft of the requirements for the app. Today, I made the requirements more detailed and specific, and I started going through them and thinking about what each requirement actually entailed. I also marked out which requirements I think are necessary to create the minimum viable product (MVP) version of the app.
 
