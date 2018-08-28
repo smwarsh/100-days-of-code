@@ -201,6 +201,19 @@
 1. [Photo of my planning page 1](https://drive.google.com/file/d/1RlmiGhl5zgvG8Ny7KMot84VV5G2le9Ld/view?usp=sharing)
 2. [Photo of my planning page 2](https://drive.google.com/file/d/12s6IuWcVtbI3uxFqVFbG29vl__qRe2VM/view?usp=sharing)
 
-**Tomorrow**: Finish thinking about each requirement and writing notes. Make a 3 month plan on my calendar. Do Watch and Code todo list version 7
+
+### Day 17: August 27, 2018
+
+**Today's Progress**: I elaborated on a few more requirements for my budget tracker app in my notebook at lunch. After work, I did version 7 of the Watch and Code todo list app. I also started reading the first book in the You Don't Know JS book series by Kyle Simpson, Up & Going, but I didn't include this in the time spent coding. I'm still in the first chapter.
+
+**Time Spent Coding**: 1h 21m
+
+**Thoughts**: I wish I could have been more focused on my requirements for the budget tracker app. I worked on it for almost half an hour and only added details to 5 or 6 requirements. I guess it doesn't help that I'm sort of lost on how to implement these requirements, but I could have done more if I had been more focused. Hopefully my new medicine starts helping me with that a little. That being said, doing version 7 of the todo list in Watch and Code had a lot more meaning for me. I was thinking about how I will apply these skills in my own app once the app gets to the point where I need to connect the JS to the DOM (hope I'm using that terminology right). The Up & Going book from the YDKJS series seems pretty good so far and is some nice supplemental reading.
+
+**Links to work**:
+1. I can't upload an updated picture of the planning at the moment because my notebook is on my stomach and my cat is sleeping on top of it
+2. [Todo list V7](https://github.com/smwarsh/practical-js-todo-app)
+
+**Tomorrow**: Finish thinking about each requirement and writing notes. Make a 3 month plan on my calendar. Do the debugger interlude on Watch and Code if you have time after the other two things.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a personal code-a-thon once in every 30 days (Eric's idea).
