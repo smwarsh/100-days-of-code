@@ -229,6 +229,19 @@
 3. [Month 2 plan](https://drive.google.com/file/d/1tW0wQF1jvlZAyz6GhjXyZHvNgBDWVPiP/view?usp=sharing)
 4. [Month 3 plan](https://drive.google.com/file/d/1ivMUOXv7fYIhL7nLofG9TECKmVkBMHnl/view?usp=sharing)
 
-**Tomorrow**: Finish thinking about each requirement and writing notes! Set up transaction (as object or array within object? Probably the latter). Watch and Code todo list app version 8.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a personal code-a-thon once in every 30 days (Eric's idea).
+### Day 19: August 29, 2018
+
+**Today's Progress**: I wrote methods in my spending tracker app - addTransaction and displayTransactions. Then I spent 23 minutes on Watch and Code and refactored the code so that it used onclick in HTML instead of addEventListener in JS.
+
+**Time Spent Coding**: 1h 1m
+
+**Thoughts**: I hope I'm going in the right direction with this spending tracker app... I'm kind of just basing it off of the todo list app for now. I'm tired, I woke up early to do this since I'm going to Princeton tonight.
+
+**Links to work**: 
+1. [Spending tracker](https://github.com/smwarsh/spending-tracker)
+2. [Practical JavaScript todo list](https://github.com/smwarsh/practical-js-todo-app)
+
+**Tomorrow**: Finish thinking about each requirement and writing notes! Write deleteTransaction method. Watch and Code todo list app version 8.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
