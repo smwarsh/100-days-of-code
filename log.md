@@ -214,6 +214,21 @@
 1. I can't upload an updated picture of the planning at the moment because my notebook is on my stomach and my cat is sleeping on top of it
 2. [Todo list V7](https://github.com/smwarsh/practical-js-todo-app)
 
-**Tomorrow**: Finish thinking about each requirement and writing notes. Make a 3 month plan on my calendar. Do the debugger interlude on Watch and Code if you have time after the other two things.
+
+### Day 18: August 28, 2018
+
+**Today's Progress**: I looked more at the requirements and did a bunch of research on them, but I'm still not done. However, I did start actually coding a little! Then I took my Pusheen calendar and filled the next 3 months with milestones, goals, and requirements for the project to bring it from a big picture view to a more daily view. This all took awhile, and at the end I spent 28 minutes doing the debugger interlude from Watch and Code.
+
+**Time Spent Coding**: 2h 1m
+
+**Thoughts**: My first time coding for 2+ hours in one day! I finished thinking about most of the MVP requirements, but a lot of the more advanced requirements are so beyond me at this point that I find them hard to even start thinking about. I'm glad I forced myself to actually start coding today though, because I'm worried I'm making excuses to put it off. It's good to get everything down in my calendar but I am nervous I won't be able to keep up with my expectations. At least this will give me a way to put my tasks in a chronological plan, even if I can't keep up with the (sort of arbitrarily chosen) deadlines.
+
+**Links to work**: 
+1. [The beginnings of my spending tracker app](https://github.com/smwarsh/spending-tracker)
+2. [Month 1 plan](https://drive.google.com/file/d/1H0Zi3JDm_sfMpbLFWTnIaAmXGaZztzlR/view?usp=sharing)
+3. [Month 2 plan](https://drive.google.com/file/d/1tW0wQF1jvlZAyz6GhjXyZHvNgBDWVPiP/view?usp=sharing)
+4. [Month 3 plan](https://drive.google.com/file/d/1ivMUOXv7fYIhL7nLofG9TECKmVkBMHnl/view?usp=sharing)
+
+**Tomorrow**: Finish thinking about each requirement and writing notes! Set up transaction (as object or array within object? Probably the latter). Watch and Code todo list app version 8.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a personal code-a-thon once in every 30 days (Eric's idea).
