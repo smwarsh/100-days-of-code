@@ -6,9 +6,9 @@
 
 **Time Spent Coding**: 1h 32m
 
-**Thoughts:** I'm frustrated. I made a new page for my website because I just want a simple dumb text page to put this blog post on (I'll make it pretty later). It looks silly with only the basic formatting that I already have in my CSS for my site, so I added some new classes and called them in CSS, etc. But for some reason, although the CSS pretends to be updated, it's not. I even put the new CSS file online because I thought it might be a MAMP issue, but there is no sign of any edits when I look at the page source. But when I download the file from Cyberduck, the edits ARE in the file! I'm baffled! I'm usually very good at figuring out these types of problems, after being a lab TA for an intro to web design class for so long, but I'm stumped. Maybe it's just taking awhile to sync? I can't figure it out.
+**Thoughts**: I'm frustrated. I made a new page for my website because I just want a simple dumb text page to put this blog post on (I'll make it pretty later). It looks silly with only the basic formatting that I already have in my CSS for my site, so I added some new classes and called them in CSS, etc. But for some reason, although the CSS pretends to be updated, it's not. I even put the new CSS file online because I thought it might be a MAMP issue, but there is no sign of any edits when I look at the page source. But when I download the file from Cyberduck, the edits ARE in the file! I'm baffled! I'm usually very good at figuring out these types of problems, after being a lab TA for an intro to web design class for so long, but I'm stumped. Maybe it's just taking awhile to sync? I can't figure it out.
 
-**Link to work:** [Blog Page](https://www.stephwarsh.com/blog.php)
+**Link to work**: [Blog Page](https://www.stephwarsh.com/blog.php)
 
 
 ### Day 2: August 11, 2018
@@ -30,7 +30,7 @@
 
 **Thoughts**: My suspicions were correct! It was the cache all along that was keeping me from seeing my updates to the CSS on my website. Evil cache! I'm glad I figured that out and was able to update my site. Doing work on my website is far more fun and engaging than doing the exercises on FreeCodeCamp in JavaScript, but I know I have to keep plugging away at the JavaScript if I want to become a competitive job candidate for a web dev job.
 
-**Links to work**
+**Links to work**:
 1. [Blog Page](https://www.stephwarsh.com/blog.php)
 2. [Repo With JSON Files](https://github.com/smwarsh/javascript-exercises)
 
@@ -43,7 +43,7 @@
 
 **Thoughts**: I feel like there is so much to do, and only coding for an hour a day won't be fast enough! But doing just a little bit every day is still getting something done, and I am proud of that. The JS course is still all review, although there was one challenging task where I had to remember the pop and shift functions from last time. I was pleased when I got it right! The HTML course was, of course, review, but I was surprised how much I got from it. I learned a couple small new things, learned some best practices, and got a good review of forms. I wish the info on forms was more comprehensive. It doesn't give you the information to actually send form submissions to an email or website and receive them there, which is a problem if you actually want to make a form yourself.
 
-**Links to work**
+**Links to work**:
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
 2. [Repo With HTML Challenge Files](https://github.com/smwarsh/web-design-exercises)
 
@@ -61,7 +61,7 @@
 
 **Thoughts**: The JavaScript challenges required a little more independent thinking and coding today, which was nice. Everything is still review, but I don't resent the review. I'd be lost without it. There is so much to consider for a contact form for my website. For one thing, I need to figure out how to make the textarea box responsive to page size. When I tested it on a smaller page width, it broke the boundaries of the container. So, I just left it very small for now. This is definitely something I have to look into.
 
-**Links to work**
+**Links to work**:
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
 2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
 
@@ -75,7 +75,7 @@
 
 **Thoughts**: The JavaScript is new now! This is good, but I feel like FreeCodeCamp isn't teaching me very well, like I couldn't practically use these aspects of JavaScript on my own. I wish there were a small assignment, like a lab assignment, where I could practice the things I've learned so far. There is a lot to do for the contact form. I know a contact form will be a readily available plugin once I move my site over to a WordPress CMS, but I think it's a good exercise to build one from scratch. Hopefully the video I'm watching will help me get it working.
 
-**Links to work**
+**Links to work**:
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
 2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
 
@@ -88,7 +88,7 @@
 
 **Thoughts**: Today was much more challenging than previous days. For one thing, the JavaScript required a lot of careful thinking, and I'm going a lot more slowly now that the material is new. One good thing - I got a recommendation from someone on Twitter for another JavaScript learning curriculum with projects that I can try. I want to practically apply the stuff I'm learning and I don't know how, so this might help. For the contact form, I'm having a lot of trouble with it and it's frustrating. For much of the time I struggled with an Error 500, and I honestly don't even know how I fixed it. But I'm relieved it's fixed and I'm on to a more common problem: The form appears to be working but I'm not receiving the email. I'll check my inbox again tomorrow... I hope it's just taking awhile to go through, because I'm not looking forward to continuing the debugging process.
 
-**Links to work**
+**Links to work**:
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
 2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
 
@@ -101,7 +101,7 @@
 
 **Thoughts**: I got stuck on something in the Basic JavaScript course so I was working on it for over 30 minutes, but I reached challenge 100! It feels good to be challenged by this new material. As for the contact form, I can't even describe how relieved I felt when that first message came through to my email after rewriting the entire code from scratch. I don't know what was wrong with it before, but I'm so happy I finally figured it out.
 
-**Links to work**
+**Links to work**:
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
 2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
 
@@ -118,7 +118,7 @@
 
 **Thoughts**: I'm happy I finished the Basic JavaScript course, and the Practical JavaScript course looks promising. I'm looking forward to working on an actual project and applying my knowledge of JavaScript. I'm still having issues with my site not updating as I work on it, so I've been having to use my phone browser to make sure the changes are actually being implement and to test that the contact form is still working (it is). That's annoying, but it's still fun to work with CSS.
 
-**Links to work**
+**Links to work**:
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
 2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
 
