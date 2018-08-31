@@ -242,6 +242,19 @@
 1. [Spending tracker](https://github.com/smwarsh/spending-tracker)
 2. [Practical JavaScript todo list](https://github.com/smwarsh/practical-js-todo-app)
 
-**Tomorrow**: Finish thinking about each requirement and writing notes! Write deleteTransaction method. Watch and Code todo list app version 8.
+
+### Day 20: August 30, 2018
+
+**Today's Progress**: I wrote the deleteTransaction method for the spending tracker app. Then I completed version 8 of the todo list app from Watch and Code. I took some time at the end to write a README for the todo list app on GitHub.
+
+**Time Spent Coding**: 1h 8m
+
+**Thoughts**: I should name my spending tracker app so I don't have to keep writing it out. Maybe "Thrift"? I'm sure there is already something called that but I'm going to just call it that privately, in this log and such. It's not like I'm marketing it as an app for others to use or anything. Side note: It is very pleasant to code with a cat curled up on your stomach. The next section on Watch and Code is called "escape the console," and I'm very excited to do just that.
+
+**Links to work**: 
+1. [Spending tracker](https://github.com/smwarsh/spending-tracker)
+2. [Practical JavaScript todo list](https://github.com/smwarsh/practical-js-todo-app)
+
+**Tomorrow**: Finish thinking about each requirement and writing notes. Write editTransaction method. Watch and Code todo list app version 9.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
