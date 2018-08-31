@@ -255,6 +255,19 @@
 1. [Spending tracker](https://github.com/smwarsh/spending-tracker)
 2. [Practical JavaScript todo list](https://github.com/smwarsh/practical-js-todo-app)
 
-**Tomorrow**: Finish thinking about each requirement and writing notes. Write editTransaction method. Watch and Code todo list app version 9.
+
+### Day 21: August 31, 2018
+
+**Today's Progress**: I wrote an editTransaction method in Thrift to edit properties of the transaction objects. It uses if statements so it can update any number of properties at the same time. For the second half of the hour, I worked on the Watch and Code todo list version 9 - escaping the console! I also updated both these things in GitHub/GitHub Desktop.
+
+**Time Spent Coding**: 1h 1m
+
+**Thoughts**: I am pretty proud of figuring out that editTransaction method today. One thing I noticed that I'll need to fix is that the code doesn't allow you to remove text from the optional note property once it's been added. The Watch and Code todo list project is teaching me a lot of stuff that will be important for my Thrift project. I am including GitHub updates in my time spent coding because I think these are important exercises for coding.
+
+**Links to work**: 
+1. [Spending tracker](https://github.com/smwarsh/spending-tracker)
+2. [Practical JavaScript todo list](https://github.com/smwarsh/practical-js-todo-app)
+
+**Tomorrow**: Fix editTransaction method to allow removal of text in optional note property. Create array for expense and income (you have 2 days to complete this). Finish Watch and Code todo list app version 9.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
