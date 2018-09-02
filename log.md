@@ -268,6 +268,17 @@
 1. [Spending tracker](https://github.com/smwarsh/spending-tracker)
 2. [Practical JavaScript todo list](https://github.com/smwarsh/practical-js-todo-app)
 
-**Tomorrow**: Fix editTransaction method to allow removal of text in optional note property. Create array for expense and income (you have 2 days to complete this). Finish Watch and Code todo list app version 9.
+
+### Day 22: September 1, 2018
+
+**Today's Progress**: I finished version 9 of the Practical JavaScript todo list project, watched the functions within functions interlude, and signed up for Glitch and otherwise prepped to start version 10.
+
+**Time Spent Coding**: 56m
+
+**Thoughts**: I'm tired today after a long day in NYC, so I didn't feel like doing the problem solving required to work on Thrift. I'll get to that tomorrow.
+
+**Link to work**: [Practical JavaScript todo list](https://github.com/smwarsh/practical-js-todo-app)
+
+**Tomorrow**: Fix editTransaction method to allow removal of text in optional note property. Create array for expense and income. Do Watch and Code todo list app version 10.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
