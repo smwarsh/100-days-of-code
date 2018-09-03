@@ -279,6 +279,17 @@
 
 **Link to work**: [Practical JavaScript todo list](https://github.com/smwarsh/practical-js-todo-app)
 
-**Tomorrow**: Fix editTransaction method to allow removal of text in optional note property. Create array for expense and income. Do Watch and Code todo list app version 10.
+
+### Day 23: September 2, 2018
+
+**Today's Progress**: I brainstormed/problem solved for Thrift to try to figure out (a) the issue in my editTransaction method where you can't delete the text from the optional 'note' property and (b) how to arrange expense vs income in my code. Then I started version 10 of the todo list app in Watch and Code.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: I feel like my brain's wheels are spinning and I can't generate any good ideas. This is the second day in a row that I have not been into coding. Today, I felt depressed all afternoon and evening. I can't tell if I can't figure out good solutions to these problems because I am tired and sad or if I actually can't get it. Hopefully tomorrow I feel better and can get some good ideas.
+
+**Link to work**: [Practical JavaScript todo list](https://github.com/smwarsh/practical-js-todo-app)
+
+**Tomorrow**: Code-a-thon! 3-5 hours of code in one day. Clear next steps: Code clearNote method, which is my workaround for the editTransaction issue for now. Create object for expense and income. Finish Watch and Code todo list app version 10.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
