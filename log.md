@@ -290,6 +290,19 @@
 
 **Link to work**: [Practical JavaScript todo list](https://github.com/smwarsh/practical-js-todo-app)
 
-**Tomorrow**: Code-a-thon! 3-5 hours of code in one day. Clear next steps: Code clearNote method, which is my workaround for the editTransaction issue for now. Create object for expense and income. Finish Watch and Code todo list app version 10.
+
+### Day 24: September 3, 2018
+
+**Today's Progress**: CODE-A-THON! I did a lot today! I worked on Thrift (largely unsuccessfully), I read You Don't Know JS, I finished versions 10 and 11 of the todo list project and I finished the Watch and Code Practical JavaScript curriculum!
+
+**Time Spent Coding**: 3h 40m
+
+**Thoughts**: I wish I could code this much every day. But even though it was 3h 40m of code, in reality I spent much more time than that on this. I paused the timer every time I answered a text or got sidetracked talking to someone or anything else. I wanted to only count the time I was focused on coding. I usually don't count the YDKJS reading, so the actual coding part was probably closer to 3h. Either way, I did achieve my goal of coding for 3-5 hours. I had another coding existential crisis today. I have hit a roadblock in coding for Thrift, and I really feel like I don't know what to do to move forward. I am tempted to try other routes and basically avoid the issue for now, but I shouldn't. I should stick on the path that Zoe helped me devise and for which I laid out a plan. It's tough because I don't know what I'm going to do tomorrow, stuck as I am with no professor, TA, classmates, or any clear resource to turn to. Googling has gotten me nowhere, and I'm worried I just don't have the knowledge to do something like this project I have set out to do. I know that if I am able to figure it out, I will probably be better for it, but I don't know. I'm worried about stumbling through it and piecing together bits from tutorials and never really understanding. I'm debating subscribing to Watch and Code's premium content, but it's so expensive. See? Crisis. I don't know why I can't just go through 100 Days of Code without worrying about all this stuff. What is the right path to switching my career to web dev? Am I doing the right thing? What if I can't figure it out? What if I fail? These are the things I'm worried about and truly, they're such high-level and big-picture problems that I shouldn't be worrying about them at this stage, but I can't help it! And apparently coding for a longer amount of time exacerbates this type of stress.
+
+**Links to work**:
+1. [Practical JavaScript todo list](https://github.com/smwarsh/practical-js-todo-app)
+2. [Thrift](https://github.com/smwarsh/spending-tracker)
+
+**Tomorrow**: FreeCodeCamp ES6 curriculum. Run the debugger on the Thrift code and find out where & why the Transaction object is being added to every element of the array. That doesn't seem like it would be possible all at once, so use the debugger to see the steps, if they are there. 
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
