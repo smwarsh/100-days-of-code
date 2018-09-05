@@ -303,6 +303,19 @@
 1. [Practical JavaScript todo list](https://github.com/smwarsh/practical-js-todo-app)
 2. [Thrift](https://github.com/smwarsh/spending-tracker)
 
-**Tomorrow**: FreeCodeCamp ES6 curriculum. Run the debugger on the Thrift code and find out where & why the Transaction object is being added to every element of the array. That doesn't seem like it would be possible all at once, so use the debugger to see the steps, if they are there. 
+
+### Day 25: September 4, 2018
+
+**Today's Progress**: I worked on the FreeCodeCamp ES6 curriculum for 52 minutes, then worked on troubleshooting the expense/income set up of Thrift for the remaining 44 minutes. 
+
+**Time Spent Coding**: 1h 36m
+
+**Thoughts**: The FreeCodeCamp exercises were more challenging today, and I was frustrated. I did eventually figure them out, but I did not have a good time doing it. I didn't know many of the things that they apparently assumed we know. Maybe they were in the Basic JavaScript curriculum and I forgot them, but if not, I feel like they expected me to know more than they taught me. I didn't get much satisfaction from eventually solving the challenge I was having trouble with (higher order arrow functions). Today served to remind me that now, I'm past the stuff I know, and it's not going to be as easy as it has been. As for the spending tracker app, I had an idea to make the categories properties instead of elements of an array which is itself a property of an object. The code is a bit cleaner and easier to use, but it has the same exact problem as the old code. It adds the transaction from addTransaction() to every instance of a category object in the expense AND income objects. The 'this' keyword must be referring back to all these objects at once. The one option I can see right now is to change the category object to a constructor. I don't know if this is a best practice (how could I know? I'm blind here), but I'll try this tomorrow.
+
+**Links to work**:
+1. [ES6 challenges, 108-115](https://github.com/smwarsh/javascript-exercises)
+2. [Thrift](https://github.com/smwarsh/spending-tracker)
+
+**Tomorrow**: FreeCodeCamp ES6 curriculum. Change the category object to a constructor and see if that fixes the problem. Run the debugger on the Thrift code and find out where & why the Transaction object is being added to every element of the array (somehow you didn't do this today). That doesn't seem like it would be possible all at once, so use the debugger to see the steps, if they are there. 
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
