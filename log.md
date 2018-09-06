@@ -316,6 +316,19 @@
 1. [ES6 challenges, 108-115](https://github.com/smwarsh/javascript-exercises)
 2. [Thrift](https://github.com/smwarsh/spending-tracker)
 
-**Tomorrow**: FreeCodeCamp ES6 curriculum. Change the category object to a constructor and see if that fixes the problem. Run the debugger on the Thrift code and find out where & why the Transaction object is being added to every element of the array (somehow you didn't do this today). That doesn't seem like it would be possible all at once, so use the debugger to see the steps, if they are there. 
+
+### Day 26: September 5, 2018
+
+**Today's Progress**: I worked on the FreeCodeCamp ES6 curriculum for a couple challenges. @cjaredm offered me help with my code and sent me some example code, so I spent a lot of time looking over that.
+
+**Time Spent Coding**: 1h 0m (ish)
+
+**Thoughts**: Today did not have an auspicious start. My brain was trying to figure out the issues in my code all night when I was trying to sleep! So I was exhausted after a fitful night when I woke up before 6am to code. I was having anxiety and only managed 19 minutes in the morning of the FreeCodeCamp ES6 curriculum. It was a lifesaver when a developer on Twitter offered to help me out. The problems aren't solved exactly, but there's a new light on the situation that gives me hope. I'm eager to go through the rest of this code and see what I can learn. Also, this example code that @cjaredm wrote for me is full of JS syntax that I just learned yesterday or even this morning. I totally agree with Eric, who said today, "how cool that they became applicable right after you learned about them!" *This* is why doing a project is important. I know that. But that doesn't mean it isn't tough.
+
+**Links to work**:
+1. [ES6 challenges, 116-119](https://github.com/smwarsh/javascript-exercises)
+2. [Thrift](https://github.com/smwarsh/spending-tracker)
+
+**Tomorrow**: Continue the FreeCodeCamp ES6 curriculum. Continue to go through the example code from @cjaredm line by line, making sure you understand.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
