@@ -329,6 +329,17 @@
 1. [ES6 challenges, 116-119](https://github.com/smwarsh/javascript-exercises)
 2. [Thrift](https://github.com/smwarsh/spending-tracker)
 
-**Tomorrow**: Continue the FreeCodeCamp ES6 curriculum. Continue to go through the example code from @cjaredm line by line, making sure you understand.
+
+### Day 27: September 7, 2018
+
+**Today's Progress**: I did one ES6 challenge yesterday before giving in to my fatigue and deciding to take an off day, so that's included in today's challenges. Today I worked on FreeCodeCamp challenges for the entire hour.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: I'm frustrated because I still think we never learned the map, reduce, and filter methods for arrays, so I'm still struggling with them. I'm unsure how the code knows that the parameter is the index of the array. For some reason I struggled with almost every single challenge here. One was especially dumb because I spent probably half an hour on it and the only reason I kept getting it wrong was because I thought the challenge wanted me to change the function into an arrow function like the example, but it didn't. I don't know why this is all so hard for me. I feel like I need to redo this whole curriculum when I finish it, because I need to make sure it actually got through to me. The destructuring is hard. I keep thinking, maybe it's because I'm tired? But that can't be the reason every single night. I think the content is just hard for me.
+
+**Link to work**: [ES6 challenges, 120-126](https://github.com/smwarsh/javascript-exercises)
+
+**Tomorrow**: Go through the example code from @cjaredm line by line, making sure you understand.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
