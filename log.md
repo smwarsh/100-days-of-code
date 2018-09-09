@@ -340,6 +340,17 @@
 
 **Link to work**: [ES6 challenges, 120-126](https://github.com/smwarsh/javascript-exercises)
 
-**Tomorrow**: Go through the example code from @cjaredm line by line, making sure you understand.
+
+### Day 28: September 8, 2018
+
+**Today's Progress**: I started looking over the code I printed out, immediately encountered an array function I don't know about, then referred to a tweet by @cjaredm with links to learning these built-in array functions. I got to 10:16 in a video about these array functions, and took a BUNCH of notes. I also referred to [this page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) when the video was not being very clear about sort functions.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: I feel guilty, because I meant to advance further with Thrift and even finish looking over the code that @cjaredm sent me, but I didn't even get through one line. However, these array functions have been frustrating me for days now and I think studying them and getting them down will be extremely helpful to me going forward, especially because there seems to be a thing against for loops in JavaScript. It's too bad because I've always liked for loops when coding in Java, but I guess I'd better get out of the habit of using them!
+
+**Link to work**: ["JavaScript Array Cardio Practice..." on Youtube](https://youtu.be/HB1ZC7czKRs)
+
+**Tomorrow**: Finish the Youtube video & taking notes. Go through the example code from @cjaredm line by line, making sure you understand. Do more FreeCodeCamp ES6 challenges. Ugh, I could use a code-a-thon tomorrow!
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
