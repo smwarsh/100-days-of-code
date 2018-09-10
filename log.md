@@ -351,6 +351,21 @@
 
 **Link to work**: ["JavaScript Array Cardio Practice..." on Youtube](https://youtu.be/HB1ZC7czKRs)
 
-**Tomorrow**: Finish the Youtube video & taking notes. Go through the example code from @cjaredm line by line, making sure you understand. Do more FreeCodeCamp ES6 challenges. Ugh, I could use a code-a-thon tomorrow!
+
+### Day 29: September 9, 2018
+
+**Today's Progress**: I finished watching the YouTube video from yesterday and taking notes (30m). I finished the FreeCodeCamp ES6 exercises (41m)! I went over the MDN pages for array iteration methods (26m). Last, I finished going over the code that @cjaredm sent me (1h 25m).
+
+**Time Spent Coding**: 3h 2m
+
+**Thoughts**: I actually ended up doing something like a code-a-thon today! I hit 3 hours of coding, anyway, so I guess it does count! I finally caught up with all the things I was doing. Although I feel guilty for not finishing going through the code that @cjaredm sent me until 5 days after he sent it to me, I think it was really important for me to learn those array iteration methods. They had been causing me frustration for days while working on the FreeCodeCamp exercises, and they were cropping up in other places, like the sample code I was looking at for Thrift. There is a lot more in the ES6 curriculum that I do not feel comfortable with, so I think I want to go through the whole curriculum a second time to make sure I've learned it properly. Some challenges I didn't really understand what I was doing, even though I passed the challenge. I know this will take extra time, but a solid foundation is essential. I'm ready to move forward with my project!
+
+**Links to work**: 
+1. ["JavaScript Array Cardio Practice..." on Youtube](https://youtu.be/HB1ZC7czKRs)
+2. [ES6 challenges, 127-133](https://github.com/smwarsh/javascript-exercises)
+3. [MDN - JavaScript Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Methods_2)
+4. [CodeSandbox from @cjaredm](https://codesandbox.io/s/0x635kqjnw?expanddevtools=1&hidenavigation=1)
+
+**Tomorrow**: Edit Thrift to use the code example from @cjaredm. Make sure to credit him somehow! Integrate the code into my program. Write a display function. Look at the calendar plan and see what should actually come next. I ran out of small steps already on the calendar!
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
