@@ -366,6 +366,17 @@
 3. [MDN - JavaScript Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#Methods_2)
 4. [CodeSandbox from @cjaredm](https://codesandbox.io/s/0x635kqjnw?expanddevtools=1&hidenavigation=1)
 
-**Tomorrow**: Edit Thrift to use the code example from @cjaredm. Make sure to credit him somehow! Integrate the code into my program. Write a display function. Look at the calendar plan and see what should actually come next. I ran out of small steps already on the calendar!
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Add media queries to my contact page. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
+### Day 30: September 10, 2018
+
+**Today's Progress**: Edited Thrift to integrate the code example from @cjaredm. Credited him. Wrote a display function. Made a calendar plan with small steps for the next week and a half. Went through 2 FreeCodeCamp ES6 challenges.
+
+**Time Spent Coding**: 1h 2m
+
+**Thoughts**: The code seems so perfect now, with the new strategy from the code example! I'm so glad it's set up this way instead of the old way.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/spending-tracker)
+
+**Tomorrow**: FreeCodeCamp ES6 curriculum. Start from: "ES6: Declare a Read-Only Variable with the const Keyword." Sort transactions by date in Thrift. Prepare for JavaScript meetup at 10pm.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
