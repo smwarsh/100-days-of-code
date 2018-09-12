@@ -377,6 +377,17 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/spending-tracker)
 
-**Tomorrow**: FreeCodeCamp ES6 curriculum. Start from: "ES6: Declare a Read-Only Variable with the const Keyword." Sort transactions by date in Thrift. Prepare for JavaScript meetup at 10pm.
+
+### Day 31: September 11, 2018
+
+**Today's Progress**: I wrote a sortCategoryByDate function for Thrift. Then I prepped questions for the JavaScript meetup at 10pm.
+
+**Time Spent Coding**: 1h 2m
+
+**Thoughts**: I am so proud of myself! This is the first function I've written entirely on my own for Thrift. The first round of the app was heavily influenced by the Watch and Code Practical JavaScript tutorial. The code I implemented yesterday was mostly copied from @cjaredm's work. I'm am so excited by the success of my first bit of completely original code! Also, I'm very nervous for the meetup, which is in 10 minutes.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/spending-tracker)
+
+**Tomorrow**: Write a function in Thrift to calculate the grand total of prices in a given category. Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Declare a Read-Only Variable with the const Keyword."
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
