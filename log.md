@@ -388,6 +388,17 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/spending-tracker)
 
-**Tomorrow**: Write a function in Thrift to calculate the grand total of prices in a given category. Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Declare a Read-Only Variable with the const Keyword."
+
+### Day 32: September 12, 2018
+
+**Today's Progress**: I wrote a totalUpCategory function in Thrift that totals the price in each category, and a helper function, roundToPrice, which will round the price accurately to two decimal places and return a string. Did two ES6 FreeCodeCamp exercises.
+
+**Time Spent Coding**: 59m
+
+**Thoughts**: I'm proud of my function today. Not only is it another function that I wrote completely by myself, I'm proud of fixing it once I realized there was a problem. The fix is someone else's code, but I'm proud of the fact that I didn't just say, "Eh, good enough," and leave my code in a state where it was giving a slightly wrong answer. I'm also pleased with how well I am understanding the ES6 challenges this time through. I understand const and let a lot better now after coding with them a bit.
+
+**Link to work**: [Thrift on Glitch!](https://glitch.com/~pickle-slicer)
+
+**Tomorrow**: Write a function in Thrift to calculate the grand total of income and expense separately. I'm thinking totalUpIncome() and totalUpExpense(), two different but nearly identical functions that use reduce the result of all the categories' totalUpCategory() (don't forget to parseFloat!) and return it (use roundToPrice when you return it). Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Prevent Object Mutation."
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
