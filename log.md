@@ -399,6 +399,17 @@
 
 **Link to work**: [Thrift on Glitch!](https://glitch.com/~pickle-slicer)
 
-**Tomorrow**: Write a function in Thrift to calculate the grand total of income and expense separately. I'm thinking totalUpIncome() and totalUpExpense(), two different but nearly identical functions that use reduce the result of all the categories' totalUpCategory() (don't forget to parseFloat!) and return it (use roundToPrice when you return it). Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Prevent Object Mutation."
+
+### Day 33: September 13, 2018
+
+**Today's Progress**: I wrote a function totalUpIncomeOrExpense in Thrift to total all the prices in all the categories in income or expense. I also added a bunch more test transactions to the code.
+
+**Time Spent Coding**: 1h 6m
+
+**Thoughts**: So, I got an error in my code when I tested it, even though I thought I'd done everything right? So I went through the process of what I wanted the function to do, and I debugged it all on my own! I'm proud of that. I'm also proud I figured out how to achieve the end goal of this function (and how to do it without a for loop!). I hope the way I did it is a good way, and not a clunky way? Either way, I'm thrilled that the function appears to work perfectly! I'm also proud that I made it work for income and expense in the same function, instead of having two separate, almost identical functions (DRY!).
+
+**Link to work**: [Thrift](https://glitch.com/~pickle-slicer)
+
+**Tomorrow**: Write a function in Thrift to calculate the difference between income and expense - totalUpGain(). Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Prevent Object Mutation."
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
