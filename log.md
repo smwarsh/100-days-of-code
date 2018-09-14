@@ -410,6 +410,21 @@
 
 **Link to work**: [Thrift](https://glitch.com/~pickle-slicer)
 
-**Tomorrow**: Write a function in Thrift to calculate the difference between income and expense - totalUpGain(). Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Prevent Object Mutation." Look at the Date object documentation that Jared sent me. Listen to the podcast Jared sent me (I forgot to listen to it today!). Look at the links Leslie sent me. Sign into the Women Who Code Slack workspace. I think there were other things to follow up on with Leslie too...
+
+### Day 34: September 14, 2018
+
+**Today's Progress**: I wrote a function to calculate the total gain of all transactions in Thrift. I refactored the code according to some feedback from Jared. I looked at the documentation for the Date object and Moment.
+
+**Time Spent Coding**: 1h 2m
+
+**Thoughts**: I feel good about my code. I know a lot of it will have to be redone when I start connecting it to the DOM, using SQL, etc., but it's still nice for it all to be working right now. Also, the compliments Jared gave me about my code made me feel good too!
+
+**Links to work**:
+1. [Thrift](https://glitch.com/~pickle-slicer)
+2. [Code from Jared](https://codesandbox.io/s/j4j0rw0wvw)
+3. [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+4. [Moment](https://momentjs.com/docs/)
+
+**Tomorrow**: Need to catch up on tutorials. Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Prevent Object Mutation." Listen to the podcast Jared sent me (I forgot to listen to it today!). Look at the links Leslie sent me. Sign into the Women Who Code Slack workspace. Make a day-to-day plan for the next week or two for my project.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
