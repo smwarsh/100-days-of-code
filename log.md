@@ -410,6 +410,6 @@
 
 **Link to work**: [Thrift](https://glitch.com/~pickle-slicer)
 
-**Tomorrow**: Write a function in Thrift to calculate the difference between income and expense - totalUpGain(). Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Prevent Object Mutation."
+**Tomorrow**: Write a function in Thrift to calculate the difference between income and expense - totalUpGain(). Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Prevent Object Mutation." Look at the Date object documentation that Jared sent me. Listen to the podcast Jared sent me (I forgot to listen to it today!). Look at the links Leslie sent me. Sign into the Women Who Code Slack workspace. I think there were other things to follow up on with Leslie too...
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
