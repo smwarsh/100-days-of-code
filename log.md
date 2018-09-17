@@ -425,6 +425,19 @@
 3. [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 4. [Moment](https://momentjs.com/docs/)
 
-**Tomorrow**: Need to catch up on tutorials. Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Prevent Object Mutation." Listen to the podcast Jared sent me (I forgot to listen to it today!). Look at the links Leslie sent me. Sign into the Women Who Code Slack workspace. Make a day-to-day plan for the next week or two for my project.
+
+### Day 35: September 16, 2018
+
+**Today's Progress**: Reviewed ES6 exercises on FreeCodeCamp. Watched a YouTube video on destructuring. Made a plan for the next chunk of work on Thrift. Also, I listened to a Syntax podcast earlier, "11 Habits of Highly Effective Developers," but I didn't count that in my time spent coding.
+
+**Time Spent Coding**: 1h 8m
+
+**Thoughts**: Not much coding today, just a tiny bit in the FreeCodeCamp challenges. I understand the topics better this second time through though, so I think this is worthwhile. Visiting Rochester this weekend was nice, and I'm glad I could fit coding in today (took yesterday as my off day).
+
+**Links to work**:
+1. [FreeCodeCamp exercises 112-119](https://github.com/smwarsh/javascript-exercises)
+2. [YouTube video on destructuring](https://youtu.be/PB_d3uBkQPs)
+
+**Tomorrow**: Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Use Destructuring Assignment to Assign Variables from Nested Objects." Look at the links Leslie sent me. Sign into the Women Who Code Slack workspace. Figure out Date or Moment or whatever you want to use and how you're going to use it.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
