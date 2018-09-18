@@ -438,6 +438,18 @@
 1. [FreeCodeCamp exercises 112-119](https://github.com/smwarsh/javascript-exercises)
 2. [YouTube video on destructuring](https://youtu.be/PB_d3uBkQPs)
 
-**Tomorrow**: Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Use Destructuring Assignment to Assign Variables from Nested Objects." Look at the links Leslie sent me. Sign into the Women Who Code Slack workspace. Figure out Date or Moment or whatever you want to use and how you're going to use it.
+
+### Day 36: September 17, 2018
+
+**Today's Progress**: Chose datefns as the library I want to use to deal with dates in Thrift. Spent awhile trying to figure out how on Earth to use that library in my code?! 
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: I have no idea how to import a library into Glitch. Should I switch to CodeSandbox or CodePen? I checked out the former but it doesn't seem any more obvious there how I'm supposed to do this.
+
+**Links to work**: [Thrift](https://glitch.com/~pickle-slicer)
+
+**Tomorrow**: Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Use Destructuring Assignment to Assign Variables from Nested Objects." Look at the links Leslie sent me. Sign into the Women Who Code Slack workspace. Figure out how to import datefns.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
+
