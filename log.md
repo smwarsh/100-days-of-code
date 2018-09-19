@@ -447,9 +447,21 @@
 
 **Thoughts**: I have no idea how to import a library into Glitch. Should I switch to CodeSandbox or CodePen? I checked out the former but it doesn't seem any more obvious there how I'm supposed to do this.
 
-**Links to work**: [Thrift](https://glitch.com/~pickle-slicer)
+**Link to work**: [Thrift](https://glitch.com/~pickle-slicer)
 
-**Tomorrow**: Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Use Destructuring Assignment to Assign Variables from Nested Objects." Look at the links Leslie sent me. Sign into the Women Who Code Slack workspace. Figure out how to import datefns.
+
+### Day 37: September 18, 2018
+
+**Today's Progress**: I read some more stuff to try to figure out importing datefns. I went through more FreeCodeCamp exercises.
+
+**Time Spent Coding**: 46m
+
+**Thoughts**: Today, my mental health was crap. I did 15 minutes in the morning before work before falling back asleep, 30 minutes at lunch when I came home to get my phone, and not again. I had a really rough night with a bad panic attack and didn't get to finish up the hour. Ugh.
+
+**Link to work**: [FreeCodeCamp exercises 120-124](https://github.com/smwarsh/javascript-exercises)
+
+**Tomorrow**: Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Write Concise Object Literal Declarations Using Simple Fields." Look at the links Leslie sent me. Sign into the Women Who Code Slack workspace. Figure out how to import date-fns.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
+
 
