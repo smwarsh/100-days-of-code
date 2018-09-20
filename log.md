@@ -460,8 +460,18 @@
 
 **Link to work**: [FreeCodeCamp exercises 120-124](https://github.com/smwarsh/javascript-exercises)
 
+
+### Day 38: September 19, 2018
+
+**Today's Progress**: I tried to figure out how to import date-fns to Thrift
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: Another bad day for my mental health. I could barely get through this hour. I feel like a lot of the hour was wasted on a distracted mind (I didn't have enough medicine today, so I don't think that helped), and fighting my depression. After about 10 minutes, I discovered the dist folder with the files I wanted, but that was the last breakthrough I had. I'm getting a bunch of errors trying to import that file into my program, and there is no good information on how to do this! Maybe one day when I understand it really well, I will write an article explaining how I did it. For beginners. Because I have no idea what I'm doing. It seems like it should be so simple! And once I figure this out, I can go back to the problem solving and function writing that I love. I know that figuring out how to import files and functions is important, but I will I had good resources or guidance on this. And I wish I didn't feel depressed.
+
+**Link to work**: [Thrift](https://glitch.com/~pickle-slicer)
+
 **Tomorrow**: Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Write Concise Object Literal Declarations Using Simple Fields." Look at the links Leslie sent me. Sign into the Women Who Code Slack workspace. Figure out how to import date-fns.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
-
 
