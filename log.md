@@ -471,7 +471,18 @@
 
 **Link to work**: [Thrift](https://glitch.com/~pickle-slicer)
 
-**Tomorrow**: Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Write Concise Object Literal Declarations Using Simple Fields." Look at the links Leslie sent me. Sign into the Women Who Code Slack workspace. Figure out how to import date-fns.
+
+### Day 39: September 20, 2018
+
+**Today's Progress**: Moved code over to CodeSandbox (bye Glitch!), and importing date-fns finally worked! Then I did some thinking in my notebook, then started a little coding towards displaying everything by month.
+
+**Time Spent Coding**: 1h 9m
+
+**Thoughts**: Today was a lot better. I started off the hour with a success, successfully accessing date-fns after switching over to CodeSandbox. I feel a little guilty, because this is not code I can just put on my website. CodeSandbox did most of the work for me, so when I do take this code for my own and move it to my site, I'm going to have to figure this out all over again. But it felt so good to get past that block! Now I can move on to the fun part - problem solving!
+
+**Link to work**: [Thrift - moved to CodeSandbox](https://codesandbox.io/s/93m01wq3qo)
+
+**Tomorrow**: Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Write Concise Object Literal Declarations Using Simple Fields." Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Keep working on displayAllByCategory function and try to fix it to adhere to DRY.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
 
