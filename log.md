@@ -463,7 +463,7 @@
 
 ### Day 38: September 19, 2018
 
-**Today's Progress**: I tried to figure out how to import date-fns to Thrift
+**Today's Progress**: I tried to figure out how to import date-fns to Thrift.
 
 **Time Spent Coding**: 1h 0m
 
@@ -474,7 +474,7 @@
 
 ### Day 39: September 20, 2018
 
-**Today's Progress**: Moved code over to CodeSandbox (bye Glitch!), and importing date-fns finally worked! Then I did some thinking in my notebook, then started a little coding towards displaying everything by month.
+**Today's Progress**: I moved my code over to CodeSandbox (bye Glitch!), and importing date-fns finally worked! Then I did some thinking in my notebook, then started a little coding towards displaying everything by month.
 
 **Time Spent Coding**: 1h 9m
 
@@ -482,7 +482,19 @@
 
 **Link to work**: [Thrift - moved to CodeSandbox](https://codesandbox.io/s/93m01wq3qo)
 
-**Tomorrow**: Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Write Concise Object Literal Declarations Using Simple Fields." Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Keep working on displayAllByCategory function and try to fix it to adhere to DRY.
+
+
+### Day 40: September 21, 2018
+
+**Today's Progress**: I moved over my code from numbers to Date objects to represent the dates and adjusted the sortCategoryByDate function accordingly. I edited the displayCategory function to sort the category by date and format the date before logging it, and also label each category before printing out the transactions. I finished the displayAllByCategory function.
+
+**Time Spent Coding**: 1h 50m
+
+**Thoughts**: I'm really proud of my code today! It looks so nice now when displaying all the transactions to the console. I'm excited to show it off to Eric when I get a chance. I can tell Jiji appreciates it - she is napping contentedly in my lap. Today was my first day feeling pretty much fully better mentally, and it definitely shows in my coding, in everything from how long I coded to how much fun I had.
+
+**Link to work**: [Thrift](https://codesandbox.io/s/93m01wq3qo)
+
+**Tomorrow**: Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Write Concise Object Literal Declarations Using Simple Fields." Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Try to fix displayAllByCategory to adhere to DRY. Display transactions separated by month.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
 
