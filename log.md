@@ -494,7 +494,18 @@
 
 **Link to work**: [Thrift](https://codesandbox.io/s/93m01wq3qo)
 
+
+### Day 41: September 22, 2018
+
+**Today's Progress**: I did a LOT of brainstorming and problem solving in my notebook. I added some transactions via addTransactions.
+
+**Time Spent Coding**: 1h 4m
+
+**Thoughts**: I'm very tired tonight.. Adding transactions with the method is probably better for imitating how the program will actually work with user input, instead of hard coding it. I hope my brain decides to rest for the night, because I am still caught up thinking about how to make the addTransaction method work to do a lot more than it does right now.
+
+**Link to work**: [Thrift](https://codesandbox.io/s/93m01wq3qo)
+
 **Tomorrow**: Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Write Concise Object Literal Declarations Using Simple Fields." Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Try to fix displayAllByCategory to adhere to DRY. Display transactions separated by month.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea).
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Change addTransaction to do a bunch more stuff, including creating a new month object if that month isn't already there, creating expense or income object within that month, category within that, and transactions array with the added transaction in it! Eek!
 
