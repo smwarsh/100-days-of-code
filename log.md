@@ -518,4 +518,19 @@
 
 **Thoughts**: I am not counting today, but I wanted to include it because I feel like it is important to acknowledge how hard it is to code on some days, especially dealing with mental health problems. I felt depressed and anxious and couldn't settle into anything productive towards coding, and I ended up crying and breaking down and going to bed.
 
-**Link to work**: _none_
+**Link to work**: _n/a_
+
+
+### Day 42: September 24, 2018
+
+**Today's Progress**: I talked with Jared via Google Hangouts about require/import and some ideas for Thrift.
+
+**Time Spent Coding**: 1h 5m
+
+**Thoughts**: I'm glad to have a little more background on require and import, and we talked about destructuring as well, which I've been having a little trouble with in the FreeCodeCamp curriculum. I'm also glad I got to talk about Thrift and get some ideas on how to get the code sorted by month (or whatever range). I learned a little more about what SQL does and I'm anxious that it will be too much and too out of the way. I want my program to work like I envision, but I don't want to distract too much from the real goal - learning JavaScript! I guess I will worry about that when I come to it, and stick to JavaScript until then. I normally wouldn't count a conversation like this as my hour of code, but I am trying to get to bed at 9:30 every day until I have to go into New York twice later this week. I'm a bit cramped for time in terms of coding this week, so I'll take what I can get!
+
+**Link to work**: [Some code Jared wrote while we were discussing Thrift](https://codesandbox.io/s/vn140499z7)
+
+**Tomorrow**: Start working on displaying transactions by month. Refer to the link above to remember what we talked about.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Try to fix displayAllByCategory to adhere to DRY. Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Write Concise Object Literal Declarations Using Simple Fields."
