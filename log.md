@@ -509,3 +509,13 @@
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Change addTransaction to do a bunch more stuff, including creating a new month object if that month isn't already there, creating expense or income object within that month, category within that, and transactions array with the added transaction in it! Eek!
 
+
+### Day 41.5: September 23, 2018
+
+**Today's Progress**: I wrote a little in my notebook and did some thinking.
+
+**Time Spent Coding**: 33m
+
+**Thoughts**: I am not counting today, but I wanted to include it because I feel like it is important to acknowledge how hard it is to code on some days, especially dealing with mental health problems. I felt depressed and anxious and couldn't settle into anything productive towards coding, and I ended up crying and breaking down and going to bed.
+
+**Link to work**: _none_
