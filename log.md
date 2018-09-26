@@ -531,6 +531,17 @@
 
 **Link to work**: [Some code Jared wrote while we were discussing Thrift](https://codesandbox.io/s/vn140499z7)
 
-**Tomorrow**: Start working on displaying transactions by month. Refer to the link above to remember what we talked about.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Try to fix displayAllByCategory to adhere to DRY. Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Write Concise Object Literal Declarations Using Simple Fields."
+### Day 43: September 25, 2018
+
+**Today's Progress**: I finished going through FreeCodeCamp's ES6 curriculum for the second time. Then I did some regrouping of thoughts from my call with Jared yesterday
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: Glad to be finished with the ES6 review. I don't know if I want to do the RegEx challenges (which is what the curriculum goes through next), but I guess they'll be helpful. I didn't really feel like working on Thrift today, so I was glad to have FreeCodeCamp to go back to.
+
+**Link to work**: [FreeCodeCamp challenges 125-133](https://github.com/smwarsh/javascript-exercises)
+
+**Tomorrow**: Start working on displaying transactions by month. Refer to Day 42 link to remember what we talked about.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Try to fix displayAllByCategory to adhere to DRY. Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Do the FreeCodeCamp RegEx curriculum. Look at the Terminal tutorial that Jared sent me.
