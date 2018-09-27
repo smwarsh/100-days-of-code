@@ -542,6 +542,17 @@
 
 **Link to work**: [FreeCodeCamp challenges 125-133](https://github.com/smwarsh/javascript-exercises)
 
-**Tomorrow**: Start working on displaying transactions by month. Refer to Day 42 link to remember what we talked about.
+
+### Day 44: September 26, 2018
+
+**Today's Progress**: I wrote an initial version of isolateGroupByRange, which should isolate transactions in a given range of dates.
+
+**Time Spent Coding**: 1h 2m
+
+**Thoughts**: Today started out without a lot of confidence, but I actually achieved what I wanted to! And successfully did some troubleshooting after getting a bunch of errors. Feels good.
+
+**Link to work**: [Thrift](https://codesandbox.io/s/93m01wq3qo)
+
+**Tomorrow**: Display transactions by month. In order. Somehow, also with the name of the category displayed there. Will the array that the function returns be compatible with the displayAllByCategory function I already have? I think probably not.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Try to fix displayAllByCategory to adhere to DRY. Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Do the FreeCodeCamp RegEx curriculum. Look at the Terminal tutorial that Jared sent me.
