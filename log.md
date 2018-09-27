@@ -553,6 +553,17 @@
 
 **Link to work**: [Thrift](https://codesandbox.io/s/93m01wq3qo)
 
+
+### Day 45: September 27, 2018
+
+**Today's Progress**: I did a bunch of Regular Expressions Challenges on FreeCodeCamp
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: The RegEx challenges are pretty easy to go through, so it's a nice break almost. I will never remember all this, so I'm glad when I do need to use regular expressions at some point that at least I have this base and I can just look up the specifics. Today is day 1 of HPatCC and I'm going into NYC later, so I finished my hour now, at lunch at work.
+
+**Link to work**: [FreeCodeCamp RegEx Challenges, 134-160](https://github.com/smwarsh/javascript-exercises)
+
 **Tomorrow**: Display transactions by month. In order. Somehow, also with the name of the category displayed there. Will the array that the function returns be compatible with the displayAllByCategory function I already have? I think probably not.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Try to fix displayAllByCategory to adhere to DRY. Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Do the FreeCodeCamp RegEx curriculum. Look at the Terminal tutorial that Jared sent me.
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Try to fix displayAllByCategory to adhere to DRY. Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Do the FreeCodeCamp RegEx curriculum: start at "Regular Expressions: Check for All or None." Look at the Terminal tutorial that Jared sent me.
