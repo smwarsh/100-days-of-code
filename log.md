@@ -564,6 +564,19 @@
 
 **Link to work**: [FreeCodeCamp RegEx Challenges, 134-160](https://github.com/smwarsh/javascript-exercises)
 
-**Tomorrow**: Display transactions by month. In order. Somehow, also with the name of the category displayed there. Will the array that the function returns be compatible with the displayAllByCategory function I already have? I think probably not.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Try to fix displayAllByCategory to adhere to DRY. Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Do the FreeCodeCamp RegEx curriculum: start at "Regular Expressions: Check for All or None." Look at the Terminal tutorial that Jared sent me.
+### Day 46: September 28, 2018
+
+**Today's Progress**: I finished the FreeCodeCamp Regular Expressions curriculum. I messed around a lot with Thrift, changing my old functions to work with a date-sorted view of transactions. Now the transactions all display prettily by date, although they are not in order by date within the range. That's next!
+
+**Time Spent Coding**: 1h 36m
+
+**Thoughts**: I dozed a bit during my first 40 minutes of coding, but I was doing my best. I only got 4.5 hours of sleep last night, and this was first thing in the morning. I have to say, I'm pretty pissed with FreeCodeCamp. This is the second time in the RegEx curriculum that the answer to the challenge required knowledge that it hasn't taught you. Once I Googled it, it was clear, but it doesn't teach you before testing you on it! It's ridiculous and frustrating when you think you should know the answer but it's actually not your fault. I coded for way longer than I meant to. Once I started working on Thrift, I got really caught up in it and had a lot of fun solving how to make my program work now that you can isolate transactions by date. Yay!
+
+**Links to work**:
+1. [FreeCodeCamp RegEx Challenges, 161-165](https://github.com/smwarsh/javascript-exercises)
+2. [Thrift](https://codesandbox.io/s/93m01wq3qo)
+
+**Tomorrow**: Display transactions in order. Change functions to be compatible to the new set up. 
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Try to fix displayAllByCategory to adhere to DRY. Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Do the FreeCodeCamp Debugging curriculum. Look at the Terminal tutorial that Jared sent me.
