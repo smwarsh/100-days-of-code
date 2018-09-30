@@ -577,6 +577,19 @@
 1. [FreeCodeCamp RegEx Challenges, 161-165](https://github.com/smwarsh/javascript-exercises)
 2. [Thrift](https://codesandbox.io/s/93m01wq3qo)
 
-**Tomorrow**: Display transactions in order. Change functions to be compatible to the new set up. 
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Try to fix displayAllByCategory to adhere to DRY. Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Do the FreeCodeCamp Debugging curriculum. Look at the Terminal tutorial that Jared sent me.
+### Day 47: September 29, 2018
+
+**Today's Progress**: Started & finished FreeCodeCamp's debugging section. Made it so Thrift displays transactions in order by date within the date range. Edited displayEntireGroup function so it would display all of the transactions in the system, regardless of date. Finally fixed displayAllByCategory to adhere to DRY!
+
+**Time Spent Coding**: 1h 9m
+
+**Thoughts**: I'm increasingly annoyed with FreeCodeCamp. The debugging section of the course was nothing new, but it had some parts that just didn't make sense at all. They were trying to show the difference between FCC's console and the browser console but the code didn't do what they said it did? Anyway, I was surprised how easily I was able to arrange the transactions in order in Thrift, so that felt good.
+
+**Links to work**:
+1. [FreeCodeCamp Debugging Challenges, 166-177](https://github.com/smwarsh/javascript-exercises)
+2. [Thrift](https://codesandbox.io/s/93m01wq3qo)
+
+**Tomorrow**: 
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Look at the Terminal tutorial that Jared sent me. Do the FreeCodeCamp 4-hour SQL intro course.
