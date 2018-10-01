@@ -590,6 +590,17 @@
 1. [FreeCodeCamp Debugging Challenges, 166-177](https://github.com/smwarsh/javascript-exercises)
 2. [Thrift](https://codesandbox.io/s/93m01wq3qo)
 
-**Tomorrow**: 
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Look at the Terminal tutorial that Jared sent me. Do the FreeCodeCamp 4-hour SQL intro course.
+### Day 48: September 30, 2018
+
+**Today's Progress**: Changed all the math functions to operate within a given date range! The program can now sum a category by date, sum a group by date, and find the total gain by date.
+
+**Time Spent Coding**: 1h 10m
+
+**Thoughts**: That was a lot I got done in one little hour! I'm proud of that. I wish isolateGroupByRange worked the way I needed it to. That's definitely something to adjust for the future, because right now I am ignoring DRY and I repeat that code to isolate the transactions by date in each different function. I actually used a previous commit to GitHub today, and was glad I could go back and access that code! GitHub is cool.
+
+**Link to work**: [Thrift](https://codesandbox.io/s/93m01wq3qo)
+
+**Tomorrow**: Write a total() version of each function that just calls on the function with dates, using the earliest date in the group and the latest (today? No, in case transactions are input ahead of time like I sometimes do). I can make 2 helper functions that find each of these dates.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Look at the Terminal tutorial that Jared sent me. Do the FreeCodeCamp 4-hour SQL intro course. Implement DRY for isolateGroupByRange functionality, somehow...
