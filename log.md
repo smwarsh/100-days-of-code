@@ -612,6 +612,19 @@
 
 **Link to work**: [Thrift](https://codesandbox.io/s/93m01wq3qo)
 
-**Tomorrow**: Going forward, I need to work on the FreeCodeCamp 4-hour SQL course while also starting to move things in Thrift to the webpage, out from the console. It will be worthwhile to revist this portion of the Practical JavaScript course to get started. Do one or both of these things tomorrow.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Look at the Terminal tutorial that Jared sent me. Do the FreeCodeCamp 4-hour SQL intro course. Implement DRY for isolateGroupByRange functionality, somehow...
+### Day 51: October 3, 2018
+
+**Today's Progress**: I read an article that Leslie (@lesliely9) sent me about hackathons and checked out the tutorial course Jared (@cjaredm) sent me on the Terminal, then started the FreeCodeCamp beginner course on SQL/databases. Later Jared is hosting a JavaScript meetup, which I will attend.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: I'm glad I finally read that article! It's been on my todo list since Leslie sent it to me. I understand everything so far in the SQL course and have learned some good information. I'm already thinking of how I can apply it to Thrift, and I think this will be very useful. Hopefully I learn how to implement the stuff that the instructor is talking about before the end of the course!
+
+**Links to work**:
+1. [Hackathon article](https://medium.freecodecamp.org/i-entered-a-hackathon-with-13-days-of-coding-experience-here-is-what-i-learnt-5538d73ee7ce)
+2. [SQL course](https://www.freecodecamp.org/news/quincylarson/sql-and-databases-full-course--FLkLcFzA)
+
+**Tomorrow**: Work on the FreeCodeCamp SQL course while also starting to move things in Thrift to the webpage, out from the console. Revist this portion of the Practical JavaScript course to get started. Do one or both of these things tomorrow.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow...
