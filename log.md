@@ -601,6 +601,17 @@
 
 **Link to work**: [Thrift](https://codesandbox.io/s/93m01wq3qo)
 
-**Tomorrow**: Finish writing earliestDateInGroup(), then write earliestDate(), then set that as default parameter for startDate in functions with range. Later, write equivalent functions for latestDate and do the same with the default parameter stuff.
+
+### Day 50: October 2, 2018
+
+**Today's Progress**: I finished writing earliestDateInGroup(), wrote earliestDate(), then wrote the corresponding latest date functions: latestDateInCategory(), latestDateInGroup(), and latestDate(). In the last 10 minutes, I went back to my original plan for the app and checked how many things I have accomplished (22, if you count the console functionality as done!)
+
+**Time Spent Coding**: 1h 3m
+
+**Thoughts**: I can't believe it's day 50 already. And I can't believe how far I am in my app. There is only one thing left to do for the MVP. Well (David Tennant voice), actually, there's still a bunch left. I checked off things in pencil that are technically done in the console, but I want them to happen on the webpage. So, I guess that's the next step! The last thing, the one I couldn't check off even a little bit, is that I want everything to be stored in a database. *deep breath* This is going to be tough. I don't want to get too distracted. I think learning a little bit of SQL could help me in the job search, but I don't want to stray too far off the path (of learning JavaScript).
+
+**Link to work**: [Thrift](https://codesandbox.io/s/93m01wq3qo)
+
+**Tomorrow**: Going forward, I need to work on the FreeCodeCamp 4-hour SQL course while also starting to move things in Thrift to the webpage, out from the console. It will be worthwhile to revist this portion of the Practical JavaScript course to get started. Do one or both of these things tomorrow.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Look at the Terminal tutorial that Jared sent me. Do the FreeCodeCamp 4-hour SQL intro course. Implement DRY for isolateGroupByRange functionality, somehow...
