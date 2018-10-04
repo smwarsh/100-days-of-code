@@ -625,6 +625,19 @@
 1. [Hackathon article](https://medium.freecodecamp.org/i-entered-a-hackathon-with-13-days-of-coding-experience-here-is-what-i-learnt-5538d73ee7ce)
 2. [SQL course](https://www.freecodecamp.org/news/quincylarson/sql-and-databases-full-course--FLkLcFzA)
 
-**Tomorrow**: Work on the FreeCodeCamp SQL course while also starting to move things in Thrift to the webpage, out from the console. Revist this portion of the Practical JavaScript course to get started. Do one or both of these things tomorrow.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow...
+### Day 52: October 4, 2018
+
+**Today's Progress**: I tried to install MySQL... Updated MAMP too.
+
+**Time Spent Coding**: 1h 4m
+
+**Thoughts**: Databases are always a struggle... The course I'm looking at does not include how to install MySQL on Mac, so I tried to do that the whole hour. Found a new resource at the end of the hour which I hope I can use.
+
+**Links to work**:
+1. [SQL course](https://www.freecodecamp.org/news/quincylarson/sql-and-databases-full-course--FLkLcFzA)
+2. [Install MySQL on Mac](https://www.mikedane.com/databases/sql/mysql-mac-installation/)
+
+**Tomorrow**: Get MySQL installed on my computer so I can move on with this tutorial.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow...  Work on the FreeCodeCamp SQL course while also starting to move things in Thrift to the webpage, out from the console. Revist this portion of the Practical JavaScript course to get started.
