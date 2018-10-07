@@ -656,6 +656,17 @@
 2. [Install MySQL on Mac](https://www.mikedane.com/databases/sql/mysql-mac-installation/)
 3. [SQL Practice repository](https://github.com/smwarsh/sql-practice)
 
-**Tomorrow**: Continue with the MySQL tutorial.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow...  Start moving things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course to get started.
+### Day 54: October 6, 2018
+
+**Today's Progress**: Continued with the SQL tutorial. Got to 2:08:38 in the video.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: I watched the Youtube video on my TV while I followed along in PopSQL and took notes in my notebook at my desk. It was nice because I didn't have to keep pausing it. It was like having an extra monitor! I'm bored. I know it's important to learn basic commands in SQL, but I still don't know how to even begin to connect a database to a website. I guess that's more advanced, but I'm impatient to learn that and move forward with coding my project.
+
+**Link to work**: [SQL course](https://www.freecodecamp.org/news/quincylarson/sql-and-databases-full-course--FLkLcFzA)
+
+**Tomorrow**: Continue with the SQL tutorial.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow...  Start moving things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course to get started. _Note: I am eligible for another off day after Day 56._
