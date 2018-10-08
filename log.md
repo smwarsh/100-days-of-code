@@ -667,6 +667,19 @@
 
 **Link to work**: [SQL course](https://www.freecodecamp.org/news/quincylarson/sql-and-databases-full-course--FLkLcFzA)
 
-**Tomorrow**: Continue with the SQL tutorial.
+
+### Day 55: October 7, 2018
+
+**Today's Progress**: Continued with the SQL tutorial. Got to 2:48:41 in the video.
+
+**Time Spent Coding**: 1h 2m
+
+**Thoughts**: Wow I'm so bored! I want to get back to my project so badly... Actually, the second half of the hour wasn't too bad because I turned his examples into challenges for myself and tested if I knew how to do them before he explained it. But a lot of this tutorial is just copying and pasting his code and following along. I don't know how much learning I'm actually doing.
+
+**Links to work**:
+1. [SQL course](https://www.freecodecamp.org/news/quincylarson/sql-and-databases-full-course--FLkLcFzA)
+2. [SQL code in a .txt document](https://github.com/smwarsh/sql-practice/blob/master/2018-10-07tutorial.txt)
+
+**Tomorrow**: Continue with the SQL tutorial :|
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow...  Start moving things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course to get started. _Note: I am eligible for another off day after Day 56._
