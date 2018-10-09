@@ -680,10 +680,19 @@
 1. [SQL course](https://www.freecodecamp.org/news/quincylarson/sql-and-databases-full-course--FLkLcFzA)
 2. [SQL code in a .txt document](https://github.com/smwarsh/sql-practice/blob/master/2018-10-07tutorial.txt)
 
-**Tomorrow**: Continue with the SQL tutorial :|
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow...  Start moving things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course to get started. _Note: I am eligible for another off day after Day 56._
+### Day 56: October 8, 2018
 
-**Links from Patricia Feio @p_feyo**:
-1. [SQL Crash Course - Beginner to Intermediate](https://youtu.be/nWeW3sCmD2k)
-2. [Learn Database Design with MySQL From Scratch](https://www.eduonix.com/courses/Web-Development/Learn-Database-Design-with-MySQL-From-Scratch)
+**Today's Progress**: Continued with the SQL tutorial. Got to 3:17:14 in the video.
+
+**Time Spent Coding**: 1h 2m
+
+**Thoughts**: I got some good ideas about databases from people on Twitter today. Jared suggested Firebase, which he is trying out. I'm not sure if I want that though. I'd like to see how a relational database works (I believe Firebase is nonrelational), because I think that may be more relevant in a future job. If I have to, though, I'll do that. It has already been almost a week on this SQL course without any help to Thrift, and I miss my project! I want to try to finish the course tomorrow. Only an hour and 3 minutes left! I was pretty distracted today. Also on Twitter, Patricia Feio (@p_feyo) recommended me [SQL Crash Course - Beginner to Intermediate](https://youtu.be/nWeW3sCmD2k) and [Learn Database Design with MySQL From Scratch](https://www.eduonix.com/courses/Web-Development/Learn-Database-Design-with-MySQL-From-Scratch). They said it addresses the link between SQL and JavaScript, which Jared informed me is PHP! Okay, I have some experience in PHP but again, this is not the point of Thrift! I just want to learn JS... I understand now why companies hire different developers for front-end and back-end coding. I just want someone to hook up all this back-end stuff for me! Also, I am noting that a lot of the math and such things that I am doing with JS can be achieved in SQL too, but I am resisting the temptation to learn all that. Trying to stay focused on JavaScript here! P.S. My cat is on my lap and it is very nice.
+
+**Links to work**:
+1. [SQL course](https://www.freecodecamp.org/news/quincylarson/sql-and-databases-full-course--FLkLcFzA)
+2. [SQL code in a .txt document because idk what else to do](https://github.com/smwarsh/sql-practice/blob/master/2018-10-08tutorial.txt)
+
+**Tomorrow**: Continue with the SQL tutorial :| Come on let's finish!
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow...  Start moving things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course to get started. _Note: I am eligible for another off day after today._
