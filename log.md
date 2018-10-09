@@ -683,3 +683,7 @@
 **Tomorrow**: Continue with the SQL tutorial :|
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow...  Start moving things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course to get started. _Note: I am eligible for another off day after Day 56._
+
+**Links from Patricia Feio @p_feyo**:
+1. [SQL Crash Course - Beginner to Intermediate](https://youtu.be/nWeW3sCmD2k)
+2. [Learn Database Design with MySQL From Scratch](https://www.eduonix.com/courses/Web-Development/Learn-Database-Design-with-MySQL-From-Scratch)
