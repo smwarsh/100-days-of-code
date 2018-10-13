@@ -2,7 +2,7 @@
 
 ### Day 1: August 10, 2018
 
-**Today's Progress**: Refamiliarized myself with GitHub, changed username to smwarsh so it will be consistent across platforms, refamiliarized myself with basic terminal commands, updated my website for the first time since August 2017! Made new "Blog" page on my website with a post about my expectations and goals for this challenge.
+**Today's Progress**: I refamiliarized myself with GitHub, changed my username to smwarsh so it will be consistent across platforms, refamiliarized myself with basic terminal commands, updated my website for the first time since August 2017! I made a new "Blog" page on my website with a post about my expectations and goals for this challenge.
 
 **Time Spent Coding**: 1h 32m
 
@@ -13,7 +13,7 @@
 
 ### Day 2: August 11, 2018
 
-**Today's Progress**: Signed up for FreeCodeCamp and started Basic JavaScript curriculum. Did 36 challenges. Also took the new coders survey and uploaded my challenges to GitHub.
+**Today's Progress**: I signed up for FreeCodeCamp and started Basic JavaScript curriculum. I did 36 challenges. I also took the new coders survey and uploaded my challenges to GitHub.
 
 **Time Spent Coding**: 1h 10m
 
@@ -82,7 +82,7 @@
 
 ### Day 7: August 16, 2018
 
-**Today's Progress**: Worked on the Basic JavaScript curriculum on FreeCodeCamp for half an hour, then spent the rest of the time rewriting the PHP form processor for my contact form and debugging it.
+**Today's Progress**: I worked on the Basic JavaScript curriculum on FreeCodeCamp for half an hour, then spent the rest of the time rewriting the PHP form processor for my contact form and debugging it.
 
 **Time Spent Coding**: 1h 48m
 
@@ -95,7 +95,7 @@
 
 ### Day 8: August 17, 2018
 
-**Today's Progress**: Worked on the Basic JavaScript curriculum on FreeCodeCamp for 45 minutes, then spent the rest of the time debugging my contact form code. I scrapped everything, started it from scratch, and now it works!
+**Today's Progress**: I worked on the Basic JavaScript curriculum on FreeCodeCamp for 45 minutes, then spent the rest of the time debugging my contact form code. I scrapped everything, started it from scratch, and now it works!
 
 **Time Spent Coding**: 1h 48m
 
@@ -369,7 +369,7 @@
 
 ### Day 30: September 10, 2018
 
-**Today's Progress**: Edited Thrift to integrate the code example from @cjaredm. Credited him. Wrote a display function. Made a calendar plan with small steps for the next week and a half. Went through 2 FreeCodeCamp ES6 challenges.
+**Today's Progress**: I edited Thrift to integrate the code example from @cjaredm. I credited him. I wrote a display function. I made a calendar plan with small steps for the next week and a half. I went through 2 FreeCodeCamp ES6 challenges.
 
 **Time Spent Coding**: 1h 2m
 
@@ -391,7 +391,7 @@
 
 ### Day 32: September 12, 2018
 
-**Today's Progress**: I wrote a totalUpCategory function in Thrift that totals the price in each category, and a helper function, roundToPrice, which will round the price accurately to two decimal places and return a string. Did two ES6 FreeCodeCamp exercises.
+**Today's Progress**: I wrote a totalUpCategory function in Thrift that totals the price in each category, and a helper function, roundToPrice, which will round the price accurately to two decimal places and return a string. I did two ES6 FreeCodeCamp exercises.
 
 **Time Spent Coding**: 59m
 
@@ -428,7 +428,7 @@
 
 ### Day 35: September 16, 2018
 
-**Today's Progress**: Reviewed ES6 exercises on FreeCodeCamp. Watched a YouTube video on destructuring. Made a plan for the next chunk of work on Thrift. Also, I listened to a Syntax podcast earlier, "11 Habits of Highly Effective Developers," but I didn't count that in my time spent coding.
+**Today's Progress**: I reviewed ES6 exercises on FreeCodeCamp. I watched a YouTube video on destructuring. I made a plan for the next chunk of work on Thrift. Also, I listened to a Syntax podcast earlier, "11 Habits of Highly Effective Developers," but I didn't count that in my time spent coding.
 
 **Time Spent Coding**: 1h 8m
 
@@ -441,7 +441,7 @@
 
 ### Day 36: September 17, 2018
 
-**Today's Progress**: Chose datefns as the library I want to use to deal with dates in Thrift. Spent awhile trying to figure out how on Earth to use that library in my code?! 
+**Today's Progress**: I chose datefns as the library I want to use to deal with dates in Thrift. I spent awhile trying to figure out how on Earth to use that library in my code?! 
 
 **Time Spent Coding**: 1h 0m
 
@@ -556,7 +556,7 @@
 
 ### Day 45: September 27, 2018
 
-**Today's Progress**: I did a bunch of Regular Expressions Challenges on FreeCodeCamp
+**Today's Progress**: I did a bunch of Regular Expressions Challenges on FreeCodeCamp.
 
 **Time Spent Coding**: 1h 0m
 
@@ -580,7 +580,7 @@
 
 ### Day 47: September 29, 2018
 
-**Today's Progress**: Started & finished FreeCodeCamp's debugging section. Made it so Thrift displays transactions in order by date within the date range. Edited displayEntireGroup function so it would display all of the transactions in the system, regardless of date. Finally fixed displayAllByCategory to adhere to DRY!
+**Today's Progress**: I started & finished FreeCodeCamp's debugging section. I made it so Thrift displays transactions in order by date within the date range. I edited displayEntireGroup function so it would display all of the transactions in the system, regardless of date. I finally fixed displayAllByCategory to adhere to DRY!
 
 **Time Spent Coding**: 1h 9m
 
@@ -645,7 +645,7 @@
 
 ### Day 53: October 5, 2018
 
-**Today's Progress**: I got MySQL installed and learned some basic commands
+**Today's Progress**: I got MySQL installed and learned some basic commands.
 
 **Time Spent Coding**: 1h 11m
 
@@ -659,7 +659,7 @@
 
 ### Day 54: October 6, 2018
 
-**Today's Progress**: Continued with the SQL tutorial. Got to 2:08:38 in the video.
+**Today's Progress**: I continued with the SQL tutorial. I got to 2:08:38 in the video.
 
 **Time Spent Coding**: 1h 0m
 
@@ -670,7 +670,7 @@
 
 ### Day 55: October 7, 2018
 
-**Today's Progress**: Continued with the SQL tutorial. Got to 2:48:41 in the video.
+**Today's Progress**: I continued with the SQL tutorial. I got to 2:48:41 in the video.
 
 **Time Spent Coding**: 1h 2m
 
@@ -683,7 +683,7 @@
 
 ### Day 56: October 8, 2018
 
-**Today's Progress**: Continued with the SQL tutorial. Got to 3:17:14 in the video.
+**Today's Progress**: I continued with the SQL tutorial. I got to 3:17:14 in the video.
 
 **Time Spent Coding**: 1h 2m
 
@@ -696,7 +696,7 @@
 
 ### Day 57: October 9, 2018
 
-**Today's Progress**: Continued with the SQL tutorial. Got to 3:42:16 in the video.
+**Today's Progress**: I continued with the SQL tutorial. I got to 3:42:16 in the video.
 
 **Time Spent Coding**: 1h 1m
 
@@ -709,7 +709,7 @@
 
 ### Day 57.5: October 10, 2018
 
-**Today's Progress**: Continued with the SQL tutorial. Got to 3:55:54 in the video.
+**Today's Progress**: I continued with the SQL tutorial. I got to 3:55:54 in the video.
 
 **Time Spent Coding**: 19m
 
@@ -720,7 +720,7 @@
 
 ### Day 58: October 11, 2018
 
-**Today's Progress**: Finished the SQL tutorial! Started making an Entity Relationship (ER) diagram for Thrift.
+**Today's Progress**: I finished the SQL tutorial! I started making an Entity Relationship (ER) diagram for Thrift.
 
 **Time Spent Coding**: 1h 1m
 
@@ -728,6 +728,17 @@
 
 **Link to work**: [SQL course](https://www.freecodecamp.org/news/quincylarson/sql-and-databases-full-course--FLkLcFzA)
 
-**Tomorrow**: Finish ER diagram. Make blog post.
+
+### Day 59: October 12, 2018
+
+**Today's Progress**: I started work on my Day 60 blog post.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: I had to make the blog post writing part of my 100 days of code, because it would never get done if I didn't. Hopefully I can finish it and get it up on my website tomorrow for day 60.
+
+**Link to work**: [The stream-of-consciousness transcript](https://drive.google.com/open?id=105I9U_qMe9KzVtVr_NLvlEG2almwLPK1I0z3OBnCFj4)
+
+**Tomorrow**: Finish writing the blog post. Put it on stephwarsh.com.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow...  Start moving things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course to get started. _Note: I am eligible for an off day between Oct 9 and Oct 23._ Check out the tutorials that @p_feyo sent me.
