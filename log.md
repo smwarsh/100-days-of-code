@@ -739,6 +739,17 @@
 
 **Link to work**: [The stream-of-consciousness transcript](https://drive.google.com/open?id=105I9U_qMe9KzVtVr_NLvlEG2almwLPK1I0z3OBnCFj4)
 
-**Tomorrow**: Finish writing the blog post. Put it on stephwarsh.com.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow...  Start moving things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course to get started. _Note: I am eligible for an off day between Oct 9 and Oct 23._ Check out the tutorials that @p_feyo sent me.
+### Day 60: October 13, 2018
+
+**Today's Progress**: I edited, finished, and posted my Day 60 blog post.
+
+**Time Spent Coding**: 1h 50m
+
+**Thoughts**: I'm glad I've updated my website. It makes me think how I need to make a navigation bar so I can actually link to my blog and contact pages from the home page. Add it to the list! It was nice to do a little review of how I feel up till now in the challenge. Also, I really miss working on Thrift.
+
+**Link to work**: [Blog Post: "Day 60 of 100 Days of Code"](https://www.stephwarsh.com/blog.php)
+
+**Tomorrow**: Start moving things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course to get started.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for an off day between Oct 9 and Oct 23._ Check out the tutorials that @p_feyo sent me. Make a navigation bar on my website.
