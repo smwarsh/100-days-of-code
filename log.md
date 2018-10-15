@@ -750,6 +750,17 @@
 
 **Link to work**: [Blog Post: "Day 60 of 100 Days of Code"](https://www.stephwarsh.com/blog.php)
 
-**Tomorrow**: Start moving things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course to get started.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for an off day between Oct 9 and Oct 23._ Check out the tutorials that @p_feyo sent me. Make a navigation bar on my website.
+### Day 61: October 14, 2018
+
+**Today's Progress**: I revisited Watch and Code to remember how to get my JavaScript into the browser. I planned what I want the HTML to be like for Thrift.
+
+**Time Spent Coding**: 54m
+
+**Thoughts**: I was _really_ not into it today. I think it has been too long since I've taken a break (3 weeks). Tomorrow will have to be an off day; I can't get anything done in this state of mind.
+
+**Link to work**: [Watch and Code work](https://github.com/smwarsh/practical-js-todo-app)
+
+**Tomorrow**: Take a break! But on Tuesday - Start moving things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course to get started.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 24 and Nov 8._ Check out the tutorials that @p_feyo sent me. Make a navigation bar on my website.
