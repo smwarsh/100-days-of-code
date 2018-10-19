@@ -761,6 +761,28 @@
 
 **Link to work**: [Watch and Code work](https://github.com/smwarsh/practical-js-todo-app)
 
-**Tomorrow**: Take a break! But on Tuesday - Start moving things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course to get started.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 24 and Nov 8._ Check out the tutorials that @p_feyo sent me. Make a navigation bar on my website.
+### Day 62: October 17, 2018
+
+**Today's Progress**: I participated in a JavaScript meetup with [Jared](https://twitter.com/cjaredm), [Edward](https://twitter.com/edwardhong527), and [Leslie](https://twitter.com/lesliely9).
+
+**Time Spent Coding**: 1h 10m
+
+**Thoughts**: The meetup was fun! I'm hoping it gets me back into the groove, because I took a couple of days off in a row and I'm not proud of it.
+
+**Link to work**: [Jared's tweet about the meetup](https://twitter.com/cjaredm/status/1052270362392715264)
+
+
+### Day 63: October 18, 2018
+
+**Today's Progress**: I started the FreeCodeCamp Basic Data Structures curriculum.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: I am grudgingly getting back to it. I wanted to work on my project today but couldn't bring myself to do it. I was dragging my feet on these challenges too. I mean, come on, arrays? I've worked a _lot_ with arrays on my project. I know this is cocky of me, but I can't help but to feel above this.
+
+**Link to work**: [FreeCodeCamp Basic Data Structures Challenges, 178-188](https://github.com/smwarsh/javascript-exercises)
+
+**Tomorrow**: FreeCodeCamp Basic Data Structures curriculum
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Check out the tutorials that @p_feyo sent me. Make a navigation bar on my website. Move things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course.
