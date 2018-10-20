@@ -783,6 +783,19 @@
 
 **Link to work**: [FreeCodeCamp Basic Data Structures Challenges, 178-188](https://github.com/smwarsh/javascript-exercises)
 
-**Tomorrow**: FreeCodeCamp Basic Data Structures curriculum
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Check out the tutorials that @p_feyo sent me. Make a navigation bar on my website. Move things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course.
+### Day 64: October 19, 2018
+
+**Today's Progress**: I finished the FreeCodeCamp Basic Data Structures curriculum. I started the first SQL tutorial @p_feyo sent me and got to 7:12.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: I am so tired, and I have a headache. While doing the FreeCodeCamp challenges, I talked myself into going back to SQL tutorials. Thrift needs a database after all, and the more I slog through this stuff, the quicker it will get done.
+
+**Links to work**:
+1. [FreeCodeCamp Basic Data Structures Challenges, 189-197](https://github.com/smwarsh/javascript-exercises)
+2. [SQL Crash Course - Beginner to Intermediate](https://youtu.be/nWeW3sCmD2k)
+
+**Tomorrow**: Continue (finish?) SQL crash course.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Do the tutorials that @p_feyo sent me. Make a navigation bar on my website. Move things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course.
