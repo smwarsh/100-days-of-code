@@ -803,10 +803,24 @@
 
 **Time Spent Coding**: 1h 1m
 
-**Thoughts**: I'm glad I still got this coding done, even though I went into the city today and I'm visiting Eric. I clicked on the link to the other tutorial that Particia Feio recommended to me, but the link is broken! It's weird, but from what I can see, it looks like the person who makes the tutorials, Brad Traversy, has perhaps left a partnership with one website and started working with Udemy? So I guess I'd have to pay to see the rest of this, which is unfortunate because although Patricia mentioned that it covers connecting SQL with JavaScript, I have learned nothing about this so far.
+**Thoughts**: I'm glad I still got this coding done, even though I went into the city today and I'm visiting Eric. I clicked on the link to the other tutorial that Patricia Feio recommended to me, but the link is broken! It's weird, but from what I can see, it looks like the person who makes the tutorials, Brad Traversy, has perhaps left a partnership with one website and started working with Udemy? So I guess I'd have to pay to see the rest of this, which is unfortunate because although Patricia mentioned that it covers connecting SQL with JavaScript, I have learned nothing about this so far.
 
 **Link to work**: [SQL Crash Course - Beginner to Intermediate](https://youtu.be/nWeW3sCmD2k)
 
-**Tomorrow**: I'm not sure... FreeCodeCamp? Find a PHP tutorial?
+
+### Day 66: October 21, 2018
+
+**Today's Progress**: I started the Eduonix MySQL/PHP tutorial that @p_feyo sent me. I got to 13:45 in the PHP Fundamentals lecture, taking copious notes. I also listened to a 55-minute Syntax podcast, "20 JavaScript Array and Object Methods..." but I did not include that in time spent coding.
+
+**Time Spent Coding**: 1h 5m
+
+**Thoughts**: This is the first time in over a week that I've actually been into what I'm doing. This tutorial actually seems like it will be applicable to my project! I'm so glad I figured out how to get to the tutorial. For some reason, I get an Error 404 page when I try to open it in Chrome, but luckily Patricia told me it is definitely working, so I opened the link in Safari and it worked! I'm glad I did the previous tutorials, because I'll definitely need those skills, but I'm so happy I've finally found a tutorial that is telling me how to use the database on a website. There is a lot to do before I get to that level with Thrift, though. I tried to put Thrift on localhost and use it, but the JS doesn't seem to be working. I'll have to figure out how to use Thrift outside of CodeSandbox and incorporate the database, PHP, and everything else. It's a big task. For now, I'm just watching, taking lots of notes, and absorbing as much as I can. I didn't want to stop at the end of the hour! As for the podcast I listened to... I don't think I'm much of an aural learner. Even though I knew most of the methods they discussed, I couldn't keep focus or absorb anything they were saying.
+
+**Links to work**:
+1. [Learn Database Design with MySQL From Scratch](https://www.eduonix.com/courses/Web-Development/Learn-Database-Design-with-MySQL-From-Scratch)
+2. [Thrift repo on GitHub](https://github.com/smwarsh/spending-tracker)
+3. [Syntax: 20 JavaScript Array and Object Methods...](https://secure-hwcdn.libsyn.com/p/1/4/f/14fac28e86124ccd/Syntax043.mp3?c_id=20601734&cs_id=20601734&expiration=1540179579&hwt=8c2cf52fb5b4899438a38cea63daa5ec)
+
+**Tomorrow**: Continue the tutorial! And continue taking notes.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Move things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course.
