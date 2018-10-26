@@ -854,6 +854,19 @@
 
 **Link to work**: [Learn Database Design with MySQL From Scratch](https://www.eduonix.com/courses/Web-Development/Learn-Database-Design-with-MySQL-From-Scratch)
 
-**Tomorrow**: Finish the tutorial and taking notes. Then, start coding the static HTML for Thrift.
+
+### Day 70: October 25, 2018
+
+**Today's Progress**: I finished "Update & Delete With PHP" and with that finished the whole section of the tutorial on how to connect a database to the webpage using PHP. Then, I coded static tables into my HTML for Thrift.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: It feels good to be coding for Thrift again. The last time I worked on it was October 2, over 3 weeks ago.
+
+**Links to work**:
+1. [Learn Database Design with MySQL From Scratch](https://www.eduonix.com/courses/Web-Development/Learn-Database-Design-with-MySQL-From-Scratch)
+2. [Thrift](https://codesandbox.io/s/93m01wq3qo)
+
+**Tomorrow**: I'm not sure what to do next... I should talk to Jared about how to get my JavaScript working on my actual website, but I'm afraid I won't be able to do that until Monday. If I can't do that tomorrow... Think about how Thrift's database will be set up.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Move things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course. Learn CSS Grid.
