@@ -878,6 +878,19 @@
 
 **Link to work**: [Thrift: In CodeSandbox for the last time?](https://codesandbox.io/s/93m01wq3qo)
 
-**Tomorrow**: I will decide whether to continue in localhost or make a folder on my website to work on Thrift. I will review what I've done and what comes next!
+
+### Day 72: October 27, 2018
+
+**Today's Progress**: Okay, whew, I did a lot today. I remembered how to log into Cyberduck (that took about 10 min). I put Thrift on stephwarsh.com. I realized that was not the bundled version, so I took the code from the webpack folder on the Desktop and uploaded that instead. While I was waiting for that, I started working on making a navigation bar for my website. I downloaded the latest version of Bootstrap. Something in my CSS is messing it up though, and I didn't have time to figure it out before Thrift finished uploading. Then, I updated Thrift's HTML by copying the content of index.html from Thrift on CodeSandbox. This somehow broke the entire thing, so I went back to before I did that and added HTML little by little. Now, Thrift is up on my website and ready for more work!
+
+**Time Spent Coding**: 1h 3m
+
+**Thoughts**: Woohoo! I am proud of all I accomplished today. I only settled in and got everything in order, but I did that, and it works (precariously, it seems, but that's fine). Now it's time for some database-ing!
+
+**Links to work**:
+1. I don't have one for my website, but I should really get that on GitHub so I can track my progress in it.
+2. [Thrift: On my website!](https://stephwarsh.com/thrift/dist/)
+
+**Tomorrow**: Figure out next steps for database-ing this project.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Move things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course. Learn CSS Grid.
