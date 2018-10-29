@@ -891,6 +891,20 @@
 1. I don't have one for my website, but I should really get that on GitHub so I can track my progress in it.
 2. [Thrift: On my website!](https://stephwarsh.com/thrift/dist/)
 
-**Tomorrow**: Figure out next steps for database-ing this project.
+
+### Day 73: October 28, 2018
+
+**Today's Progress**: I started setting up the database for Thrift on my website. I watched a couple videos and read some documentation trying to get a handle on using dates in the database.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: It was only by extreme force of will that I managed to code for an hour today when all I wanted to do was read my book, _The Gentleman's Guide to Vice and Virtue_ by Mackenzi Lee. I guess I'm glad I did it, but still. I'm so nervous that this won't work, but I'm doing okay setting up the database so far. Step by tentative step into the world of back-end development. (Front-end is more fun.)
+
+**Links to work**:
+1. [YouTube: Bluehost Tutorial: How To Create A MySQL Database And Table](https://youtu.be/gRAuL6XVh_g)
+2. [YouTube: MySQL 33 - Datetime, Date, Time Data Types](https://youtu.be/vB_eHscoSbI)
+3. [MySQL Reference Manual: 11.3 Date and Time Types](https://dev.mysql.com/doc/refman/5.6/en/date-and-time-types.html)
+
+**Tomorrow**: Add the rest of the tables to the database. Then figure out what to do next!
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Move things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course. Learn CSS Grid.
