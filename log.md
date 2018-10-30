@@ -916,6 +916,19 @@
 
 **Link to work**: Nothing, it's all in the database for my website and I don't know how to show that here.
 
-**Tomorrow**: Add the rest of the rows to the tables. Then stop messing around and figure out how to connect this to the webpage.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Move things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course. Learn CSS Grid.
+### Day 75: October 30, 2018
+
+**Today's Progress**: I connected the Thrift database to my website.
+
+**Time Spent Coding**: 1h 5m
+
+**Thoughts**: Wahoo! I can't believe this worked! There was one error, which I debugged, but that just served to assure me that I actually did get this working (it would have been too suspicious if it worked on the first try). Wow. I feel _really_ proud of what I accomplished today. I did not expect the connection to work so smoothly.
+
+**Links to work**:
+1. [Thrift code on GitHub](https://github.com/smwarsh/spending-tracker)
+2. [Thrift on my website](https://stephwarsh.com/thrift/dist/)
+
+**Tomorrow**: Start figuring out how to display the database on my webpage instead of the static content.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Learn CSS Grid.
