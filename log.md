@@ -905,6 +905,17 @@
 2. [YouTube: MySQL 33 - Datetime, Date, Time Data Types](https://youtu.be/vB_eHscoSbI)
 3. [MySQL Reference Manual: 11.3 Date and Time Types](https://dev.mysql.com/doc/refman/5.6/en/date-and-time-types.html)
 
-**Tomorrow**: Add the rest of the tables to the database. Then figure out what to do next!
+
+### Day 74: October 29, 2018
+
+**Today's Progress**: I finished adding the tables and started adding rows.
+
+**Time Spent Coding**: 1h 3m
+
+**Thoughts**: I was excited to actually use some tutorial knowledge IRL! Of course, I had to look it up again... tutorials are basically useless in that way. That's why you've gotta apply it! Side note: I feel like I'm procrastinating doing something actually difficult. Hmm.
+
+**Link to work**: Nothing, it's all in the database for my website and I don't know how to show that here.
+
+**Tomorrow**: Add the rest of the rows to the tables. Then stop messing around and figure out how to connect this to the webpage.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Move things in Thrift to the webpage, out from the console. Revisit this portion of the Practical JavaScript course. Learn CSS Grid.
