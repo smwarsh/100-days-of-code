@@ -932,3 +932,20 @@
 **Tomorrow**: Start figuring out how to display the database on my webpage instead of the static content.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Learn CSS Grid.
+
+
+### Day 76: October 31, 2018
+
+**Today's Progress**: I started echoing the database information onto the webpage.
+
+**Time Spent Coding**: 1h 7m
+
+**Thoughts**: Wow, information from the database is actually reflected on my webpage! I don't think I've ever accomplished something this cool in coding before. Unfortunately, I realize there are many limitations to what I know how to do now, and I need to figure out how to use JavaScript with all this database info. Otherwise, there will be no date ranges, sums, or any other JavaScript function I've written over these months working on Thrift. The internet suggests I use AJAX, but I don't want to learn _another_ technology. Writing Thrift by myself from scratch is at least as difficult as I predicted, if in different ways than I anticipated.
+
+**Links to work**:
+1. [Thrift code on GitHub](https://github.com/smwarsh/spending-tracker)
+2. [Thrift on my website](https://stephwarsh.com/thrift/dist/)
+
+**Tomorrow**: Finish displaying the database on my webpage, replacing the static content. Ask Jared what to do about this JS/PHP problem. Start figuring out how to add things (do I need AJAX for that too? I'm worried).
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Learn CSS Grid.
