@@ -959,6 +959,19 @@
 1. [Thrift code on GitHub](https://github.com/smwarsh/spending-tracker)
 2. [Thrift on my website](https://stephwarsh.com/thrift/dist/)
 
-**Tomorrow**: Add hard-coded transactions. Ask Jared what to do about this JS/PHP problem. Start figuring out how to add things (do I need AJAX for that too? I'm worried).
+
+### Day 78: November 2, 2018
+
+**Today's Progress**: I finished adding the hard-coded transactions from my JavaScript file to the database, asked Jared for help with the JS/PHP relationship, and I updated the CSS for the Thrift page.
+
+**Time Spent Coding**: 1h 8m
+
+**Thoughts**: I wasn't sure I was going to be able to code today since friends are coming, and I'm nervous about tomorrow.. Hopefully it works out. As always, I'm glad Jared is helping me. I think my webpage is very ugly and I can't wait to clean it up at the end!
+
+**Links to work**:
+1. [Thrift code on GitHub](https://github.com/smwarsh/spending-tracker)
+2. [Thrift on my website](https://stephwarsh.com/thrift/dist/)
+
+**Tomorrow**: Consider whatever Jared finds out about the JS/PHP connection. Start figuring out how to add things (do I need AJAX for that too? I'm worried).
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Learn CSS Grid.
