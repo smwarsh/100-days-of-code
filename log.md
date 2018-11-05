@@ -975,3 +975,18 @@
 **Tomorrow**: Consider whatever Jared finds out about the JS/PHP connection. Start figuring out how to add things (do I need AJAX for that too? I'm worried).
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Learn CSS Grid.
+
+
+### Day 79: November 4, 2018
+
+**Today's Progress**: I am considering learning Node.js and doing my research on it before spending $100 on Wes Bos' course.
+
+**Time Spent Coding**: 1h 11m
+
+**Thoughts**: I took yesterday off because there was not even a free moment for coding, with Anyãh, Brad, and Eric visiting. Today I got in an hour but it was mostly a lot of thinking. I went on Indeed to see if Node is in any job requirements, and it really isn't. It might be best to use Firebase, another suggestion of Jared's (and at least one or two other people).
+
+**Link to work**: [Checking out Wes Bos' course](https://learnnode.com/)
+
+**Tomorrow**: Decide about what to learn next, and start.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Learn CSS Grid.
