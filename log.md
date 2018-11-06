@@ -987,6 +987,17 @@
 
 **Link to work**: [Checking out Wes Bos' course](https://learnnode.com/)
 
-**Tomorrow**: Decide about what to learn next, and start.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Learn CSS Grid.
+### Day 80: November 5, 2018
+
+**Today's Progress**: I did a lot more thinking today, I talked to Zoe, decided to learn Node.js, and found a potentially good tutorial.
+
+**Time Spent Coding**: 1h 22m
+
+**Thoughts**: I'm suspicious that the tutorial I found is too good to be true, because it seems like it's exactly what I want and it seems so simple. I'm optimistic despite that though, and I'm looking forward to trying it out. The next few days will be tough because I'm going to Texas for work, then vacation. I'm excited about next steps in my project but I have to make smart decisions the next week about my sleep and such. I might write another blog post, as something I can do on the plane?
+
+**Link to work**: [SitePoint tutorial](https://www.sitepoint.com/using-node-mysql-javascript-client/)
+
+**Tomorrow**: Do the SitePoint tutorial
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Learn CSS Grid. Take Wes Bos' course?
