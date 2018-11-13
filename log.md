@@ -998,6 +998,17 @@
 
 **Link to work**: [SitePoint tutorial](https://www.sitepoint.com/using-node-mysql-javascript-client/)
 
-**Tomorrow**: Do the SitePoint tutorial
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Learn CSS Grid. Take Wes Bos' course?
+### Day 81: November 12, 2018
+
+**Today's Progress**: I started the FreeCodeCamp Basic Algorithm Scripting curriculum and did 4 challenges
+
+**Time Spent Coding**: 39m
+
+**Thoughts**: I like the challenges in this section! They don't tell you how to do them, so they are actually mentally stimulating! It has been tough to get started back up with coding, even though I probably could have done so a couple of days of my trip to Texas. So, I decided to work on FreeCodeCamp instead of the Node.js tutorial, and did a "half day" to get back into it.
+
+**Link to work**: [FreeCodeCamp Basic Algorithm Scripting Challenges, 198-201](https://github.com/smwarsh/javascript-exercises)
+
+**Tomorrow**: Continue FreeCodeCamp exercises for one more day before getting back to Thrift.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. Take Wes Bos' course? _Note: I am eligible for another day off between Nov 12 and Nov 26._ Do SitePoint tutorial on Node.js.
