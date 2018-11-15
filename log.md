@@ -1020,6 +1020,17 @@
 
 **Link to work**: [FreeCodeCamp Basic Algorithm Scripting Challenges, 202](https://github.com/smwarsh/javascript-exercises)
 
-**Tomorrow**: Continue FreeCodeCamp exercises while still sick, then face up to it and get back to Thrift.
+
+### Day 83: November 15, 2018
+
+**Today's Progress**: I did 6 challenges in the FreeCodeCamp Basic Algorithm Scripting curriculum.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: I feel a lot sharper today.
+
+**Link to work**: [FreeCodeCamp Basic Algorithm Scripting Challenges, 203-208](https://github.com/smwarsh/javascript-exercises)
+
+**Tomorrow**: Finish FreeCodeCamp Basic Algorithm Scripting challenges, then face up to it and get back to Thrift.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. Take Wes Bos' course? _Note: This fortnight ends Nov 26._ Do SitePoint tutorial on Node.js.
