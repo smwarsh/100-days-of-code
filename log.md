@@ -1057,6 +1057,19 @@
 1. [How do queries work in Cloud Firestore? | Get to Know Cloud Firestore #2](https://youtu.be/Ofux_4c94FI)
 2. [FreeCodeCamp Basic Algorithm Scripting Challenges, 209-211](https://github.com/smwarsh/javascript-exercises)
 
+
+### Day 86: November 20, 2018
+
+**Today's Progress**: I finished rewatching the second video on Cloud Firestore and did 1 FreeCodeCamp challenge from the Basic Algorithm Scripting curriculum and got deep into a second, the last one.
+
+**Time Spent Coding**: 1h 4m
+
+**Thoughts**: Is Cloud Firestore the same thing as Firebase? And why can't I get this last dang challenge on FreeCodeCamp?
+
+**Links to work**:
+1. [How do queries work in Cloud Firestore? | Get to Know Cloud Firestore #2](https://youtu.be/Ofux_4c94FI)
+2. [FreeCodeCamp Basic Algorithm Scripting Challenges, 212](https://github.com/smwarsh/javascript-exercises)
+
 **Tomorrow**: Finish FreeCodeCamp Basic Algorithm Scripting challenges. Learn Firebase.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. Take Wes Bos' course? _Note: This fortnight ends Nov 26._
