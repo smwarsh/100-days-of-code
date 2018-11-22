@@ -1081,6 +1081,17 @@
 
 **Link to work**: [FreeCodeCamp Basic Algorithm Scripting Challenges, 213](https://github.com/smwarsh/javascript-exercises)
 
-**Tomorrow**: Start Node.js course.
+
+### Day 88: November 22, 2018
+
+**Today's Progress**: Happy Thanksgiving! I started Wes Bos' Node.js course, but I may have to totally restart it, I don't know.
+
+**Time Spent Coding**: 39m
+
+**Thoughts**: I tried to do all those edits and everything while working in the master branch on GitHub... Ugh. I didn't realize I had to fork it. I thought cloning it to GitHub Desktop would do that for me. I am woefully inexperienced. Also, I have almost no space left on my computer to be downloading all this new stuff. Oops.
+
+**Link to work**: [Learn-Node on GitHub](https://github.com/smwarsh/Learn-Node)
+
+**Tomorrow**: Continue Node.js course.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. _Note: This fortnight ends Nov 26._
