@@ -1070,6 +1070,17 @@
 1. [How do queries work in Cloud Firestore? | Get to Know Cloud Firestore #2](https://youtu.be/Ofux_4c94FI)
 2. [FreeCodeCamp Basic Algorithm Scripting Challenges, 212](https://github.com/smwarsh/javascript-exercises)
 
-**Tomorrow**: Finish FreeCodeCamp Basic Algorithm Scripting challenges. Learn Firebase.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. Take Wes Bos' course? _Note: This fortnight ends Nov 26._
+### Day 87: November 21, 2018
+
+**Today's Progress**: I explained my project predicament to Michaela for half an hour! She told me to buy the Node.js course and learn it. I finished the Basic Algorithm Scripting curriculum on FreeCodeCamp, and I bought the Node.js course from Wes Bos.
+
+**Time Spent Coding**: 1h 2m
+
+**Thoughts**: I apparently can't make any decisions. I'm gonna learn Node.js. I didn't intend to delve into backend programming, but I can't say it hasn't been at least a little fun... So here I am. Maybe I'll be a full stack developer someday. I'm going to put Thrift on hold for awhile until I finish this Node.js project in this course. Another thing - I worked for so long on that last FreeCodeCamp challenge. Eventually, I gave in and looked at the answer. Turns out the console is a scheming jerk! I had it right the whole time! My solution is actually the "Intermediate Code Solution" on the solutions page, so I am quite proud of myself.
+
+**Link to work**: [FreeCodeCamp Basic Algorithm Scripting Challenges, 213](https://github.com/smwarsh/javascript-exercises)
+
+**Tomorrow**: Start Node.js course.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. _Note: This fortnight ends Nov 26._
