@@ -1092,6 +1092,17 @@
 
 **Link to work**: [Learn-Node on GitHub](https://github.com/smwarsh/Learn-Node)
 
-**Tomorrow**: Continue Node.js course.
+
+### Day 89: November 23, 2018
+
+**Today's Progress**: I did the "Starter Files and Environmental Variables" video of Learn Node.
+
+**Time Spent Coding**: 56m
+
+**Thoughts**: Today was extremely frustrating, I got all kinds of Terminal errors and spent a long time downloading all kinds of npm node modules, and I'm still getting errors, and tomorrow I'm just going to restart the whole thing - wait, I just checked localhost:7777 like he says to at the end of the video, and it says "Hey! It works!" in the browser just like it's supposed to. Caitlin told me I just said a really inspiring quote out loud, which was this: "I thought I was gonna restart but now I’m just going to keep on stumbling through," which is how I feel... This is so much trouble.
+
+**Link to work**: [Learn-Node on GitHub](https://github.com/smwarsh/Learn-Node)
+
+**Tomorrow**: Restart Node.js course?? Just keep on stumbling through?
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. _Note: This fortnight ends Nov 26._
