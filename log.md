@@ -1103,6 +1103,17 @@
 
 **Link to work**: [Learn-Node on GitHub](https://github.com/smwarsh/Learn-Node)
 
-**Tomorrow**: Restart Node.js course?? Just keep on stumbling through?
+
+### Day 90: November 24, 2018
+
+**Today's Progress**: I redid the first 3 Learn Node videos, but I'm still getting errors.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: Okay, I redid everything, but I'm getting the same errors. Tomorrow I'll have to do some Googling and maybe even post in the Slack.
+
+**Link to work**: [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
+
+**Tomorrow**: Troubleshoot & post in Slack.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. _Note: This fortnight ends Nov 26._
