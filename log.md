@@ -1114,6 +1114,17 @@
 
 **Link to work**: [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
 
-**Tomorrow**: Troubleshoot & post in Slack.
+
+### Day 91: November 25, 2018
+
+**Today's Progress**: I read the #node Slack conversation from today, and from that I learned how to fix the error - clear the cache in Google Chrome. Then, I watched up to 5:35 in Learn Node video 4, Core Concept - Routing, while taking a bunch of notes.
+
+**Time Spent Coding**: 1h 3m
+
+**Thoughts**: I know I'm moving slowly by taking so many notes, but I feel like I really understand it now. It was moving way too quickly and going over my head before I started taking notes.
+
+**Link to work**: [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
+
+**Tomorrow**: Continue with Learn Node course.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. _Note: This fortnight ends Nov 26._
