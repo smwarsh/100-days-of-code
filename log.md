@@ -1117,7 +1117,7 @@
 
 ### Day 91: November 25, 2018
 
-**Today's Progress**: I read the #node Slack conversation from today, and from that I learned how to fix the error - clear the cache in Google Chrome. Then, I watched up to 5:35 in Learn Node video 4, Core Concept - Routing, while taking a bunch of notes.
+**Today's Progress**: I read the #node Slack conversation from today, and from that I learned how to fix the error - clear the cache in Google Chrome. Then, I watched up to 5:35 in Learn Node video 4, "Core Concept - Routing," while taking a bunch of notes.
 
 **Time Spent Coding**: 1h 3m
 
@@ -1128,15 +1128,25 @@
 
 ### Day 92: November 27, 2018
 
-**Today's Progress**: I watched "Core Concept - Routing" yesterday then got too stuck in a book to finish my hour. Today, I watched the majority of and took lots of notes on Core Concept - Templating.
+**Today's Progress**: I watched "Core Concept - Routing" yesterday then got too stuck in a book to finish my hour. Today, I watched the majority of and took lots of notes on "Core Concept - Templating."
 
-**Time Spent Coding**: 24m + 54m
+**Time Spent Coding**: 24m + 51m
 
 **Thoughts**: This is slow but good. The template thing pug is cool.
+
+**Link to work**: [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
+
+
+### Day 93: November 28, 2018
+
+**Today's Progress**: I finished "Core Concept - Templating," watched "Core Concept - Template Helpers," then went back and started taking notes on the latter video. I got to 3:13.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: I know I'm doing probably more work than necessary, but writing all the code in my notebook helps me actually look at it and understand it. Also, ugh, coding in the morning before work because I had to bring Caitlin to school.
 
 **Link to work**: [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
 
 **Tomorrow**: Continue with Learn Node course.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. _Note: I am eligible for a day off between Nov 27 and Dec 11... But the 100 days ends in there and I'm still not sure how I'm dealing with that._
-
