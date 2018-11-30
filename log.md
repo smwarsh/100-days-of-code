@@ -1147,6 +1147,17 @@
 
 **Link to work**: [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
 
+
+### Day 94: November 29, 2018
+
+**Today's Progress**: I finished taking notes on "Core Concept - Template Helpers," watched then took notes on "Core Concept - Controllers and the MVC Pattern," then started on "Core Concept - Middleware and Error Handling." I got to 3:11 watching, then went back because I was almost out of time and got notes done up to 1:18.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: Are we going to have any challenges or anything like that, or are we just going to watch Wes Bos make the project the whole time?
+
+**Link to work**: [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
+
 **Tomorrow**: Continue with Learn Node course.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. _Note: I am eligible for a day off between Nov 27 and Dec 11... But the 100 days ends in there and I'm still not sure how I'm dealing with that._
