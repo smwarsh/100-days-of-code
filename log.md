@@ -1158,6 +1158,18 @@
 
 **Link to work**: [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
 
+
+### Day 95: November 30, 2018
+
+**Today's Progress**: I watched all of "Core Concept - Middleware and Error Handling," then started taking notes from where I left off yesterday and got to 5:49. Today was a relaxed day. I was also watching sports on TV.
+
+**Time Spent Coding**: 1h 18m
+
+**Thoughts**: It's slightly difficult to take notes with a cat snuggled on your chest.
+
+**Link to work**: [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
+
 **Tomorrow**: Continue with Learn Node course.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. _Note: I am eligible for a day off between Nov 27 and Dec 11... But the 100 days ends in there and I'm still not sure how I'm dealing with that._
+
