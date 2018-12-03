@@ -1169,7 +1169,18 @@
 
 **Link to work**: [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
 
+
+### Day 96: December 2, 2018
+
+**Today's Progress**: I finished taking notes on "Core Concept - Middleware and Error Handling," then started doing "Creating our Store Model" and got to 7:38.
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: I took my day off yesterday. I can't believe I'm almost done with my 100 days. I probably have to start my blog post after I take notes on the current video.
+
+**Link to work**: [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
+
 **Tomorrow**: Continue with Learn Node course.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. _Note: I am eligible for a day off between Nov 27 and Dec 11... But the 100 days ends in there and I'm still not sure how I'm dealing with that._
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid.
 
