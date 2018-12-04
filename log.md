@@ -52,7 +52,6 @@
 **Ideas**: Implement Web Mentions once I get my website on a WordPress CMS. Create a contact form on my website.
 
 
-
 ### Day 5: August 14, 2018
 
 **Today's Progress**: I worked on the Basic JavaScript course in FreeCodeCamp for half an hour. For the rest of the time, I worked on a contact form for my website. I wanted to start the Basic CSS curriculum too, but I need to keep this to two projects at a time. Oops, started that later in the afternoon. Forgot about the 2 project rule and got too excited!
@@ -64,7 +63,6 @@
 **Links to work**:
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
 2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
-
 
 
 ### Day 6: August 15, 2018
@@ -1180,7 +1178,20 @@
 
 **Link to work**: [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
 
-**Tomorrow**: Continue with Learn Node course.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid.
+### Day 97: December 3, 2018
+
+**Today's Progress**: I took notes on "Creating our Store Model" in Wes Bos' Learn Node course. Then, I added my website to GitHub.
+
+**Time Spent Coding**: 1h 17m
+
+**Thoughts**: I took a leap of faith adding my website to GitHub. I hope no one copies it or anything, but I foresee a lot of changes coming for the site in the near future, and I'd like to track its development.
+
+**Links to work**:
+1. [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
+2. [stephwarsh on GitHub](https://github.com/smwarsh/stephwarsh)
+
+**Tomorrow**: Create a navigation bar for my website, so I can have a blog tab, so people can actually access my blog posts and Google can see that I update my site regularly.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. Add IDs to the titles of my blog posts on the blog page of my website so I can link to the posts. On Wednesday, start my 100 days of code day 100 blog post.
 
