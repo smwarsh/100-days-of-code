@@ -1191,7 +1191,19 @@
 1. [dang-thats-delicious on GitHub](https://github.com/smwarsh/dang-thats-delicious)
 2. [stephwarsh on GitHub](https://github.com/smwarsh/stephwarsh)
 
-**Tomorrow**: Create a navigation bar for my website, so I can have a blog tab, so people can actually access my blog posts and Google can see that I update my site regularly.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. Add IDs to the titles of my blog posts on the blog page of my website so I can link to the posts. On Wednesday, start my 100 days of code day 100 blog post.
+### Day 98: December 4, 2018
 
+**Today's Progress**: I did a bunch and stayed up way too late. I deleted the repository I made yesterday and made a new one, then added my website to it. I added a navigation bar to each page. I redesigned the sub-pages.
+
+**Time Spent Coding**: 1h 43m
+
+**Thoughts**: It's always so interesting working on my website. I lost track of time!
+
+**Links to work**:)
+1. [steph-warsh on GitHub](https://github.com/smwarsh/steph-warsh)
+2. [stephwarsh.com](https://www.stephwarsh.com/index.php)
+
+**Tomorrow**: Add IDs to the titles of my blog posts on the blog page of my website so I can link to the posts. Start my 100 days of code day 100 blog post.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid.
