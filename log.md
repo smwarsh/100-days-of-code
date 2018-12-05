@@ -1200,10 +1200,21 @@
 
 **Thoughts**: It's always so interesting working on my website. I lost track of time!
 
-**Links to work**:)
+**Links to work**:
 1. [steph-warsh on GitHub](https://github.com/smwarsh/steph-warsh)
 2. [stephwarsh.com](https://www.stephwarsh.com/index.php)
 
-**Tomorrow**: Add IDs to the titles of my blog posts on the blog page of my website so I can link to the posts. Start my 100 days of code day 100 blog post.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid.
+### Day 99: December 5, 2018
+
+**Today's Progress**: I added id tags to my blog posts so that I could link to individual posts. I changed some capitalization on my portfolio page. I recorded myself talking about my 100 days of code experience, then started transcribing it (this is always how I start writing blog posts).
+
+**Time Spent Coding**: 1h 1m
+
+**Thoughts**: I feel like my website looks so much better, and it is seriously improved by the addition of the navigation bar. Tomorrow is the last day? What?
+
+**Link to work**: [steph-warsh on GitHub](https://github.com/smwarsh/steph-warsh)
+
+**Tomorrow**: Fix the Warner page on my website.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. Fix home page of website
