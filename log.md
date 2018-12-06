@@ -636,6 +636,8 @@
 2. [Install MySQL on Mac](https://www.mikedane.com/databases/sql/mysql-mac-installation/)
 
 
+### Day 53: October 5, 2018
+
 **Today's Progress**: I got MySQL installed and learned some basic commands.
 
 **Time Spent Coding**: 1h 11m
