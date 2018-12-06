@@ -47,10 +47,6 @@
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
 2. [Repo With HTML Challenge Files](https://github.com/smwarsh/web-design-exercises)
 
-**Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp, start Basic CSS curriculum, create a contact form on my website (How do you make the form send data to yourself? Look this up)
-
-**Ideas**: Implement Web Mentions once I get my website on a WordPress CMS. Create a contact form on my website.
-
 
 ### Day 5: August 14, 2018
 
@@ -103,10 +99,6 @@
 1. [Repo With JavaScript Challenge Files](https://github.com/smwarsh/javascript-exercises)
 2. [Contact Form on my Website](http://stephwarsh.com/contact.php)
 
-**Tomorrow**: Continue Basic JavaScript curriculum on FreeCodeCamp. Start making the contact form yours, slowly and carefully, testing it frequently to make sure it still works.
-
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Look up how to make the textarea in my contact form responsive to page widths (use CSS?). Start [Gordon Zhu's Practical JavaScript course](https://watchandcode.com/p/practical-javascript) after finishing the FreeCodeCamp Basic JavaScript curriculum. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them.
-
 
 ### Day 9: August 18, 2018
 
@@ -134,7 +126,7 @@
 
 ### Day 11: August 20, 2018
 
-**Today's Progress**: I did V2 of the todo list in the Practical JavaScript course, working in the console. Then I watched some videos, like , starting to figure out how to do error handling on my PHP contact form.
+**Today's Progress**: I did V2 of the todo list in the Practical JavaScript course, working in the console. Then I watched some videos, starting to figure out how to do error handling on my PHP contact form.
 
 **Time Spent Coding**: 1h 12m
 
@@ -465,7 +457,7 @@
 
 **Time Spent Coding**: 1h 0m
 
-**Thoughts**: Another bad day for my mental health. I could barely get through this hour. I feel like a lot of the hour was wasted on a distracted mind (I didn't have enough medicine today, so I don't think that helped), and fighting my depression. After about 10 minutes, I discovered the dist folder with the files I wanted, but that was the last breakthrough I had. I'm getting a bunch of errors trying to import that file into my program, and there is no good information on how to do this! Maybe one day when I understand it really well, I will write an article explaining how I did it. For beginners. Because I have no idea what I'm doing. It seems like it should be so simple! And once I figure this out, I can go back to the problem solving and function writing that I love. I know that figuring out how to import files and functions is important, but I will I had good resources or guidance on this. And I wish I didn't feel depressed.
+**Thoughts**: Another bad day for my mental health. I could barely get through this hour. I feel like a lot of the hour was wasted on a distracted mind (I didn't have enough medicine today, so I don't think that helped), and fighting my depression. After about 10 minutes, I discovered the dist folder with the files I wanted, but that was the last breakthrough I had. I'm getting a bunch of errors trying to import that file into my program, and there is no good information on how to do this! Maybe one day when I understand it really well, I will write an article explaining how I did it. For beginners. Because I have no idea what I'm doing. It seems like it should be so simple! And once I figure this out, I can go back to the problem solving and function writing that I love. I know that figuring out how to import files and functions is important, but I wish I had good resources or guidance on this. And I wish I didn't feel depressed.
 
 **Link to work**: [Thrift](https://glitch.com/~pickle-slicer)
 
@@ -502,10 +494,6 @@
 **Thoughts**: I'm very tired tonight.. Adding transactions with the method is probably better for imitating how the program will actually work with user input, instead of hard coding it. I hope my brain decides to rest for the night, because I am still caught up thinking about how to make the addTransaction method work to do a lot more than it does right now.
 
 **Link to work**: [Thrift](https://codesandbox.io/s/93m01wq3qo)
-
-**Tomorrow**: Do the FreeCodeCamp ES6 curriculum. Start from: "ES6: Write Concise Object Literal Declarations Using Simple Fields." Read the article Leslie sent me. Sign into the Women Who Code Slack workspace. Try to fix displayAllByCategory to adhere to DRY. Display transactions separated by month.
-
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Change addTransaction to do a bunch more stuff, including creating a new month object if that month isn't already there, creating expense or income object within that month, category within that, and transactions array with the added transaction in it! Eek!
 
 
 ### Day 41.5: September 23, 2018
@@ -589,6 +577,17 @@
 2. [Thrift](https://codesandbox.io/s/93m01wq3qo)
 
 
+### Day 48: September 30, 2018
+
+**Today's Progress**: I completely forgot to log this day, so I am adding this from the future! My GitHub commit on the spending-tracker repo says, "Math functions by date"
+
+**Time Spent Coding**: 1h 0m
+
+**Thoughts**: My tweet for day 48 says, "Productive hour of coding today, got a lot done for my expense tracking program!"
+
+**Link to work**: [Thrift GitHub repo](https://github.com/smwarsh/spending-tracker)
+
+
 ### Day 49: October 1, 2018
 
 **Today's Progress**: I wrote earliestDateInCategory() and did a bunch of work on earliestDateInGroup().
@@ -636,12 +635,6 @@
 1. [SQL course](https://www.freecodecamp.org/news/quincylarson/sql-and-databases-full-course--FLkLcFzA)
 2. [Install MySQL on Mac](https://www.mikedane.com/databases/sql/mysql-mac-installation/)
 
-**Tomorrow**: Get MySQL installed on my computer so I can move on with this tutorial.
-
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Start the FreeCodeCamp Basic Data Structures curriculum. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow...  Work on the FreeCodeCamp SQL course while also starting to move things in Thrift to the webpage, out from the console. Revist this portion of the Practical JavaScript course to get started.
-
-
-### Day 53: October 5, 2018
 
 **Today's Progress**: I got MySQL installed and learned some basic commands.
 
@@ -927,10 +920,6 @@
 1. [Thrift code on GitHub](https://github.com/smwarsh/spending-tracker)
 2. [Thrift on my website](https://stephwarsh.com/thrift/dist/)
 
-**Tomorrow**: Start figuring out how to display the database on my webpage instead of the static content.
-
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Learn CSS Grid.
-
 
 ### Day 76: October 31, 2018
 
@@ -969,10 +958,6 @@
 **Links to work**:
 1. [Thrift code on GitHub](https://github.com/smwarsh/spending-tracker)
 2. [Thrift on my website](https://stephwarsh.com/thrift/dist/)
-
-**Tomorrow**: Consider whatever Jared finds out about the JS/PHP connection. Start figuring out how to add things (do I need AJAX for that too? I'm worried).
-
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Put website files onto GitHub repository and work in the files on GitHub Desktop? Look up how to do this! Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... _Note: I am eligible for another day off between Oct 25 and Nov 9._ Make a navigation bar on my website. Learn CSS Grid.
 
 
 ### Day 79: November 4, 2018
