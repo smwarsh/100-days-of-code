@@ -1202,6 +1202,19 @@
 
 **Link to work**: [steph-warsh on GitHub](https://github.com/smwarsh/steph-warsh)
 
-**Tomorrow**: Fix the Warner page on my website.
+
+### Day 100: December 6, 2018
+
+**Today's Progress**: I wrote my blog post and published it to my website.
+
+**Time Spent Coding**: 4h 53m
+
+**Thoughts**: Uh, hi, Day 100, is that you? And did I really spend 5 hours on this blog post? I hope _someone_ reads it.
+
+**Links to work**:
+1. [Day 100](https://www.stephwarsh.com/blog.php#day-100)
+2. [steph-warsh on GitHub](https://github.com/smwarsh/steph-warsh)
+
+**Tomorrow**: Take a break! But when you come back... Fix the Warner page.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Make a navigation bar on my website. Learn CSS Grid. Fix home page of website
