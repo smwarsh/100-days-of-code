@@ -54,6 +54,17 @@
 
 **Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
 
-**Tomorrow**: Finish taking notes on "Flash Messages."
+
+### R2D6: Fri December 21, 2018
+
+**Today's progress**: I finished taking notes on "Flash Messages" and messaged Alex M about helping him with his website's design.
+
+**Time spent coding**: 1h 5m
+
+**Thoughts**: I hope Alex responds! I wonder if I should be working on Thrift along with this Node.js course, because I feel like I will need to redo the whole course when I want to adapt Thrift to this.
+
+**Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
+
+**Tomorrow**: Do "Querying our Database for Stores."
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page.
