@@ -65,6 +65,17 @@
 
 **Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
 
-**Tomorrow**: Do "Querying our Database for Stores."
+
+### R2D7: Sat December 22, 2018
+
+**Today's progress**: I "Querying our Database for Stores" then got a bunch of errors and reverted everything to the way it was before today. The errors are still there...
+
+**Time spent coding**: 1h 12m
+
+**Thoughts**: I'm pissed. I did nothing wrong; this started happening randomly. Clearing the cache in Chrome didn't work like it did for me last time. I don't know what to do.
+
+**Link to work**: Ha nothing.
+
+**Tomorrow**: Ugh.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page.
