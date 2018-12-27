@@ -90,7 +90,7 @@
 
 **Today's progress**: I took notes on "Querying our Database for Stores." I also thought a lot about incorporating Node.js into Thrift.
 
-**Time spent coding**: 52m
+**Time spent coding**: 1h 4m
 
 **Thoughts**: I had a couple busy days with the holidays and didn't get to code on Christmas Eve or Christmas! But I'm back today, and I have a lot of questions about how I can start working on Thrift with all this Node.js stuff. I don't want to have to redo the entire course once I start working on Thrift, so maybe I can do it concurrently.
 
