@@ -85,6 +85,17 @@
 
 **Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
 
-**Tomorrow**: Take notes on "Querying our Database for Stores."
+
+### R2D9: Wed December 26, 2018
+
+**Today's progress**: I took notes on "Querying our Database for Stores." I also thought a lot about incorporating Node.js into Thrift.
+
+**Time spent coding**: 52m
+
+**Thoughts**: I had a couple busy days with the holidays and didn't get to code on Christmas Eve or Christmas! But I'm back today, and I have a lot of questions about how I can start working on Thrift with all this Node.js stuff. I don't want to have to redo the entire course once I start working on Thrift, so maybe I can do it concurrently.
+
+**Link to work**: None today.
+
+**Tomorrow**: Research the things in my notebook; ask Jared some questions.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page.
