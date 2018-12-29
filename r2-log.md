@@ -97,7 +97,7 @@
 
 ### R2D10: Thu December 27, 2018
 
-**Today's progress**: I did research on how to start Thrift with the Learn Node starter files. I messaged Jared asking for guidance. I restarted the course for Thrift. I'm currently @ 4:04 in the "Setting Up MongoDB" video, just getting as far as I can to develop educated questions for Jared when I talk to him tomorrow. I scanned localhost and stephwarsh.com for open ports and took a screenshot of the results for localhost. The scan on stephwarsh.com went for 15 min without returning anything or finishing so I gave up. I don't know if there are any open ports on there anyway
+**Today's progress**: I did research on how to start Thrift with the Learn Node starter files. I messaged Jared asking for guidance. I restarted the course for Thrift. I'm currently @ 4:04 in the "Setting Up MongoDB" video, just getting as far as I can to develop educated questions for Jared when I talk to him tomorrow. I scanned localhost and stephwarsh.com for open ports and took a screenshot of the results for localhost. The scan on stephwarsh.com went for 15 min without returning anything or finishing so I gave up. I don't know if there are any open ports on there anyway.
 
 **Time spent coding**: 1h 22m
 
@@ -105,7 +105,17 @@
 
 **Link to work**: [Thrift repo](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Get as far as you can in setting up Thrift, and write out some questions to ask Jared.
+
+### R2D11: Fri December 28, 2018
+
+**Today's progress**: I set up for my call with Jared and put some questions together, then I talked to him and got some questions answered!
+
+**Time spent coding**: 1h 0m
+
+**Thoughts**: I learned a lot from my call with Jared! One of those things is that I will definitely break things, as hard as I try not to, but it will make me a better programmer in the end. Also, there is specific software for deploying an app once it is completed. You don't just pop it in the FTP client like I thought you would. And, I learned that knowing Git is something I should do.
+
+**Link to work**: [Thrift repo](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Learn Git?
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page.
-
