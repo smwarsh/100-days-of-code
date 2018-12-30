@@ -119,14 +119,23 @@
 
 ### R2D12: Sat December 29, 2018
 
-**Today's progress**: I researched, looking for good courses to learn Git quickly. I got to 1:27 in Lecture 7, "Pushing Your First Commit to GitHub," in this Udemy course, ["Short and Sweet: Get Started with Git and GitHub Right Now,"](https://www.udemy.com/short-and-sweet-get-started-with-git-and-github-right-now/learn/v4/content) which I found from this article, ["Top 5 Free Courses to Learn Git and Github."](https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0)
+**Today's progress**: I researched, looking for good courses to learn Git quickly. I got to 1:27 in Lecture 7, "Pushing Your First Commit to GitHub," in this Udemy course, [Short and Sweet: Get Started with Git and GitHub Right Now](https://www.udemy.com/short-and-sweet-get-started-with-git-and-github-right-now/learn/v4/content), which I found from this article, "[Top 5 Free Courses to Learn Git and Github](https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0)."
 
 **Time spent coding**: 1h 0m
 
 **Thoughts**: I am learning surprisingly a lot from this course, and I think I will like the extra control I will get using the Terminal over GitHub Desktop.
 
-**Link to work**: n/a
 
-**Tomorrow**: Finish Git course and move on to something else in that list I have in my notebook.
+### R2D13: Sun December 30, 2018
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page.
+**Today's progress**: I finished the Git course, then I followed a link to an article, "[How you can learn Git and GitHub while you’re learning to code](https://medium.freecodecamp.org/how-you-can-learn-git-and-github-while-youre-learning-to-code-7a592ea287ba)," that someone gave me on Twitter. I went through that, and I did the whole process of setting up an SSH key before finding out that it is already set up on my account. 7687 (That's from Jiji). I am now working through the "Clone your repositories" section.
+
+**Time spent coding**: 1h 14m
+
+**Thoughts**: There is a lot to do here, but I think I am learning it quickly. I feel guilty for not having a license on my repositories. I feel like I should at least look up the MIT license.
+
+**Link to work**: [New Thrift repo](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Finish setting up Thrift repository via the command line.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Look up MIT license/other GitHub license and add licenses to my repositories.
