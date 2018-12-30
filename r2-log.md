@@ -116,6 +116,17 @@
 
 **Link to work**: [Thrift repo](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Learn Git?
+
+### R2D12: Sat December 29, 2018
+
+**Today's progress**: I researched, looking for good courses to learn Git quickly. I got to 1:27 in Lecture 7, "Pushing Your First Commit to GitHub," in this Udemy course, ["Short and Sweet: Get Started with Git and GitHub Right Now,"](https://www.udemy.com/short-and-sweet-get-started-with-git-and-github-right-now/learn/v4/content) which I found from this article, ["Top 5 Free Courses to Learn Git and Github."](https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0)
+
+**Time spent coding**: 1h 0m
+
+**Thoughts**: I am learning surprisingly a lot from this course, and I think I will like the extra control I will get using the Terminal over GitHub Desktop.
+
+**Link to work**: n/a
+
+**Tomorrow**: Finish Git course and move on to something else in that list I have in my notebook.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page.
