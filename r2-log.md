@@ -136,6 +136,18 @@
 
 **Link to work**: [New Thrift repo](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Finish setting up Thrift repository via the command line.
+
+### R2D14: Tue January 1, 2019
+
+**Today's progress**: I think I finished setting up the Thrift repository via the command line? I changed the username and password for Thrift in MongoDB
+
+**Time spent coding**: 1h 0m
+
+**Thoughts**: There were a lot of complications on the command line. Even though I deleted Thrift from GitHub, when I added it to GitHub again via the command line, it still had all my old commits there, including the files I newly put in .gitignore. So I had to delete the variables.env file with help from [this StackOverflow post](https://stackoverflow.com/questions/18393498/gitignore-all-the-ds-store-files-in-every-folder-and-subfolder), but the commit was still in my commit history, showing the database connection info and everything else for all to see. So I used [this StackOverflow answer](https://stackoverflow.com/questions/495345/how-to-remove-selected-commit-log-entries-from-a-git-repository-while-keeping-th) and [this article](http://web.archive.org/web/20100213104931/http://blog.madism.org/index.php/2007/09/09/138-git-awsome-ness-git-rebase-interactive) to try to delete it, but it didn't work. I got errors. So I gave up and changed the MongoDB username and password, so hopefully no one will be able to hack my project. Then, it turns out that the variables.env file got actually deleted from my local files, so I had to create it again and copy in the code from the deleted file. The good news is that now variables.env is on my computer but not showing up on GitHub! So I think I finally have that working. I'm starting to question that I ever deleted the Thrift respository like I thought I did. Why would everything still be there? I got a weird error when trying to connect my local Thrift repository to my remote repository on GitHub and used [this StackOverflow answer](https://stackoverflow.com/questions/10904339/github-fatal-remote-origin-already-exists) to override the connection that was apparently already there.
+
+**Link to work**: [Thrift repo](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Next time, delete the Learn-Node-master-for-Thrift folder and see if that breaks everything. Really delete Thrift repository and start over???? I'm so confused.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Look up MIT license/other GitHub license and add licenses to my repositories.
+
