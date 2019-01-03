@@ -147,7 +147,21 @@
 
 **Link to work**: [Thrift repo](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Next time, delete the Learn-Node-master-for-Thrift folder and see if that breaks everything. Really delete Thrift repository and start over???? I'm so confused.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Look up MIT license/other GitHub license and add licenses to my repositories.
+### R2D15: Wed January 2, 2019
+
+**Today's progress**: I redid the whole Thrift repository thing (I deleted the repository, recreated it, and reinitialized it), then I posted a blog post about how to do this thing I've gone through 3+ times in Git. I also looked up GitHub licenses and decided "no license" is the one for me, for now.
+
+**Time spent coding**: 2h 2m
+
+**Thoughts**: Today was genuinely very enjoyable. I saw the opportunity for a blog post and I went for it. I didn't want to spend too much time on the styling, so I was pleased when the code snippets came out looking exactly like I wanted them to, first try. And now everything with the Thrift repository is fixed and reset, although sadly it deleted all the pretty green squares on my profile that have been tracking my GitHub activity for the past week or so.
+
+**Links to work**:
+1. [Thrift repo](https://github.com/smwarsh/thrift)
+2. [Blog post: Quick Start with Git](https://www.stephwarsh.com/blog.php#git-setup)
+3. [My website repo](https://github.com/smwarsh/steph-warsh)
+
+**Tomorrow**: Continue working on Thrift via the Learn Node course.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page.
 
