@@ -172,7 +172,17 @@
 
 **Links to work**: [Thrift repo (6 big commits today!)](https://github.com/smwarsh/thrift)
 
+
+### R2D17: Fri January 4, 2019
+
+**Today's progress**: I got almost all the way through Module #2 Core Concepts in the Learn Node course today, working on Thrift this time. The next video (and last one in the module) is "Middleware and Error Handling." I mostly followed the videos but I adapted for how I want to use them and what I want to call them in Thrift.
+
+**Time spent coding**: 1h 6m
+
+**Thoughts**: I thought a bit about how I want Thrift to look in the end and what similarities & differences it will have from Dang That's Delicious, the Learn Node project. I wonder if I will add transactions on the page or have them added through a separate page? I would prefer the former but I have only learned how to do the latter. It's good that I've already done this part of the course, because it is easy to see what parts are applicable to Thrift and what parts I can skim through.
+
+**Links to work**: [Thrift](https://github.com/smwarsh/thrift)
+
 **Tomorrow**: Continue working on Thrift via the Learn Node course.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page.
-
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
