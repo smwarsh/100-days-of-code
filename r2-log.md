@@ -161,6 +161,17 @@
 2. [Blog post: Quick Start with Git](https://www.stephwarsh.com/blog.php#git-setup)
 3. [My website repo](https://github.com/smwarsh/steph-warsh)
 
+
+### R2D16: Thu January 3, 2019
+
+**Today's progress**: I changed moment to date-fns in the starter files I am using for Thrift. I finished the "Introduction and Setup" chapter of the Learn Node course for Thrift. I created the impressively large amount of node modules by running `npm install`. I spent the rest of the time fixing security vulnerabilities.
+
+**Time spent coding**: 2h 20m
+
+**Thoughts**: I truly went down the rabbit hole today. Wow. I hope I didn't break ~~everything~~ anything. I was especially nervous about the "breaking change" for fixing the security vulnerability in deep-extend (dependency of juice). But at the end of it all, it seems to be working?
+
+**Links to work**: [Thrift repo (6 big commits today!)](https://github.com/smwarsh/thrift)
+
 **Tomorrow**: Continue working on Thrift via the Learn Node course.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page.
