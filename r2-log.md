@@ -183,6 +183,21 @@
 
 **Links to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Continue working on Thrift via the Learn Node course.
+
+### R2D18: Sat January 5, 2019
+
+**Today's progress**: I watched/did "Creating our Store Model," following along for Thrift. I implemented the database schema for transactions, but I am hung up on the ID and how to make it auto increment in MongoDB, because it's not built in like it is in SQL.
+
+**Time spent coding**: 1h 6m
+
+**Thoughts**: I am not done noodling about the auto-increment ID, so here is a list of articles I have open that I want to continue looking at:
+* [Stack Overflow: "Mongoose auto increment"](https://stackoverflow.com/questions/28357965/mongoose-auto-increment)
+* [Hashnode: "What is the best way to generate auto incrementing ID in MongoDB?"](https://hashnode.com/post/what-is-the-best-way-to-generate-auto-incrementing-id-in-mongodb-ciibz8ege00l6j3xtx7c2kubm)
+* [Tutorials Point: "MongoDB - Auto-Increment Sequence"](https://www.tutorialspoint.com/mongodb/mongodb_autoincrement_sequence.htm)
+* [NPM mongodb-autoincrement - _I don't think this is what I'm looking for_](https://www.npmjs.com/package/mongodb-autoincrement)
+
+**Links to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Figure out this auto-increment thing
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
