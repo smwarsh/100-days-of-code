@@ -188,7 +188,7 @@
 
 **Today's progress**: I watched/did "Creating our Store Model," following along for Thrift. I implemented the database schema for transactions, but I am hung up on the ID and how to make it auto increment in MongoDB, because it's not built in like it is in SQL.
 
-**Time spent coding**: 1h 6m
+**Time spent coding**: 1h 8m
 
 **Thoughts**: I am not done noodling about the auto-increment ID, so here is a list of articles I have open that I want to continue looking at:
 * [Stack Overflow: "Mongoose auto increment"](https://stackoverflow.com/questions/28357965/mongoose-auto-increment)
