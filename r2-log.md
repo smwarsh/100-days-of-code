@@ -198,6 +198,17 @@
 
 **Links to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Figure out this auto-increment thing
+
+### R2D19: Sun January 6, 2019
+
+**Today's progress**: I looked through the articles for auto increment in MongoDB, then I did "Saving Stores and Using Mixins," following along for Thrift.
+
+**Time spent coding**: 1h 3m
+
+**Thoughts**: I moved on from looking at the articles because I can't test anything until I have more set up and can see if auto-incrementing actually works. So I kept following the videos and getting things set up for that.
+
+**Links to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Figure out this auto-increment thing, continue with the course..
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
