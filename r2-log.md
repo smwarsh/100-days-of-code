@@ -170,7 +170,7 @@
 
 **Thoughts**: I truly went down the rabbit hole today. Wow. I hope I didn't break ~~everything~~ anything. I was especially nervous about the "breaking change" for fixing the security vulnerability in deep-extend (dependency of juice). But at the end of it all, it seems to be working?
 
-**Links to work**: [Thrift repo (6 big commits today!)](https://github.com/smwarsh/thrift)
+**Link to work**: [Thrift repo (6 big commits today!)](https://github.com/smwarsh/thrift)
 
 
 ### R2D17: Fri January 4, 2019
@@ -181,7 +181,7 @@
 
 **Thoughts**: I thought a bit about how I want Thrift to look in the end and what similarities & differences it will have from Dang That's Delicious, the Learn Node project. I wonder if I will add transactions on the page or have them added through a separate page? I would prefer the former but I have only learned how to do the latter. It's good that I've already done this part of the course, because it is easy to see what parts are applicable to Thrift and what parts I can skim through.
 
-**Links to work**: [Thrift](https://github.com/smwarsh/thrift)
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
 
 ### R2D18: Sat January 5, 2019
@@ -196,7 +196,7 @@
 * [Tutorials Point: "MongoDB - Auto-Increment Sequence"](https://www.tutorialspoint.com/mongodb/mongodb_autoincrement_sequence.htm)
 * [NPM mongodb-autoincrement - _I don't think this is what I'm looking for_](https://www.npmjs.com/package/mongodb-autoincrement)
 
-**Links to work**: [Thrift](https://github.com/smwarsh/thrift)
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
 
 ### R2D19: Sun January 6, 2019
@@ -207,8 +207,22 @@
 
 **Thoughts**: I moved on from looking at the articles because I can't test anything until I have more set up and can see if auto-incrementing actually works. So I kept following the videos and getting things set up for that.
 
-**Links to work**: [Thrift](https://github.com/smwarsh/thrift)
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Figure out this auto-increment thing, continue with the course..
+
+### R2D20: Mon January 7, 2019
+
+**Today's progress**: I followed the "Using Async Await" video from the Learn Node course and set up Thrift to add things to the database. Then, I tested it and did some research on the ID situation.
+
+**Time spent coding**: 1h 18m
+
+**Thoughts**: I think I might not have to figure out auto-increment for the ID in MongoDB. I have an idea, and it involves using the auto-generated unique \_id field that every database item seems to have. I need to do some more investigation. Helpful pages that I have open:
+* [StackOverflow: how do I search for an object by its ObjectId in the console?](https://stackoverflow.com/questions/8233014/how-do-i-search-for-an-object-by-its-objectid-in-the-console)
+* [MongoDB: db.collection.find()](https://docs.mongodb.com/manual/reference/method/db.collection.find/)
+* [MongoDB: ObjectId](https://docs.mongodb.com/manual/reference/method/ObjectId/)
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Find the part of the Practical JavaScript course that has what I'm thinking of: a way to keep track of and use the individual ID of each item.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
