@@ -223,6 +223,17 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Find the part of the Practical JavaScript course that has what I'm thinking of: a way to keep track of and use the individual ID of each item.
+
+### R2D21: Tue January 8, 2019
+
+**Today's progress**: I fought sleep and watched some videos from the Practical JavaScript course to figure out how to use the id of an item to edit/delete it.
+
+**Time spent coding**: 1h 1m
+
+**Thoughts**: I coded early today, after dropping Caitlin off at school! I didn't get much done because of my tiredness. It seems like I may have to wait until there is a page with a list of all the transactions on it before I start figuring out the delete capability. And maybe Wes Bos will even show me how to do it! Although I doubt he will show exactly what I'm looking for, he will probably give some helpful general information on the topic of deleting from MongoDB.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Watch the last video I want to look at from Version 10 of Practical JavaScript (I wrote it in my notebook). Finish this module for Thrift in Learn Node. Then move on with working on dang-thats-delicious.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
