@@ -234,6 +234,17 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Watch the last video I want to look at from Version 10 of Practical JavaScript (I wrote it in my notebook). Finish this module for Thrift in Learn Node. Then move on with working on dang-thats-delicious.
+
+### R2D22: Fri January 11, 2019
+
+**Today's progress**: I watched Practical JavaScript Version 10 "Clicking delete should update todoList.todos and the DOM" and then started watching Learn Node\]]\\\\\\\ "Creating an Editing Flow for Stores" and got to 7:50. In between the two videos, I moved dang-thats-delicious from GitHub Desktop to using Git instead.
+
+**Time spent coding**: 1h 0m]\\
+
+**Thoughts**: I missed 2 days in a row and almost skipped today too. I'm tired and it's late. I'm glad I did it though. And I'm amused that I spent all this time trying to figure out if the auto-generated MongoDB \_id would work for my purposes, and in the very next Learn Node video, Wes Bos actually brings that up and shows you how to use it. Of course. P.S. Please enjoy Jiji's typings in this entry.
+
+**Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
+
+**Tomorrow**: Finish "Creating an Editing Flow for Stores" then take notes on it.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
