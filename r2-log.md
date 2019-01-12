@@ -245,6 +245,17 @@
 
 **Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
 
-**Tomorrow**: Finish "Creating an Editing Flow for Stores" then take notes on it.
+
+### R2D23: Sat January 12, 2019
+
+**Today's progress**: I finished watching "Creating an Editing Flow for Stores" and got to 3:04 taking notes on it.
+
+**Time spent coding**: 1h 8m
+
+**Thoughts**: Wow, this video is so helpful! It answers all the questions that I've been puzzling through for the last week. I love it.
+
+**Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
+
+**Tomorrow**: Take notes on "Creating an Editing Flow for Stores," then finish Module #4 Control Flow with Thrift.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
