@@ -256,6 +256,17 @@
 
 **Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
 
+
+### R2D24: Mon January 14, 2019
+
+**Today's progress**: I took notes up to 14:49 in "Creating an Editing Flow for Stores," and I added a missing semi colon to the code.
+
+**Time spent coding**: 1h 0m
+
+**Thoughts**: Ugh, it takes me so long to take notes on these videos. I'm glad I caught that semi colon though. And I'm excited to apply this module to Thrift!
+
+**Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
+
 **Tomorrow**: Take notes on "Creating an Editing Flow for Stores," then finish Module #4 Control Flow with Thrift.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
