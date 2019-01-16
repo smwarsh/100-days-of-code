@@ -278,6 +278,18 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Keep trying to figure out the price thing in Mongoose, then finish "Flash Messages."
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Put dropdown box of categories in \_transactionForm.pug.
+### R2D26: Wed January 16, 2019
+
+**Today's progress**: I finished doing "Flash Messages" for Thrift. I got Mongoose to handle prices by writing a setter that changes prices to an integer price in cents and a getter that changes it back to a price, as a String. I fixed the getter to be as accurate as possible by using the roundToPrice method that I wrote in the old version of Thrift.
+
+**Time spent coding**: 1h 13m
+
+**Thoughts**: I am proud of myself for figuring out the pricing compatibility in the program. I learned about how setters and getters work in Mongoose [here](https://mongoosejs.com/docs/2.7.x/docs/getters-setters.html). I figured out an error with using toFixed in my getter with [this answer](https://stackoverflow.com/a/14059220) on StackOverflow.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Put dropdown box of categories and radio buttons for expense/income choice in \_transactionForm.pug.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
+
