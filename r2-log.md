@@ -267,6 +267,17 @@
 
 **Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
 
-**Tomorrow**: Take notes on "Creating an Editing Flow for Stores," then finish Module #4 Control Flow with Thrift.
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
+### R2D25: Tue January 15, 2019
+
+**Today's progress**: In the morning, I finished taking notes on "Creating an Editing Flow for Stores," and I thought about how I will need to adapt dang-thats-delicious as Thrift. I started going through "Flash Messages" for Thrift and got to 2:47. I got sidetracked because the price field wouldn't accept a decimal number. So I set up a RegEx in the input field thanks to [this answer](https://stackoverflow.com/a/46203928) on StackOverflow. Then, I tried to follow [this answer](https://stackoverflow.com/a/36667986) on StackOverflow to manage prices in Mongoose, but it's not working (yet).
+
+**Time spent coding**: 1h 9m
+
+**Thoughts**: I'm so tired tonight. It's all this going to the gym! We've lifted on 4 of the past 5 days!
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Keep trying to figure out the price thing in Mongoose, then finish "Flash Messages."
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Put dropdown box of categories in \_transactionForm.pug.
