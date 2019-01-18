@@ -289,7 +289,19 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Put dropdown box of categories and radio buttons for expense/income choice in \_transactionForm.pug.
+
+### R2D27: Thu January 17, 2019
+
+**Today's progress**: I added a drop down box to choose a category and radio buttons to choose if the group is expense or income, and both of these things also save to the database when you hit Save.
+
+**Time spent coding**: 1h 18m
+
+**Thoughts**: There are so many more things to do now, to fix and edit what I've worked on today and yesterday. The price setter isn't working perfectly (it rounded a number incorrectly), I want to make the drop down box options dynamic so they show only expense or income categories depending on which option is selected, I want to style the radio buttons more, and I want to change the default of the drop down to not be a category. I'm sure there is more but I'm exhausted and can't think.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Fix stuff up! Continue with Learn Node for Thrift?
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
+
 
