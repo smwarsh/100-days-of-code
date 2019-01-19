@@ -292,18 +292,18 @@
 
 ### R2D27: Thu January 17, 2019
 
-**Today's progress**: I added a drop down box to choose a category and radio buttons to choose if the group is expense or income, and both of these things also save to the database when you hit Save.
+**Today's progress**: I added a dropdown box to choose a category and radio buttons to choose if the group is expense or income, and both of these things also save to the database when you hit Save.
 
 **Time spent coding**: 1h 18m
 
-**Thoughts**: There are so many more things to do now, to fix and edit what I've worked on today and yesterday. The price setter isn't working perfectly (it rounded a number incorrectly), I want to make the drop down box options dynamic so they show only expense or income categories depending on which option is selected, I want to style the radio buttons more, and I want to change the default of the drop down to not be a category. I'm sure there is more but I'm exhausted and can't think.
+**Thoughts**: There are so many more things to do now, to fix and edit what I've worked on today and yesterday. The price setter isn't working perfectly (it rounded a number incorrectly), I want to make the dropdown box options dynamic so it shows only expense or income categories depending on which option is selected, I want to style the radio buttons more, and I want to change the default of the dropdown to not be a category. I'm sure there is more but I'm exhausted and can't think.
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
 
 ### R2D28: Fri January 18, 2019
 
-**Today's progress**: I fixed the incorrect rounding problem in the setter for price in the Transaction schema. I set a blank default option for the drop down box of categories. I researched both these things thoroughly, and I enjoyed [this article](https://hackernoon.com/understanding-the-problem-javascript-maths-2119d85dad2a) on why decimal math doesn't always work like you'd expect it to in JavaScript.
+**Today's progress**: I fixed the incorrect rounding problem in the setter for price in the Transaction schema. I set a blank default option for the dropdown box of categories. I researched both these things thoroughly, and I enjoyed [this article](https://hackernoon.com/understanding-the-problem-javascript-maths-2119d85dad2a) on why decimal math doesn't always work like you'd expect it to in JavaScript.
 
 **Time spent coding**: 58m
 
@@ -311,6 +311,18 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Fix stuff! 1. Make the drop down box options dynamic. 2. Style the radio buttons (your vision for them is amazing! You can do it!). 3. Make sure the form stays filled out when you submit it with an error. Also, continue with Learn Node for Thrift?
+
+### R2D29: Sat January 19, 2019
+
+**Today's progress**: I made the dropdown box of categories dynamic based on whether the expense or income radio button is selected.
+
+**Time spent coding**: 2h 7m
+
+**Thoughts**: I am so, so proud of what I've done today. I'm practically bursting with it. I have even shown my mom what I've done. I started with [this YouTube tutorial](https://youtu.be/UliJeDbc4cw) on how to make a dropdown menu dynamic based on the selection in another dropdown. I used tips from [this StackOverflow thread](https://stackoverflow.com/q/8838648) to adapt the first dropdown into radio buttons and have it still work (using onclick instead of onchange, mostly). Also, since the YouTube video is from 2012, I refactored the code when I was done to be a little bit more concise and to use forEach instead of a for loop. It's still not the best, but I changed everything I knew I could do without breaking it.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Fix stuff! ~~1. Make the drop down box options dynamic.~~ 2. Style the radio buttons (your vision for them is amazing! You can do it!). 3. Make sure the form stays filled out when you submit it with an error. Also, continue with Learn Node for Thrift?
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
+
