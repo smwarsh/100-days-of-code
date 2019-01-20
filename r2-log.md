@@ -326,3 +326,17 @@
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
 
+
+### R2D30: Sun January 20, 2019
+
+**Today's progress**: I styled the 'expense' and 'income' radio buttons. Then, I set the default selected button to be 'expense' because without a button selected, it isn't obvious that they are even buttons, and I set the default of the dropdown to be expense categories. The dropdown previously populated with onclick, so that doesn't work with a default selection, so I had to make this workaround.
+
+**Time spent coding**: 1h 29m
+
+**Thoughts**: It took me a long time (52m, to be exact) to figure out how to make the radio buttons fill the entire width of their parent element, the `ul`. Along the way, I figured out some useful things like how to make the actual radio button itself disappear (it wasn't part of the aesthetic I was going for). I hope my UX is good... I'm afraid it won't be obvious what the radio buttons are or whatever else. It might be better if the buttons were flush with the top and it looked like each one was a tab that you could switch between. I'll keep that in mind for when I'm feeling like doing some advanced tweaks.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error. Also, continue with Learn Node for Thrift?
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
