@@ -322,10 +322,6 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Fix stuff! ~~1. Make the drop down box options dynamic.~~ 2. Style the radio buttons (your vision for them is amazing! You can do it!). 3. Make sure the form stays filled out when you submit it with an error. Also, continue with Learn Node for Thrift?
-
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
-
 
 ### R2D30: Sun January 20, 2019
 
@@ -337,6 +333,17 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error. Also, continue with Learn Node for Thrift?
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page.
+### R2D31: Mon January 21, 2019
+
+**Today's progress**: I did "Saving Lat and Lng for each store" and got about halfway through "Geocoding Data with Google Maps" but it's not working so I undid everything and I'll start that video over tomorrow.
+
+**Time spent coding**: 1h 2m
+
+**Thoughts**: I'm a little annoyed because I don't see why this isn't working.
+
+**Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
+
+**Tomorrow**: Do "Geocoding Data with Google Maps."
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error.
