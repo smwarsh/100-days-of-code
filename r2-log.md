@@ -333,7 +333,7 @@
 
 **Time spent coding**: 1h 29m
 
-**Thoughts**: It took me a long time (52m, to be exact) to figure out how to make the radio buttons fill the entire width of their parent element, the `ul`. Along the way, I figured out some useful things like how to make the actual radio button itself disappear (it wasn't part of the aesthetic I was going for). I hope my UX is good... I'm afraid it won't be obvious what the radio buttons are or whatever else. It might be better if the buttons were flush with the top and it looked like each one was a tab that you could switch between. I'll keep that in mind for when I'm feeling like doing some advanced tweaks.
+**Thoughts**: It took me a long time (52m, to be exact) to figure out how to make the radio buttons fill the entire width of their parent element, the `ul`. [This](https://answers.laserfiche.com/questions/102230/radio-button-side-by-side-width) is the answer that ended up helping. Along the way, I figured out some useful things like how to make the actual radio button itself disappear (it wasn't part of the aesthetic I was going for). I hope my UX is good... I'm afraid it won't be obvious what the radio buttons are or whatever else. It might be better if the buttons were flush with the top and it looked like each one was a tab that you could switch between. I'll keep that in mind for when I'm feeling like doing some advanced tweaks.
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
