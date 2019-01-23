@@ -344,6 +344,17 @@
 
 **Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
 
-**Tomorrow**: Do "Geocoding Data with Google Maps."
+
+### R2D32: Tue January 22, 2019
+
+**Today's progress**: I'm taking a half day today. I got to 5:49 in "Geocoding Data with Google Maps" and the same thing didn't happen like it should. I found out that the API maxed out for Google Maps and I have to set up my own. I got the answer from the Slack, and here is the link I got there: https://github.com/wesbos/learn-node#the-google-maps-api-key-isnt-working
+
+**Time spent coding**: 33m
+
+**Thoughts**: It's crazy that the answer to my problem was answered only a couple of hours ago in the Slack for the Learn Node course. I got lucky!
+
+**Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
+
+**Tomorrow**: Do the thing. Sign up for my own API key. Also look up what the heck even is Node.js.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error.
