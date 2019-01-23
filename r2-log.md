@@ -355,6 +355,17 @@
 
 **Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
 
-**Tomorrow**: Do the thing. Sign up for my own API key. Also look up what the heck even is Node.js.
+
+### R2D33: Wed January 23, 2019
+
+**Today's progress**: I asked in the Learn Node Slack about whether you have to pay for the Google Maps API, and got an answer immediately! I signed up for my own API key and finished "Geocoding Data with Google Maps." Then I did "Quick Data Visualization Tip" to finish off Module #5.
+
+**Time spent coding**: 1h 3m
+
+**Thoughts**: I want this to go faster. I want to finish my project. Should I take notes on this module? This course has 15 modules, and I'm still in module 5. This is no pace to be going at if I want to finish my project within a couple of months. The reason I'm taking this course is so I can get Thrift working and finished. I also want to have the Now That's Delicious project from this course under my belt, so I have to understand that too. I guess this is like when I'm reading two books at a time. It takes me a while but when I finish, I finish two in a short span of time. I feel like I should not be taking my sweet time on this like I am. I don't know what to do. Should I leave Now That's Delicious as it is and keep following the Learn Node course for Thrift only? I feel like the answer is yes...
+
+**Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
+
+**Tomorrow**: Look up what the heck even is Node.js. I need to be able to defend my knowledge of it in an interview. Then go through Learn Node with Thrift some more?
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error.
