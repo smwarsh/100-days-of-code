@@ -366,6 +366,17 @@
 
 **Link to work**: [dang-thats-delicious repo](https://github.com/smwarsh/dang-thats-delicious)
 
-**Tomorrow**: Look up what the heck even is Node.js. I need to be able to defend my knowledge of it in an interview. Then go through Learn Node with Thrift some more?
+
+### R2D34: Thu January 24, 2019
+
+**Today's progress**: I did "Querying our Database for Stores" with Thrift, then brainstormed and made a plan for displaying transactions.
+
+**Time spent coding**: 1h 13m
+
+**Thoughts**: I decided last night to move forward with Thrift and leave Now That's Delicious in the dust for now. The way Wes displays the stores is not at all how I want to display the transactions, so I spent at least half of my time today brainstorming how to display the data by category and in tables. I have an idea that might actually work, and I had to stop myself from starting it _right away_. I can't believe I'm not going to be able to work on it until Monday because of the Toronto trip. Ugh.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Look up what the heck even is Node.js. I need to be able to defend my knowledge of it in an interview. Watch Learn Node videos to see if I can use/need them for Thrift. They are downloaded.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error.
