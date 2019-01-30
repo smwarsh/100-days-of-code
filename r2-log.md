@@ -377,6 +377,37 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Look up what the heck even is Node.js. I need to be able to defend my knowledge of it in an interview. Watch Learn Node videos to see if I can use/need them for Thrift. They are downloaded.
+
+### R2D35: Fri January 25, 2019
+
+**Today's progress**: I went through some Learn Node videos in the car to see if I need any of them for Thrift.
+
+**Time spent coding**: 1h 4m
+
+**Thoughts**: I wish I understood all the technologies of this project better. I have no idea what parts are Express and which parts are Node, etc.
+
+
+### R2D36: Sun January 27, 2019
+
+**Today's progress**: I went through more Learn Node videos in the car to see if I need any of them for Thrift.
+
+**Time spent coding**: 1h 5m
+
+**Thoughts**: This is looking good so far. I wish I knew how much helpful advice for Thrift is going to be in the course, because I feel like I’m at a point where I can stop the videos and do all the logic for Thrift now. But I don’t want to miss any important tidbits in the videos. I think I will alternate watching the videos and doing the coding.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+
+### R2D37: Mon January 28, 2019
+
+**Today's progress**: I fixed a typo in the drop down box in the form, I cleaned up the data in MongoDB, and I tried to change the set up with my form-helpers.js but it didn’t work so I changed it back.
+
+**Time spent coding**: 40m
+
+**Thoughts**: I didn’t get to start the stuff I’m really excited about yet, but I’m looking forward to doing that tomorrow!
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Look up what the heck even is Node.js. I need to be able to defend my knowledge of it in an interview. Finish off the module (I might be done already), then pursue my idea for displaying everything by category on the main page :)
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error.
