@@ -395,8 +395,6 @@
 
 **Thoughts**: This is looking good so far. I wish I knew how much helpful advice for Thrift is going to be in the course, because I feel like I’m at a point where I can stop the videos and do all the logic for Thrift now. But I don’t want to miss any important tidbits in the videos. I think I will alternate watching the videos and doing the coding.
 
-**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
-
 
 ### R2D37: Mon January 28, 2019
 
@@ -408,6 +406,17 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Look up what the heck even is Node.js. I need to be able to defend my knowledge of it in an interview. Finish off the module (I might be done already), then pursue my idea for displaying everything by category on the main page :)
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error.
+### R2D38: Tue January 29, 2019
+
+**Today's progress**: I watched "Custom MongoDB Aggregations" and "Multiple Query Promises with Async:Await" and started to implement what I've learned.
+
+**Time spent coding**: 1h 11m
+
+**Thoughts**: The rest of the module ended up being very helpful. However, I feel overwhelmed by all the new information. The $group aggregation is not working how I expected it to. I need to poke around more at https://docs.mongodb.com/manual/reference/operator/aggregation/ and maybe Google to find out what I'm looking for.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Display everything by category on the main page using aggregations.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error. Look up what the heck even is Node.js. I need to be able to defend my knowledge of it in an interview.
