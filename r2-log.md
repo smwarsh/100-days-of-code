@@ -417,6 +417,17 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Display everything by category on the main page using aggregations.
+
+### R2D39: Wed January 30, 2019
+
+**Today's progress**: I wrote a MongoDB aggregation and successfully got all the transactions to group by category.
+
+**Time spent coding**: 59m
+
+**Thoughts**: This is good, I feel like I'm on the right track.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Use array iteration methods and other JavaScript magic to somehow render everything to the page. Maybe the magic should happen after passing "transactions" through to the pug file (which I should create tomorrow), using another helper JS file in public/javascripts.
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error. Look up what the heck even is Node.js. I need to be able to defend my knowledge of it in an interview.
