@@ -428,6 +428,50 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Use array iteration methods and other JavaScript magic to somehow render everything to the page. Maybe the magic should happen after passing "transactions" through to the pug file (which I should create tomorrow), using another helper JS file in public/javascripts.
+
+### R2D40: Thu January 31, 2019
+
+**Today's progress**: I made a plan for how to display the transactions on the page underneath their category heading and wrote some pseudocode. I also did file setup and the preliminary code for displaying transactions.
+
+**Time spent coding**: ~1h 0m (I didn't write it down)
+
+**Thoughts**: I'm excited to figure this out.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+
+### R2D41: Sat February 2, 2019
+
+**Today's progress**: I struggled with TypeError: getCategories is not a function for the whole time.
+
+**Time spent coding**: 1h 8m
+
+**Thoughts**: I can't figure out this error, and it's annoying. I just want to use a function from another file like I did with the form-helpers.js file in \_transactionForm.pug.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+
+### R2D42: Sun February 3, 2019
+
+**Today's progress**: I gave up on the external file and tried to get the function to work within the pug file. Still no luck. For the second half, I watched "Creating User Accounts" from the Learn Node course in the car on the way to a Super Bowl party.
+
+**Time spent coding**: 1h 13m
+
+**Thoughts**: I don't know why this function isn't working, but I'm getting closer to understanding. I did a lot of Googling today. The video I watched today will be useful once I get to that part of my project.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+
+### R2D43: Mon February 4, 2019
+
+**Today's progress**: I figured it out! Early on in the hour, I figured out the reason why .map() was returning an array of undefined values, thanks to [this StackOverflow answer](https://stackoverflow.com/a/37072265). I just needed to delete the {}! Then, during the rest of the time, I figured out how to display everything to the page.
+
+**Time spent coding**: 1h 9m
+
+**Thoughts**: Awesome! I mean, it looks really messy and I think the code is messy too, but it feels really good to succeed after days of struggle.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: What's next? Make the prices display as prices. Make the dates display as clean dates (without the timestamp). Make the tables look... normal (this part can wait till later). Remove the group name from the category title. Figure out how to use an external JS function. Ask Jared for help? Catch up on Twitter. Make sure the form stays filled out when you submit it with an error, now that you've learned how to do that from Learn Node. There is so much to do!
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error. Look up what the heck even is Node.js. I need to be able to defend my knowledge of it in an interview.
