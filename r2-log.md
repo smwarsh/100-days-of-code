@@ -472,6 +472,19 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: What's next? Make the prices display as prices. Make the dates display as clean dates (without the timestamp). Make the tables look... normal (this part can wait till later). Remove the group name from the category title. Figure out how to use an external JS function. Ask Jared for help? Catch up on Twitter. Make sure the form stays filled out when you submit it with an error, now that you've learned how to do that from Learn Node. There is so much to do!
+
+### R2D44: Wed February 6, 2019
+
+**Today's progress**: Yesterday I took a mental health day. Today, I set the program to display the dates and prices properly. I also put all the functions in display.js that I hope to eventually use, once I figure out the "is not a function" TypeError. I messaged some with Jared, and he is taking a look at this issue. I did a CodePen challenge that Jared sent me.
+
+**Time spent coding**: 1h 16m
+
+**Thoughts**: It is cool for the dates and prices to be displaying properly, but I wish these functions could be in a different file, not directly in the pug file. I mean, it works for now, but the code won't be this short forever. The CodePen challenge was a nice break from the project, and I'm glad Jared shared it with me. I didn't refactor it, but I should have. I think the code would be a lot less primitive if I did. But lunch was about to end, so I didn't have a lot of time.
+
+**Links to work**:
+1. [Thrift](https://github.com/smwarsh/thrift)
+2. [Merge Users on CodePen](https://codepen.io/smwarsh/pen/zePrWB)
+
+**Tomorrow**: What's next? Make the tables look... normal (this part can wait till later). Remove the group name from the category title. _Figure out how to use an external JS function. Google Hangout with Jared at 5pm ET._ Make sure the form stays filled out when you submit it with an error, now that you've learned how to do that from Learn Node. There is so much to do!
 
 **Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error. Look up what the heck even is Node.js. I need to be able to defend my knowledge of it in an interview.
