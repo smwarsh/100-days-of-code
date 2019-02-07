@@ -485,6 +485,17 @@
 1. [Thrift](https://github.com/smwarsh/thrift)
 2. [Merge Users on CodePen](https://codepen.io/smwarsh/pen/zePrWB)
 
-**Tomorrow**: What's next? Make the tables look... normal (this part can wait till later). Remove the group name from the category title. _Figure out how to use an external JS function. Google Hangout with Jared at 5pm ET._ Make sure the form stays filled out when you submit it with an error, now that you've learned how to do that from Learn Node. There is so much to do!
 
-**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error. Look up what the heck even is Node.js. I need to be able to defend my knowledge of it in an interview.
+### R2D45: Thu February 7, 2019
+
+**Today's progress**: I wrote a draft of a function to handle printing category names. I started setting up the form so it fills itself with info the user has already entered (like when they hit submit but there is a validation error). Jared helped me a lot with finding out how to use external JavaScript in pug. We had a call and he taught me how to pull and merge and work with branches in Git in the command line, and we made some fixes to the code he changed.
+
+**Time spent coding**: 1h 30m
+
+**Thoughts**: Today was good and productive. I'm glad I accomplished the goal of displaying everything on the page. Now I'm just about back where I was in - what was it, November? October? - when I had to stop and go learn something new (Node.js, namely).
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Watch Learn Node videos on the plane, starting with #24.
+
+**Ideas**: Change website to use a WordPress CMS. Implement Web Mentions once I get my website on a WordPress CMS. Learn about service workers, and implement them. Do a 3-5 hour personal code-a-thon once in every 30 days (Eric's idea). Sign into the Women Who Code Slack workspace. Do the Terminal tutorial that Jared sent me. Implement DRY for isolateGroupByRange functionality, somehow... Learn CSS Grid. Fix nav bar on home page of website. Fix Warner page. Add top & bottom margin to code snippets on blog page. Fix stuff! ~~1. Make the drop down box options dynamic.~~ ~~2. Style the radio buttons (your vision for them is amazing! You can do it!).~~ 3. Make sure the form stays filled out when you submit it with an error. Look up what the heck even is Node.js. I need to be able to defend my knowledge of it in an interview. Make the tables look... normal (this part can wait till later). Remove the group name from the category title. Make sure the form stays filled out when you submit it with an error, now that you've learned how to do that from Learn Node. Sign up for Trello and start using it. Follow the Node course with Thrift, so I can set up editing. 
