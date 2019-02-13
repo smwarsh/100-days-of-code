@@ -496,4 +496,15 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Watch Learn Node videos on the plane, starting with #24.
+
+### R2D46: Tue February 12, 2019
+
+**Today's progress**: I made an account on Trello and set up a couple of boards: Thrift, Website, 100 Days of Code, and Job Search. I populated them too, with the ideas from my "Ideas" sections of this file, which I then deleted. I watched 3 videos from Module #8 of Learn Node.
+
+**Time spent coding**: 1h 6m
+
+**Thoughts**: I'm excited to be using Trello. These videos aren't very applicable at the moment. I went to Quebec this past weekend, and I was set to code on the plane but I forgot that my earbuds only connect to my phone, not the aux port on my computer. So I wasn't able to code like I wanted to. However, I did have a productive conversation on Sunday with Zoe and Maddy about steps toward getting a job as a front end engineer, so I did do a bit of "coding" there.
+
+**Link to work**: [Trello](https://trello.com/stephwarsh)
+
+**Tomorrow**: Finish Learn Node Module #8, starting with video #27. Then follow the Node course to set up editing.
