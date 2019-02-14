@@ -518,4 +518,15 @@
 
 **Link to work**: [Trello](https://trello.com/stephwarsh)
 
-**Tomorrow**: Job search stuff & set up at the Sparta Library after work.
+
+### R2D48: Thu February 14, 2019
+
+**Today's progress**: I spent most of my time looking up and reading typical front end developer job interview questions. I bookmarked a lot of good sites.
+
+**Time spent coding**: 1h 42m
+
+**Thoughts**: I'm still unsure if this should count as a day of coding or not, but I don't have much of a choice. I think if I'm going to get this done, I have to work it in with my coding. Coming to work at the Sparta Library was a good idea.
+
+**Link to work**: n/a
+
+**Tomorrow**: Do Module #4 of Learn Node with Thrift
