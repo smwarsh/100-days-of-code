@@ -507,4 +507,15 @@
 
 **Link to work**: [Trello](https://trello.com/stephwarsh)
 
-**Tomorrow**: Finish Learn Node Module #8, starting with video #27. Then follow the Node course to set up editing.
+
+### R2D47: Wed February 13, 2019
+
+**Today's progress**: I finished watching Module #8 of Learn Node. I continued doing Module #4 videos with Thrift after a long hiatus. I forgot I already did "Querying our Database for Stores" so I did that, then I started "Creating an Editing Flow for Stores" and immediately ran into a problem with the way I've set up Thrift to display things. I needed to rewatch "Uploading and Resizing Images with Middleware" to figure out how to use uuid, then I added "id" to my Transaction Schema so I could have a unique ID on each transaction. Then I added an edit icon and link to each `tr` for displaying transactions.
+
+**Time spent coding**: 1h 21m
+
+**Thoughts**: I love Trello! I'm more motivated to code now, which I'm sure is temporary, but still. I got a lot done today and I felt organized doing it.
+
+**Link to work**: [Trello](https://trello.com/stephwarsh)
+
+**Tomorrow**: Job search stuff & set up at the Sparta Library after work.
