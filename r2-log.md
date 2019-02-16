@@ -516,7 +516,7 @@
 
 **Thoughts**: I love Trello! I'm more motivated to code now, which I'm sure is temporary, but still. I got a lot done today and I felt organized doing it.
 
-**Link to work**: [Trello](https://trello.com/stephwarsh)
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
 
 ### R2D48: Thu February 14, 2019
@@ -527,6 +527,15 @@
 
 **Thoughts**: I'm still unsure if this should count as a day of coding or not, but I don't have much of a choice. I think if I'm going to get this done, I have to work it in with my coding. Coming to work at the Sparta Library was a good idea.
 
-**Link to work**: n/a
 
-**Tomorrow**: Do Module #4 of Learn Node with Thrift
+### R2D49: Feb February 15, 2019
+
+**Today's progress**: I cleaned out my database and added some new transactions. I started going through "Creating an Editing Flow for Stores" but didn't get very far because I'm having a lot of trouble. Mostly, with autofilling the date input. I can either get it to show today's date or the transaction's date (the latter not reliably). I found out that all my transactions had the same "unique" ID, so I had to use `npm outdated` to check for the current version of uuid, then manually type that into package.json, then `npm update uuid`, then change the code from `uuid.v4()` to `uuidv4()` and change the `require` statement. Now I think the IDs are working, but the date still isn't. For some reason, when I edit something, the date is stuck on 2/15 (even though at this point it was 2/16 and the transactions I was looking at were from other days)...
+
+**Time spent coding**: 1h 36m
+
+**Thoughts**: I am exhausted but still got sucked into the problem solving of this troubleshooting. I hope to figure it out soon.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: If in the car: watch videos. If at home: do Module #4 of Learn Node with Thrift. Redo database AGAIN. Figure out this date problem.
