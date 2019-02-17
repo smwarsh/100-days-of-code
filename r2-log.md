@@ -528,7 +528,7 @@
 **Thoughts**: I'm still unsure if this should count as a day of coding or not, but I don't have much of a choice. I think if I'm going to get this done, I have to work it in with my coding. Coming to work at the Sparta Library was a good idea.
 
 
-### R2D49: Feb February 15, 2019
+### R2D49: Fri February 15, 2019
 
 **Today's progress**: I cleaned out my database and added some new transactions. I started going through "Creating an Editing Flow for Stores" but didn't get very far because I'm having a lot of trouble. Mostly, with autofilling the date input. I can either get it to show today's date or the transaction's date (the latter not reliably). I found out that all my transactions had the same "unique" ID, so I had to use `npm outdated` to check for the current version of uuid, then manually type that into package.json, then `npm update uuid`, then change the code from `uuid.v4()` to `uuidv4()` and change the `require` statement. Now I think the IDs are working, but the date still isn't. For some reason, when I edit something, the date is stuck on 2/15 (even though at this point it was 2/16 and the transactions I was looking at were from other days)...
 
@@ -538,4 +538,16 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: If in the car: watch videos. If at home: do Module #4 of Learn Node with Thrift. Redo database AGAIN. Figure out this date problem.
+
+### R2D50: Sat February 16, 2019
+
+**Today's progress**: I scrapped the uuid idea and figured out how to use the automatically generated ID from MongoDB. I tried to figure out the date problem and found this helpful page: https://github.com/date-fns/date-fns/issues/489. I also redid my database entries.
+
+**Time spent coding**: 1h 2m
+
+**Thoughts**: Ooh I'm so mad about this date problem. Basically, it's in the database correctly, but when I format it to display it on the website in any way, it puts the date into GMT from ET, effectively making every date show up as the day before itself. Ugh! I'm too tired tonight to figure this out, so I'll try looking at it again tomorrow.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Do Module #4 of Learn Node with Thrift. Figure out this d a t e problem.
+
