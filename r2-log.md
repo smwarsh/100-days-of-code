@@ -560,4 +560,15 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Figure out this d a t e problem.
+
+### R2D52: Mon February 18, 2019
+
+**Today's progress**: I fixed the date problem! I tried presave and setters in the model but I ended up using a solution from the helpful thread. I had to adapt it a lot though.
+
+**Time spent coding**: 1h 22m
+
+**Thoughts**: I'm surprised and impressed with myself, that I figured this out after days of struggle, and it is the solution I was trying on my own too, not Jared's!
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Go to the library and work on career stuff.
