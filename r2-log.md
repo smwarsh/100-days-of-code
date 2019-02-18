@@ -549,5 +549,15 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Do Module #4 of Learn Node with Thrift. Figure out this d a t e problem.
 
+### R2D51: Sun February 17, 2019
+
+**Today's progress**: I tried again on the date problem and I _just can't get it_. I messaged Jared, then moved on to other stuff. I made sure the edit form auto-fills correctly (except for the date, grr), which took a bit of work, then I set it up so the form submission actually updates the transaction in the database. I finished Module #4 of Learn Node!
+
+**Time spent coding**: 1h 21m
+
+**Thoughts**: Hopefully Jared will have a breakthrough on the date thing, because I am struggling with it.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Figure out this d a t e problem.
