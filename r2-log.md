@@ -571,4 +571,15 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Go to the library and work on career stuff.
+
+### R2D53: Tue February 19, 2019
+
+**Today's progress**: I went to the library to work on The Job Hunt. I messaged a classmate from UR about job openings at their company, I sent a connection request with a note to a UR alumna working at a cool branding company, I updated my LinkedIn profile, and I started creating my old resume in InDesign (I couldn't find the old editable file).
+
+**Time spent coding**: 2h 10m
+
+**Thoughts**: There is so much to do. I wish I had my old resume file so I didn't have to start the layout from scratch. There is so much to change with the content too. I'm excited about my updated LinkedIn profile though. It's much better for my job search now, while still not screaming, "I'm trying to leave my job!"
+
+**Link to work**: [LinkedIn profile](https://www.linkedin.com/in/stephwarsh/)
+
+**Tomorrow**: Find out what's next in the modules in Learn Node to do. If nothing, start doing the MATH in this project
