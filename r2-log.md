@@ -582,4 +582,26 @@
 
 **Link to work**: [LinkedIn profile](https://www.linkedin.com/in/stephwarsh/)
 
+
+### R2D54: Wed February 20, 2019
+
+**Today's progress**: I wrote a function to sort all the transactions by date within the category (which I actually easily adapted from the old version of Thrift, which I printed out for better perusal). I wrote and implemented a function to label the categories as "Expense" or "Income" but to only print out that heading before the first category in each group.
+
+**Time spent coding**: 1h 22m
+
+**Thoughts**: I feel good about today's progress! Also, I got a bunch of messages on LinkedIn that I need to follow up on
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+
+### R2D55: Thu February 21, 2019
+
+**Today's progress**: I got my resume to an acceptable state, then responded to everyone who messaged me on LinkedIn.
+
+**Time spent coding**: 1h 40m
+
+**Thoughts**: I am totally unqualified for these jobs, but I bet if I were a man, I would barge ahead. So that's what I will do. I couldn't help myself from talking myself down a little in my email to Kyle Ryan, which I now regret. Hopefully it doesn't affect his reaction. I'm learning.
+
+**Link to work**: [Resume](https://drive.google.com/open?id=0B9gEPCvh7TSwVUNTOWUwb2pjR0NvR29CTDV1cnlIblhCZWpJ)
+
 **Tomorrow**: Find out what's next in the modules in Learn Node to do. If nothing, start doing the MATH in this project
