@@ -604,4 +604,4 @@
 
 **Link to work**: [Resume](https://drive.google.com/open?id=0B9gEPCvh7TSwVUNTOWUwb2pjR0NvR29CTDV1cnlIblhCZWpJ)
 
-**Tomorrow**: Find out what's next in the modules in Learn Node to do. If nothing, start doing the MATH in this project
+**Tomorrow**: Watch Module #9 in Learn Node while on the road
