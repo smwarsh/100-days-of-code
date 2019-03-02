@@ -615,4 +615,15 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Make sumOfCategory method and put it in the Total row.
+
+### R2D57: Sat March 2, 2019
+
+**Today's progress**: I wrote sumOfCategory and sumOfGroup.
+
+**Time spent coding**: 56m
+
+**Thoughts**: These functions need to be refactored, but they work for now. I implemented them so easily, thanks to the fact that I already wrote them when I was working on the previous version of Thrift.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Continue with the maths!
