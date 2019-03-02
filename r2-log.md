@@ -604,4 +604,15 @@
 
 **Link to work**: [Resume](https://drive.google.com/open?id=0B9gEPCvh7TSwVUNTOWUwb2pjR0NvR29CTDV1cnlIblhCZWpJ)
 
-**Tomorrow**: Watch Module #9 in Learn Node while on the road
+
+### R2D56: Fri March 1, 2019
+
+**Today's progress**: I fixed up the tables of transactions and added a Total row.
+
+**Time spent coding**: 58m
+
+**Thoughts**: I stopped counting job search as Days of Code and that's pretty much all I did for the past week... I am glad to get back to Thrift after an extended hiatus, even though it's almost 1:00 AM.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: Make sumOfCategory method and put it in the Total row.
