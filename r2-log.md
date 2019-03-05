@@ -626,4 +626,26 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: Continue with the maths!
+
+### R2D58: Sun March 3, 2019
+
+**Today's progress**: I wrote a function to calculate the total gain (income minus expense). I was so sleepy that I watched Learn Node videos the rest of the time.
+
+**Time spent coding**: 45m
+
+**Thoughts**: Mom came in to talk to me and I was enjoying talking to her, so I didn't finish my hour.
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+
+### R2D59: Mon March 4, 2019
+
+**Today's progress**: I looked up different layouts/formats for spending trackers. At night, I worked a while on preparing for my interview on Wednesday.
+
+**Time spent coding**: 30m + 1h 30m
+
+**Thoughts**: I'm not doing a very good job with 100 Days of Code right now. This job search is totally throwing it off, and I don't know whether to count it as part of 100DoC or not.
+
+**Link to work**: n/a
+
+**Tomorrow**: Change resume on website.
