@@ -648,4 +648,15 @@
 
 **Link to work**: n/a
 
-**Tomorrow**: Change resume on website.
+
+### R2D59.5: Tue March 5, 2019
+
+**Today's progress**: I changed my resume on my website to the updated version at lunch. Then I _completely_ forgot to do the rest of my hour of code at night.
+
+**Time spent coding**: 19m
+
+**Thoughts**: I wonder when I'm going to get that webinar from Tech Ladies so I can really update my resume to be nice.
+
+**Link to work**: [My website repo](https://github.com/smwarsh/steph-warsh)
+
+**Tomorrow**: Interview
