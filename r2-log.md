@@ -659,4 +659,15 @@
 
 **Link to work**: [My website repo](https://github.com/smwarsh/steph-warsh)
 
-**Tomorrow**: Interview
+
+### R2D60: Mon April 8, 2019
+
+**Today's progress**: I did "Uploading and Resizing Images with Middleware" for Dang That's Delicious, including updating and fixing uuid, using everything I wrote in Day 33 of this round.
+
+**Time spent coding**: 1h 20m
+
+**Thoughts**: Thank goodness I wrote down how I updated uuid last time! I didn't have to look anything up this time, and it works perfectly. Thank you, past self! It feels nice to be back to coding. I've been missing it. It feels so good to have a job as a junior web developer at last(!), so I have some time to work on my independent coding again, now that the job search is over.
+
+**Link to work**: [Dang That's Delicious](https://github.com/smwarsh/dang-thats-delicious)
+
+**Tomorrow**: Blog post??? Continue with Dang That's Delicious? Talk to Jared about starting React project?
