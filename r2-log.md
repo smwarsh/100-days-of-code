@@ -670,4 +670,15 @@
 
 **Link to work**: [Dang That's Delicious](https://github.com/smwarsh/dang-thats-delicious)
 
-**Tomorrow**: Blog post??? Continue with Dang That's Delicious? Talk to Jared about starting React project?
+
+### R2D61: Wed April 10, 2019
+
+**Today's progress**: I did "Routing and Templating Single Stores" and "Using Pre-Save hooks to make Unique Slugs" for Dang That's Delicious. For some reason, the slugs aren't updating when you change the name of the store like they should.
+
+**Time spent coding**: 1h 1m
+
+**Thoughts**: I didn't code yesterday because I was reading _Howl's Moving Castle_. Oops. But I did want to code, and I got to it today! 
+
+**Link to work**: [Dang That's Delicious](https://github.com/smwarsh/dang-thats-delicious)
+
+**Tomorrow**: Fix slug problem?? Check Slack to see if anyone else has noticed this.
