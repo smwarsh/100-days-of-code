@@ -18,3 +18,21 @@
 + Convert my website to WordPress
   + Install WordPress locally so I can have a local version of my site ([How to Install WordPress Locally on Mac using MAMP](https://www.wpbeginner.com/wp-tutorials/how-to-install-wordpress-locally-on-mac-using-mamp/))
   + Set up a staging site for my website ([How to Easily Create a Staging Site for WordPress (Step by Step)](https://www.wpbeginner.com/wp-tutorials/how-to-create-staging-environment-for-a-wordpress-site/))
+
+
+### July 2, 2019
+
+**Today's Progress**:
++ Checked LinkedIn and Twitter
++ Set up some configuration for MAMP and set it so the root is /Documents/websites instead of /Applications/MAMP/htdocs/
++ Created database in phpMyAdmin and installed WordPress locally
++ Put my new WordPress site on GitHub using my own how-to on the topic (I'm so glad I made that)
+
+**Resources Used**:
++ [How to Install WordPress Locally on Mac using MAMP](https://www.wpbeginner.com/wp-tutorials/how-to-install-wordpress-locally-on-mac-using-mamp/)
++ [Quick Start with Git](http://stephwarsh.com/blog.php#git-setup)
+
+**Next Steps**:
++ Convert my website to WordPress
+  + Set up a staging site for my website ([How to Easily Create a Staging Site for WordPress (Step by Step)](https://www.wpbeginner.com/wp-tutorials/how-to-create-staging-environment-for-a-wordpress-site/))
+  + Install a theme
