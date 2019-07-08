@@ -40,3 +40,23 @@
   + Set up a staging site for my website ([How to Easily Create a Staging Site for WordPress (Step by Step)](https://www.wpbeginner.com/wp-tutorials/how-to-create-staging-environment-for-a-wordpress-site/))
   + Install a theme
 + [How to Move WordPress From Local Server to Live Site (2 Methods)](https://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/)
+
+
+### July 8, 2019
+
+**Today's Progress**:
++ Checked LinkedIn and Twitter
++ Browsed themes and looked for a good one
++ Added Shapely theme to my WordPress site - hopefully this counts as a good one!
++ Added all the demo files and plugins to the site
+
+**Resources Used**:
++ [Best Free WordPress Themes](https://colorlib.com/wp/themes/)
++ [25 Best FREE Responsive WordPress Portfolio Themes and Templates 2019](https://themegrill.com/blog/free-wordpress-portfolio-themes/)
++ [Shapely Demo](https://colorlib.com/shapely/)
+
+**Next Steps**:
++ Convert my website to WordPress
+  + Set up a staging site for my website ([How to Easily Create a Staging Site for WordPress (Step by Step)](https://www.wpbeginner.com/wp-tutorials/how-to-create-staging-environment-for-a-wordpress-site/))
+  + Edit the site to look like what I currently have, roughly
++ [How to Move WordPress From Local Server to Live Site (2 Methods)](https://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/)
