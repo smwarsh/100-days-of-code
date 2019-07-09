@@ -60,3 +60,31 @@
   + Set up a staging site for my website ([How to Easily Create a Staging Site for WordPress (Step by Step)](https://www.wpbeginner.com/wp-tutorials/how-to-create-staging-environment-for-a-wordpress-site/))
   + Edit the site to look like what I currently have, roughly
 + [How to Move WordPress From Local Server to Live Site (2 Methods)](https://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/)
+
+
+### July 9, 2019
+
+**Today's Progress**:
++ Checked LinkedIn and Twitter
++ Tried to edit Shapely in localhost but there's no content on the page when I try to edit it, even though it's filled with demo content?
++ I considered using the [Classic Editor plugin](https://wordpress.org/plugins/classic-editor/) but that doesn't seem sustainable. It's probably better to move forward with WordPress from the beginning so I don't have to do a big overhaul in 2 years
++ Talked to Ken and he gave me a theme, but turns out it's the Drupal one, so I considered buying [Pofo theme](http://preview.themeforest.net/item/pofo-creative-portfolio-and-blog-wordpress-theme/full_screen_preview/21023319?_ga=2.175255138.1329748979.1562676523-254394451.1562589196) but I'm going to move forward with free Shapely for now.
++ Found out how to get to the Shapely content - it's in the WordPress customizer thing, /steph-warsh-wp/wp-admin/customize.php
+
+**Resources Used**:
++ [Shapely Demo Content](https://colorlib.com/wp/forums/topic/shapely-demo-content/)
++ [READ THIS FIRST WordPress 5.2 Master List](https://wordpress.org/support/topic/read-this-first-wordpress-5-2-master-list/)
+
+**Next Steps**:
++ Convert my website to WordPress
+  + Use the customize section to edit Shapely to have what I want
+  + Edit the site to look like what I currently have, roughly
+  + Make 2 blog pages using the categories trick? Or keep it all as one blog?
+
+**Eventually**:
++ Convert my website to WordPress
+  + Set up a staging site for my website ([How to Easily Create a Staging Site for WordPress (Step by Step)](https://www.wpbeginner.com/wp-tutorials/how-to-create-staging-environment-for-a-wordpress-site/))
++ [How to Move WordPress From Local Server to Live Site (2 Methods)](https://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/)
+
+
+
