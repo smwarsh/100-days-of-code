@@ -80,11 +80,24 @@
   + Use the customize section to edit Shapely to have what I want
   + Edit the site to look like what I currently have, roughly
   + Make 2 blog pages using the categories trick? Or keep it all as one blog?
+  
+
+### July 11, 2019
+
+**Thoughts**: I only had about half an hour today because I got in a little late and read an article before starting.
+
+**Today's Progress**:
++ Checked LinkedIn and Twitter
++ Can't really figure out how to edit my site like I usually edit WordPress sites
++ Added the content of my blog posts, and that's about it
+
+**Next Steps**:
++ Convert my website to WordPress
+  + Edit Shapely to have what I want??? How?
+  + Edit the site to look like what I currently have, roughly
+  + Make 2 blog pages using the categories trick? Or keep it all as one blog?
 
 **Eventually**:
 + Convert my website to WordPress
   + Set up a staging site for my website ([How to Easily Create a Staging Site for WordPress (Step by Step)](https://www.wpbeginner.com/wp-tutorials/how-to-create-staging-environment-for-a-wordpress-site/))
 + [How to Move WordPress From Local Server to Live Site (2 Methods)](https://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/)
-
-
-
