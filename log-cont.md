@@ -101,3 +101,15 @@
 + Convert my website to WordPress
   + Set up a staging site for my website ([How to Easily Create a Staging Site for WordPress (Step by Step)](https://www.wpbeginner.com/wp-tutorials/how-to-create-staging-environment-for-a-wordpress-site/))
 + [How to Move WordPress From Local Server to Live Site (2 Methods)](https://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/)
+
+
+### July 15, 2019
+
+**Thoughts**: I'm super drowsy today, can't figure out how to get WordPress to look the way I know it, getting frustrated with that. I thought I knew how to export the content I'd worked on, but apparently not, and I'm too tired to look for a solution now.
+
+**Today's Progress**:
++ Checked LinkedIn and Twitter
++ Changed content on home page of WP site for my site
+
+**Next Steps**:
++ Figure out how to manipulate this theme
