@@ -113,3 +113,16 @@
 
 **Next Steps**:
 + Figure out how to manipulate this theme
+
+
+### July 16, 2019
+
+**Thoughts**: Took something like 3 months off of coding, but I can't let myself get complacent and not work on my personal development/career advancement. I came into work early to do some things for an hour. I'm so glad to be working out the kinks and getting back on track.
+
+**Today's Progress**:
++ Checked Twitter (tweeted!) and LinkedIn
++ Tried to figure out how to avoid the WYSIWYG editor, which is the only thing I've been able to find on this WP site
++ Found out that [WP Bakery Page Builder](https://wpbakery.com/) is actually a PAID plugin - $45! - so I'm going to see if I can take the file from one of my other projects
+
+**Next Steps**:
++ Add WP Bakery plugin to site
