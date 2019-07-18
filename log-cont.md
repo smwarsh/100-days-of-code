@@ -126,3 +126,21 @@
 
 **Next Steps**:
 + Add WP Bakery plugin to site
+
+
+### July 18, 2019
+
+**Today's Progress**:
++ Answered some people on Twitter
++ Caught up on LinkedIn and even posted something! About being a dev for almost 3 months now (this is my 52nd day of work)
++ Took WPBakery Page Builder from work site and installed it on my site
++ Took a bunch of files from work related to the Pofo and Pofo Child themes
++ Activated the theme license using login info from Tom
+  + Note: Ken says it's okay for me to use this stuff for my website!
+
+**Resources Used**:
++ [How to activate POFO theme license](http://wpdemos.themezaa.com/pofo/documentation/knowledgebase/start/how-to-activate-pofo-theme-license/)
+
+**Next Steps**:
++ Finally really get started on the content!
++ Install Blank Slate as page template for home page?
