@@ -144,3 +144,21 @@
 **Next Steps**:
 + Finally really get started on the content!
 + Install Blank Slate as page template for home page?
+
+
+### July 23, 2019
+
+**Today's Progress**:
++ Caught up on Twitter and LinkedIn
++ Imported demo of Pofo page and tried to make it look like I want it to... not quite there yet
++ Figured out how to add social icons to the nav bar and did that
+
+**Resources Used**:
++ [Pofo Social Icons - a way to get back to the demo](http://wpdemos.themezaa.com/pofo/social-icons/)
++ [Pofo Discussion - top question asks about making the splash image full size; might be helpful](https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944/comments?page=11)
++ [Pofo Main Header Customization](http://wpdemos.themezaa.com/pofo/documentation/knowledgebase/theme-customizer/main-header/)
+
+**Next Steps**:
++ TODO: Ask Tom for license login for WPBakery Page Builder and Slider Revolution so I can update them and resolve the insecurities on my site
++ Get the home page working
++ Write a quick ice cream blog post
