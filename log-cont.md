@@ -162,3 +162,23 @@
 + TODO: Ask Tom for license login for WPBakery Page Builder and Slider Revolution so I can update them and resolve the insecurities on my site
 + Get the home page working
 + Write a quick ice cream blog post
+
+
+### July 25, 2019
+
+**Thoughts**: I feel good about this! The home page looks like I want it to, except for fonts.
+
+**Today's Progress**:
++ Checked LinkedIn and Twitter
++ Made some edits to the home page, removed the Pofo logo, set the page as the home page of my site
+
+**Resources Used**:
++ First 2 from July 23
++ [Pofo: Setup your logo](http://wpdemos.themezaa.com/pofo/documentation/knowledgebase/logo-typography-and-colors/setup-your-logo/)
++ [WordPress: Set a Static “Home” Page (Front Page)](https://en.support.wordpress.com/pages/front-page/)
+
+**Next Steps**:
++ TODO: Ask Tom for license login for WPBakery Page Builder and Slider Revolution so I can update them and resolve the insecurities on my site
++ Write a quick ice cream blog post
++ Create contact page and portfolio page
++ Edit blog page/styles
