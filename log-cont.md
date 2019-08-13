@@ -182,3 +182,22 @@
 + Write a quick ice cream blog post
 + Create contact page and portfolio page
 + Edit blog page/styles
+
+
+### August 13, 2019
+
+**Thoughts**: Took a few weeks off because of various reasons, mostly feeling sick and tired. Good to be back and making some progress.
+
+**Today's Progress**:
++ Checked Twitter and LinkedIn
++ Separated "Ice Cream" and "Web Development" blogs on my website and put them on Pofo "Blog full width" pages. Soon I will have to style the pages to my own liking - and add ice cream posts!
+
+**Resources Used**:
++ [How to Create Multiple Blog Pages in a Single WordPress Website?](https://wpblogdesigner.net/create-multiple-blog-pages-in-wordpress/)
++ I used the above to jog my memory but ended up doing it completely differently once I remembered how I did it before. So I guess I used **my brain** as a resource!
+
+**Next Steps**:
++ Add a Portfolio page to my site - Pofo doesn't have any like the layout I currently have, *and* it's all picture based! So I'll have to fiure something out.
++ Add some ice cream blog posts
++ Style blog pages, removing elements I don't want and such.
++ Add contact page
