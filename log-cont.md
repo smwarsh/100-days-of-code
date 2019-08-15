@@ -201,3 +201,20 @@
 + Add some ice cream blog posts
 + Style blog pages, removing elements I don't want and such.
 + Add contact page
+
+
+### August 15, 2019
+
+**Thoughts**: I don't know why I didn't want to do this today. But I came in and did it anyway, and I made some progress. There is so far to go, though. And working on the portfolio page really pushes home the fact that I have basically nothing in my portfolio. It makes me feel better about the fact that I'm taking some freelance work. And makes me wonder if I can put all the websites I've made for work on here. I doubt it.
+
+**Today's Progress**:
++ Checked Twitter and LinkedIn
++ Wrote an ice cream post
++ Added a portfolio page
++ Added Thrift as a portfolio post... I'm kind of ashamed I never finished this project.
+
+**Next Steps**:
++ Add content to portfolio page
++ Add more ice cream blog posts
++ Styling!
++ Add contact page
