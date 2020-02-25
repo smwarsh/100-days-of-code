@@ -681,4 +681,16 @@
 
 **Link to work**: [Dang That's Delicious](https://github.com/smwarsh/dang-thats-delicious)
 
-**Tomorrow**: Fix slug problem?? Check Slack to see if anyone else has noticed this.
+---
+
+### R2D62: Mon February 24, 2020
+
+**Today's progress**: I read through this entire log to remind myself where I am at with Thrift. I went through my code for Thrift, updated the README and some comments, and looked at the application in the browser, all to refamiliarize myself with it. I found my boards on Trello and read through those and the last few things I did in my coding notebook. I looked at my personal website and read through my blog posts.
+
+**Time spent coding**: 2h 5m
+
+**Thoughts**: Yes, I will shamelessly start this again after almost a year. I miss working with code like this!
+
+**Link to work**: [Thrift](https://github.com/smwarsh/thrift)
+
+**Tomorrow**: ~~Write a blog post?~~ Start working on implementing a date range functionality for Thrift.
