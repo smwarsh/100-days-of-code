@@ -693,4 +693,18 @@
 
 **Link to work**: [Thrift](https://github.com/smwarsh/thrift)
 
-**Tomorrow**: ~~Write a blog post?~~ Start working on implementing a date range functionality for Thrift.
+
+### R2D63: Tue February 25, 2020
+
+**Today's progress**: I learned how to make a branch of a GitHub repository on the command line, push local branch edits to the remote branch (on GitHub), then merge it to the master branch and push that to GitHub too. I wrote a how-to blog post about it and put it on my website. I resolved 3 security vulnerabilities in my dependencies that way and I fixed some more by merging pull requests from a bot for the fixes. I started the day with 15 vulnerabilities, and now I'm down to 6.
+
+**Time spent coding**: 3h
+
+**Thoughts**: I told myself not to write a blog post today, but look what I did anyway. It's mostly as a note-to-self, because the last GitHub one has proved so useful to me, but it feels good to update my website, for SEO reasons. And it feels good to get rid of those security vulnerabilities, because some of them have been sitting there for over a year. I hope nothing broke, but it shouldn't, because none of them were major updates (although many of them were significant minor updates! Oops). I was testing it at first, but it's hard to know what to test since I've been away from the project for so long.
+
+**Links to work**:
+1. [Thrift](https://github.com/smwarsh/thrift)
+2. [Blog post: "Make and Use a Git Branch in Terminal"](https://www.stephwarsh.com/blog.php#git-branch)
+3. [Personal website repo](https://github.com/smwarsh/steph-warsh)
+
+**Next**: Resolve the remaining security vulnerabilities. Break this down into small tasks: "Start working on implementing a date range functionality for Thrift."
