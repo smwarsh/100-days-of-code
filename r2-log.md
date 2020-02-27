@@ -708,3 +708,17 @@
 3. [Personal website repo](https://github.com/smwarsh/steph-warsh)
 
 **Next**: Resolve the remaining security vulnerabilities. Break this down into small tasks: "Start working on implementing a date range functionality for Thrift."
+
+
+### R2D64: Wed February 26, 2020
+
+**Today's progress**: I updated the nodemon package using `npm install nodemon` instead of `npm update nodemon` because the package is under `devDependencies` in package.json, not `dependencies` like the ones from yesterday. However, it failed to resolve any more security vulnerabilities. I did some writing about my project, asked Zoe for input, and talked to Paul about working together on this.
+
+**Time spent coding**: 2h
+
+**Thoughts**: Today was a tough mental health day. I forgot to take my medications in the morning, so that screwed up my emotions for the day. I got frustrated when the same techniques I used yesterday to resolve security vulnerabilities didn't work. I decided to move on to something else, and I started thinking about the next feature in Thrift. I felt better brainstorming for that.
+
+**Links to work**:
+1. [Thrift](https://github.com/smwarsh/thrift)
+
+**Next**: Meet with Paul to set up collaboration. In the meantime... consult Trello for ideas?
